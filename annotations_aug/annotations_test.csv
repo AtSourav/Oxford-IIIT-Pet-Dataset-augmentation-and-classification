@@ -1,1451 +1,1451 @@
-,Image file,Pet,Class id,Species id,Breed id
-0,Ragdoll_250.jpg,Cat: ragdoll,27,1,9
-1,wheaten_terrier_93.jpg,Dog: wheaten terrier,36,2,24
-2,shiba_inu_203.jpg,Dog: shiba inu,32,2,22
-3,Maine_Coon_23.jpg,Cat: maine coon,21,1,7
-4,beagle_114.jpg,Dog: beagle,5,2,4
-5,newfoundland_110.jpg,Dog: newfoundland,23,2,16
-6,Bengal_45.jpg,Cat: bengal,6,1,2
-7,Bombay_6.jpg,Cat: bombay,8,1,4
-8,Sphynx_134.jpg,Cat: sphynx,34,1,12
-9,samoyed_139.jpg,Dog: samoyed,30,2,20
-10,Siamese_57.jpg,Cat: siamese,33,1,11
-11,newfoundland_128.jpg,Dog: newfoundland,23,2,16
-12,Ragdoll_93.jpg,Cat: ragdoll,27,1,9
-13,keeshond_129.jpg,Dog: keeshond,19,2,13
-14,wheaten_terrier_75.jpg,Dog: wheaten terrier,36,2,24
-15,staffordshire_bull_terrier_180.jpg,Dog: staffordshire bull terrier,35,2,23
-16,Birman_7.jpg,Cat: birman,7,1,3
-17,Ragdoll_166.jpg,Cat: ragdoll,27,1,9
-18,chihuahua_112.jpg,Dog: chihuahua,11,2,6
-19,japanese_chin_52.jpg,Dog: japanese chin,18,2,12
-20,Russian_Blue_147.jpg,Cat: russian blue,28,1,10
-21,basset_hound_85.jpg,Dog: basset hound,4,2,3
-22,pug_129.jpg,Dog: pug,26,2,18
-23,leonberger_193.jpg,Dog: leonberger,20,2,14
-24,newfoundland_11.jpg,Dog: newfoundland,23,2,16
-25,miniature_pinscher_191.jpg,Dog: miniature pinscher,22,2,15
-26,english_setter_21.jpg,Dog: english setter,14,2,8
-27,Ragdoll_40.jpg,Cat: ragdoll,27,1,9
-28,great_pyrenees_77.jpg,Dog: great pyrenees,16,2,10
-29,basset_hound_67.jpg,Dog: basset hound,4,2,3
-30,Persian_111.jpg,Cat: persian,24,1,8
-31,american_bulldog_116.jpg,Dog: american bulldog,2,2,1
-32,leonberger_179.jpg,Dog: leonberger,20,2,14
-33,keeshond_37.jpg,Dog: keeshond,19,2,13
-34,Ragdoll_257.jpg,Cat: ragdoll,27,1,9
-35,Sphynx_58.jpg,Cat: sphynx,34,1,12
-36,boxer_92.jpg,Dog: boxer,9,2,5
-37,Bombay_68.jpg,Cat: bombay,8,1,4
-38,pug_158.jpg,Dog: pug,26,2,18
-39,american_pit_bull_terrier_38.jpg,Dog: american pit bull terrier,3,2,2
-40,Ragdoll_174.jpg,Cat: ragdoll,27,1,9
-41,Sphynx_53.jpg,Cat: sphynx,34,1,12
-42,yorkshire_terrier_130.jpg,Dog: yorkshire terrier,37,2,25
-43,german_shorthaired_124.jpg,Dog: german shorthaired,15,2,9
-44,english_setter_2.jpg,Dog: english setter,14,2,8
-45,american_pit_bull_terrier_106.jpg,Dog: american pit bull terrier,3,2,2
-46,samoyed_17.jpg,Dog: samoyed,30,2,20
-47,pug_178.jpg,Dog: pug,26,2,18
-48,great_pyrenees_166.jpg,Dog: great pyrenees,16,2,10
-49,Persian_163.jpg,Cat: persian,24,1,8
-50,Siamese_100.jpg,Cat: siamese,33,1,11
-51,Abyssinian_196.jpg,Cat: abyssinian,1,1,1
-52,beagle_123.jpg,Dog: beagle,5,2,4
-53,american_bulldog_151.jpg,Dog: american bulldog,2,2,1
-54,British_Shorthair_104.jpg,Cat: british shorthair,10,1,5
-55,german_shorthaired_107.jpg,Dog: german shorthaired,15,2,9
-56,Sphynx_239.jpg,Cat: sphynx,34,1,12
-57,pug_10.jpg,Dog: pug,26,2,18
-58,german_shorthaired_68.jpg,Dog: german shorthaired,15,2,9
-59,Maine_Coon_104.jpg,Cat: maine coon,21,1,7
-60,Russian_Blue_45.jpg,Cat: russian blue,28,1,10
-61,american_bulldog_147.jpg,Dog: american bulldog,2,2,1
-62,leonberger_22.jpg,Dog: leonberger,20,2,14
-63,yorkshire_terrier_46.jpg,Dog: yorkshire terrier,37,2,25
-64,basset_hound_71.jpg,Dog: basset hound,4,2,3
-65,great_pyrenees_72.jpg,Dog: great pyrenees,16,2,10
-66,Russian_Blue_83.jpg,Cat: russian blue,28,1,10
-67,basset_hound_196.jpg,Dog: basset hound,4,2,3
-68,chihuahua_37.jpg,Dog: chihuahua,11,2,6
-69,Sphynx_74.jpg,Cat: sphynx,34,1,12
-70,american_bulldog_175.jpg,Dog: american bulldog,2,2,1
-71,British_Shorthair_213.jpg,Cat: british shorthair,10,1,5
-72,Egyptian_Mau_192.jpg,Cat: egyptian mau,12,1,6
-73,scottish_terrier_42.jpg,Dog: scottish terrier,31,2,21
-74,staffordshire_bull_terrier_29.jpg,Dog: staffordshire bull terrier,35,2,23
-75,staffordshire_bull_terrier_171.jpg,Dog: staffordshire bull terrier,35,2,23
-76,boxer_200.jpg,Dog: boxer,9,2,5
-77,saint_bernard_170.jpg,Dog: saint bernard,29,2,19
-78,Bombay_96.jpg,Cat: bombay,8,1,4
-79,Abyssinian_215.jpg,Cat: abyssinian,1,1,1
-80,scottish_terrier_33.jpg,Dog: scottish terrier,31,2,21
-81,Persian_122.jpg,Cat: persian,24,1,8
-82,english_cocker_spaniel_1.jpg,Dog: english cocker spaniel,13,2,7
-83,British_Shorthair_57.jpg,Cat: british shorthair,10,1,5
-84,japanese_chin_169.jpg,Dog: japanese chin,18,2,12
-85,Siamese_66.jpg,Cat: siamese,33,1,11
-86,scottish_terrier_17.jpg,Dog: scottish terrier,31,2,21
-87,keeshond_145.jpg,Dog: keeshond,19,2,13
-88,Abyssinian_15.jpg,Cat: abyssinian,1,1,1
-89,pug_52.jpg,Dog: pug,26,2,18
-90,boxer_60.jpg,Dog: boxer,9,2,5
-91,Persian_102.jpg,Cat: persian,24,1,8
-92,chihuahua_141.jpg,Dog: chihuahua,11,2,6
-93,Siamese_184.jpg,Cat: siamese,33,1,11
-94,Maine_Coon_75.jpg,Cat: maine coon,21,1,7
-95,boxer_160.jpg,Dog: boxer,9,2,5
-96,wheaten_terrier_60.jpg,Dog: wheaten terrier,36,2,24
-97,samoyed_121.jpg,Dog: samoyed,30,2,20
-98,Birman_175.jpg,Cat: birman,7,1,3
-99,keeshond_181.jpg,Dog: keeshond,19,2,13
-100,chihuahua_11.jpg,Dog: chihuahua,11,2,6
-101,scottish_terrier_52.jpg,Dog: scottish terrier,31,2,21
-102,saint_bernard_29.jpg,Dog: saint bernard,29,2,19
-103,saint_bernard_67.jpg,Dog: saint bernard,29,2,19
-104,Bombay_192.jpg,Cat: bombay,8,1,4
-105,Birman_1.jpg,Cat: birman,7,1,3
-106,american_bulldog_90.jpg,Dog: american bulldog,2,2,1
-107,Abyssinian_6.jpg,Cat: abyssinian,1,1,1
-108,havanese_70.jpg,Dog: havanese,17,2,11
-109,newfoundland_96.jpg,Dog: newfoundland,23,2,16
-110,miniature_pinscher_40.jpg,Dog: miniature pinscher,22,2,15
-111,Egyptian_Mau_44.jpg,Cat: egyptian mau,12,1,6
-112,boxer_76.jpg,Dog: boxer,9,2,5
-113,British_Shorthair_186.jpg,Cat: british shorthair,10,1,5
-114,basset_hound_11.jpg,Dog: basset hound,4,2,3
-115,newfoundland_186.jpg,Dog: newfoundland,23,2,16
-116,pug_166.jpg,Dog: pug,26,2,18
-117,chihuahua_159.jpg,Dog: chihuahua,11,2,6
-118,Sphynx_136.jpg,Cat: sphynx,34,1,12
-119,boxer_108.jpg,Dog: boxer,9,2,5
-120,staffordshire_bull_terrier_40.jpg,Dog: staffordshire bull terrier,35,2,23
-121,Abyssinian_54.jpg,Cat: abyssinian,1,1,1
-122,american_bulldog_115.jpg,Dog: american bulldog,2,2,1
-123,keeshond_22.jpg,Dog: keeshond,19,2,13
-124,english_setter_177.jpg,Dog: english setter,14,2,8
-125,Maine_Coon_61.jpg,Cat: maine coon,21,1,7
-126,Abyssinian_63.jpg,Cat: abyssinian,1,1,1
-127,american_bulldog_102.jpg,Dog: american bulldog,2,2,1
-128,great_pyrenees_4.jpg,Dog: great pyrenees,16,2,10
-129,boxer_104.jpg,Dog: boxer,9,2,5
-130,chihuahua_90.jpg,Dog: chihuahua,11,2,6
-131,Russian_Blue_95.jpg,Cat: russian blue,28,1,10
-132,Birman_66.jpg,Cat: birman,7,1,3
-133,beagle_91.jpg,Dog: beagle,5,2,4
-134,chihuahua_166.jpg,Dog: chihuahua,11,2,6
-135,beagle_28.jpg,Dog: beagle,5,2,4
-136,Bengal_53.jpg,Cat: bengal,6,1,2
-137,american_bulldog_186.jpg,Dog: american bulldog,2,2,1
-138,beagle_139.jpg,Dog: beagle,5,2,4
-139,american_pit_bull_terrier_202.jpg,Dog: american pit bull terrier,3,2,2
-140,pug_136.jpg,Dog: pug,26,2,18
-141,Persian_9.jpg,Cat: persian,24,1,8
-142,Abyssinian_16.jpg,Cat: abyssinian,1,1,1
-143,american_bulldog_100.jpg,Dog: american bulldog,2,2,1
-144,pug_98.jpg,Dog: pug,26,2,18
-145,Russian_Blue_137.jpg,Cat: russian blue,28,1,10
-146,Abyssinian_195.jpg,Cat: abyssinian,1,1,1
-147,yorkshire_terrier_23.jpg,Dog: yorkshire terrier,37,2,25
-148,american_pit_bull_terrier_16.jpg,Dog: american pit bull terrier,3,2,2
-149,beagle_32.jpg,Dog: beagle,5,2,4
-150,miniature_pinscher_7.jpg,Dog: miniature pinscher,22,2,15
-151,english_cocker_spaniel_180.jpg,Dog: english cocker spaniel,13,2,7
-152,havanese_37.jpg,Dog: havanese,17,2,11
-153,Russian_Blue_99.jpg,Cat: russian blue,28,1,10
-154,newfoundland_23.jpg,Dog: newfoundland,23,2,16
-155,Maine_Coon_21.jpg,Cat: maine coon,21,1,7
-156,keeshond_43.jpg,Dog: keeshond,19,2,13
-157,saint_bernard_35.jpg,Dog: saint bernard,29,2,19
-158,Birman_16.jpg,Cat: birman,7,1,3
-159,Bengal_147.jpg,Cat: bengal,6,1,2
-160,Bengal_137.jpg,Cat: bengal,6,1,2
-161,english_setter_64.jpg,Dog: english setter,14,2,8
-162,yorkshire_terrier_164.jpg,Dog: yorkshire terrier,37,2,25
-163,Sphynx_54.jpg,Cat: sphynx,34,1,12
-164,pug_48.jpg,Dog: pug,26,2,18
-165,pomeranian_59.jpg,Dog: pomeranian,25,2,17
-166,japanese_chin_7.jpg,Dog: japanese chin,18,2,12
-167,Russian_Blue_192.jpg,Cat: russian blue,28,1,10
-168,yorkshire_terrier_124.jpg,Dog: yorkshire terrier,37,2,25
-169,staffordshire_bull_terrier_101.jpg,Dog: staffordshire bull terrier,35,2,23
-170,Russian_Blue_181.jpg,Cat: russian blue,28,1,10
-171,Bombay_64.jpg,Cat: bombay,8,1,4
-172,Bengal_9.jpg,Cat: bengal,6,1,2
-173,Persian_13.jpg,Cat: persian,24,1,8
-174,Bombay_93.jpg,Cat: bombay,8,1,4
-175,Abyssinian_154.jpg,Cat: abyssinian,1,1,1
-176,pomeranian_76.jpg,Dog: pomeranian,25,2,17
-177,boxer_40.jpg,Dog: boxer,9,2,5
-178,great_pyrenees_15.jpg,Dog: great pyrenees,16,2,10
-179,British_Shorthair_230.jpg,Cat: british shorthair,10,1,5
-180,Egyptian_Mau_110.jpg,Cat: egyptian mau,12,1,6
-181,english_setter_150.jpg,Dog: english setter,14,2,8
-182,Bengal_75.jpg,Cat: bengal,6,1,2
-183,pug_66.jpg,Dog: pug,26,2,18
-184,great_pyrenees_56.jpg,Dog: great pyrenees,16,2,10
-185,miniature_pinscher_147.jpg,Dog: miniature pinscher,22,2,15
-186,Egyptian_Mau_9.jpg,Cat: egyptian mau,12,1,6
-187,Russian_Blue_85.jpg,Cat: russian blue,28,1,10
-188,german_shorthaired_157.jpg,Dog: german shorthaired,15,2,9
-189,Persian_37.jpg,Cat: persian,24,1,8
-190,japanese_chin_159.jpg,Dog: japanese chin,18,2,12
-191,pug_33.jpg,Dog: pug,26,2,18
-192,american_pit_bull_terrier_134.jpg,Dog: american pit bull terrier,3,2,2
-193,great_pyrenees_53.jpg,Dog: great pyrenees,16,2,10
-194,scottish_terrier_6.jpg,Dog: scottish terrier,31,2,21
-195,german_shorthaired_42.jpg,Dog: german shorthaired,15,2,9
-196,miniature_pinscher_124.jpg,Dog: miniature pinscher,22,2,15
-197,havanese_131.jpg,Dog: havanese,17,2,11
-198,boxer_149.jpg,Dog: boxer,9,2,5
-199,german_shorthaired_51.jpg,Dog: german shorthaired,15,2,9
-200,leonberger_140.jpg,Dog: leonberger,20,2,14
-201,Bombay_91.jpg,Cat: bombay,8,1,4
-202,leonberger_74.jpg,Dog: leonberger,20,2,14
-203,pomeranian_114.jpg,Dog: pomeranian,25,2,17
-204,wheaten_terrier_24.jpg,Dog: wheaten terrier,36,2,24
-205,Sphynx_171.jpg,Cat: sphynx,34,1,12
-206,staffordshire_bull_terrier_185.jpg,Dog: staffordshire bull terrier,35,2,23
-207,pomeranian_31.jpg,Dog: pomeranian,25,2,17
-208,boxer_194.jpg,Dog: boxer,9,2,5
-209,english_cocker_spaniel_3.jpg,Dog: english cocker spaniel,13,2,7
-210,miniature_pinscher_150.jpg,Dog: miniature pinscher,22,2,15
-211,chihuahua_115.jpg,Dog: chihuahua,11,2,6
-212,Egyptian_Mau_133.jpg,Cat: egyptian mau,12,1,6
-213,miniature_pinscher_113.jpg,Dog: miniature pinscher,22,2,15
-214,english_setter_104.jpg,Dog: english setter,14,2,8
-215,Persian_257.jpg,Cat: persian,24,1,8
-216,american_pit_bull_terrier_162.jpg,Dog: american pit bull terrier,3,2,2
-217,Egyptian_Mau_197.jpg,Cat: egyptian mau,12,1,6
-218,yorkshire_terrier_107.jpg,Dog: yorkshire terrier,37,2,25
-219,Siamese_196.jpg,Cat: siamese,33,1,11
-220,pomeranian_139.jpg,Dog: pomeranian,25,2,17
-221,great_pyrenees_84.jpg,Dog: great pyrenees,16,2,10
-222,Abyssinian_10.jpg,Cat: abyssinian,1,1,1
-223,american_pit_bull_terrier_51.jpg,Dog: american pit bull terrier,3,2,2
-224,shiba_inu_40.jpg,Dog: shiba inu,32,2,22
-225,miniature_pinscher_71.jpg,Dog: miniature pinscher,22,2,15
-226,japanese_chin_67.jpg,Dog: japanese chin,18,2,12
-227,Maine_Coon_186.jpg,Cat: maine coon,21,1,7
-228,Siamese_140.jpg,Cat: siamese,33,1,11
-229,staffordshire_bull_terrier_199.jpg,Dog: staffordshire bull terrier,35,2,23
-230,staffordshire_bull_terrier_9.jpg,Dog: staffordshire bull terrier,35,2,23
-231,havanese_99.jpg,Dog: havanese,17,2,11
-232,Abyssinian_178.jpg,Cat: abyssinian,1,1,1
-233,pug_39.jpg,Dog: pug,26,2,18
-234,boxer_4.jpg,Dog: boxer,9,2,5
-235,leonberger_59.jpg,Dog: leonberger,20,2,14
-236,german_shorthaired_54.jpg,Dog: german shorthaired,15,2,9
-237,chihuahua_184.jpg,Dog: chihuahua,11,2,6
-238,boxer_119.jpg,Dog: boxer,9,2,5
-239,havanese_89.jpg,Dog: havanese,17,2,11
-240,saint_bernard_183.jpg,Dog: saint bernard,29,2,19
-241,miniature_pinscher_3.jpg,Dog: miniature pinscher,22,2,15
-242,leonberger_194.jpg,Dog: leonberger,20,2,14
-243,shiba_inu_19.jpg,Dog: shiba inu,32,2,22
-244,Bengal_114.jpg,Cat: bengal,6,1,2
-245,Ragdoll_193.jpg,Cat: ragdoll,27,1,9
-246,great_pyrenees_153.jpg,Dog: great pyrenees,16,2,10
-247,Birman_6.jpg,Cat: birman,7,1,3
-248,chihuahua_182.jpg,Dog: chihuahua,11,2,6
-249,japanese_chin_186.jpg,Dog: japanese chin,18,2,12
-250,shiba_inu_134.jpg,Dog: shiba inu,32,2,22
-251,keeshond_6.jpg,Dog: keeshond,19,2,13
-252,Maine_Coon_269.jpg,Cat: maine coon,21,1,7
-253,leonberger_32.jpg,Dog: leonberger,20,2,14
-254,Bengal_4.jpg,Cat: bengal,6,1,2
-255,english_setter_152.jpg,Dog: english setter,14,2,8
-256,miniature_pinscher_47.jpg,Dog: miniature pinscher,22,2,15
-257,yorkshire_terrier_133.jpg,Dog: yorkshire terrier,37,2,25
-258,Abyssinian_102.jpg,Cat: abyssinian,1,1,1
-259,Persian_10.jpg,Cat: persian,24,1,8
-260,great_pyrenees_145.jpg,Dog: great pyrenees,16,2,10
-261,Persian_256.jpg,Cat: persian,24,1,8
-262,Persian_94.jpg,Cat: persian,24,1,8
-263,keeshond_64.jpg,Dog: keeshond,19,2,13
-264,basset_hound_92.jpg,Dog: basset hound,4,2,3
-265,newfoundland_133.jpg,Dog: newfoundland,23,2,16
-266,Egyptian_Mau_85.jpg,Cat: egyptian mau,12,1,6
-267,pug_4.jpg,Dog: pug,26,2,18
-268,pug_156.jpg,Dog: pug,26,2,18
-269,shiba_inu_75.jpg,Dog: shiba inu,32,2,22
-270,american_pit_bull_terrier_92.jpg,Dog: american pit bull terrier,3,2,2
-271,basset_hound_45.jpg,Dog: basset hound,4,2,3
-272,Ragdoll_186.jpg,Cat: ragdoll,27,1,9
-273,shiba_inu_41.jpg,Dog: shiba inu,32,2,22
-274,boxer_17.jpg,Dog: boxer,9,2,5
-275,chihuahua_183.jpg,Dog: chihuahua,11,2,6
-276,american_pit_bull_terrier_95.jpg,Dog: american pit bull terrier,3,2,2
-277,British_Shorthair_196.jpg,Cat: british shorthair,10,1,5
-278,leonberger_79.jpg,Dog: leonberger,20,2,14
-279,British_Shorthair_168.jpg,Cat: british shorthair,10,1,5
-280,german_shorthaired_141.jpg,Dog: german shorthaired,15,2,9
-281,Egyptian_Mau_186.png,Cat: egyptian mau,12,1,6
-282,havanese_83.jpg,Dog: havanese,17,2,11
-283,german_shorthaired_114.jpg,Dog: german shorthaired,15,2,9
-284,pug_77.jpg,Dog: pug,26,2,18
-285,Siamese_116.jpg,Cat: siamese,33,1,11
-286,havanese_162.jpg,Dog: havanese,17,2,11
-287,basset_hound_73.jpg,Dog: basset hound,4,2,3
-288,Persian_144.jpg,Cat: persian,24,1,8
-289,Persian_224.jpg,Cat: persian,24,1,8
-290,miniature_pinscher_148.jpg,Dog: miniature pinscher,22,2,15
-291,scottish_terrier_128.jpg,Dog: scottish terrier,31,2,21
-292,great_pyrenees_20.jpg,Dog: great pyrenees,16,2,10
-293,leonberger_159.jpg,Dog: leonberger,20,2,14
-294,american_pit_bull_terrier_27.jpg,Dog: american pit bull terrier,3,2,2
-295,British_Shorthair_83.jpg,Cat: british shorthair,10,1,5
-296,boxer_65.jpg,Dog: boxer,9,2,5
-297,english_setter_47.jpg,Dog: english setter,14,2,8
-298,Russian_Blue_150.jpg,Cat: russian blue,28,1,10
-299,Siamese_225.jpg,Cat: siamese,33,1,11
-300,newfoundland_196.jpg,Dog: newfoundland,23,2,16
-301,scottish_terrier_111.jpg,Dog: scottish terrier,31,2,21
-302,Bengal_101.jpg,Cat: bengal,6,1,2
-303,Russian_Blue_53.jpg,Cat: russian blue,28,1,10
-304,newfoundland_25.jpg,Dog: newfoundland,23,2,16
-305,pomeranian_199.jpg,Dog: pomeranian,25,2,17
-306,Sphynx_80.jpg,Cat: sphynx,34,1,12
-307,japanese_chin_31.jpg,Dog: japanese chin,18,2,12
-308,Birman_43.jpg,Cat: birman,7,1,3
-309,japanese_chin_160.jpg,Dog: japanese chin,18,2,12
-310,havanese_61.jpg,Dog: havanese,17,2,11
-311,Sphynx_197.jpg,Cat: sphynx,34,1,12
-312,leonberger_43.jpg,Dog: leonberger,20,2,14
-313,shiba_inu_21.jpg,Dog: shiba inu,32,2,22
-314,german_shorthaired_56.jpg,Dog: german shorthaired,15,2,9
-315,japanese_chin_12.jpg,Dog: japanese chin,18,2,12
-316,american_bulldog_46.jpg,Dog: american bulldog,2,2,1
-317,pomeranian_156.jpg,Dog: pomeranian,25,2,17
-318,havanese_110.jpg,Dog: havanese,17,2,11
-319,american_bulldog_87.jpg,Dog: american bulldog,2,2,1
-320,Russian_Blue_216.jpg,Cat: russian blue,28,1,10
-321,english_cocker_spaniel_138.jpg,Dog: english cocker spaniel,13,2,7
-322,scottish_terrier_78.jpg,Dog: scottish terrier,31,2,21
-323,Maine_Coon_214.jpg,Cat: maine coon,21,1,7
-324,Abyssinian_29.jpg,Cat: abyssinian,1,1,1
-325,Sphynx_196.jpg,Cat: sphynx,34,1,12
-326,great_pyrenees_120.jpg,Dog: great pyrenees,16,2,10
-327,american_bulldog_194.jpg,Dog: american bulldog,2,2,1
-328,american_pit_bull_terrier_49.jpg,Dog: american pit bull terrier,3,2,2
-329,basset_hound_27.jpg,Dog: basset hound,4,2,3
-330,Sphynx_73.jpg,Cat: sphynx,34,1,12
-331,samoyed_33.jpg,Dog: samoyed,30,2,20
-332,pomeranian_104.jpg,Dog: pomeranian,25,2,17
-333,Sphynx_82.jpg,Cat: sphynx,34,1,12
-334,Sphynx_76.jpg,Cat: sphynx,34,1,12
-335,newfoundland_32.jpg,Dog: newfoundland,23,2,16
-336,Sphynx_133.jpg,Cat: sphynx,34,1,12
-337,Russian_Blue_207.jpg,Cat: russian blue,28,1,10
-338,german_shorthaired_94.jpg,Dog: german shorthaired,15,2,9
-339,Birman_144.jpg,Cat: birman,7,1,3
-340,Ragdoll_13.jpg,Cat: ragdoll,27,1,9
-341,english_setter_175.jpg,Dog: english setter,14,2,8
-342,saint_bernard_130.jpg,Dog: saint bernard,29,2,19
-343,shiba_inu_140.jpg,Dog: shiba inu,32,2,22
-344,Bombay_107.jpg,Cat: bombay,8,1,4
-345,miniature_pinscher_24.jpg,Dog: miniature pinscher,22,2,15
-346,saint_bernard_151.jpg,Dog: saint bernard,29,2,19
-347,yorkshire_terrier_64.jpg,Dog: yorkshire terrier,37,2,25
-348,samoyed_21.jpg,Dog: samoyed,30,2,20
-349,saint_bernard_172.jpg,Dog: saint bernard,29,2,19
-350,great_pyrenees_139.jpg,Dog: great pyrenees,16,2,10
-351,Birman_64.jpg,Cat: birman,7,1,3
-352,scottish_terrier_60.jpg,Dog: scottish terrier,31,2,21
-353,japanese_chin_57.jpg,Dog: japanese chin,18,2,12
-354,leonberger_64.jpg,Dog: leonberger,20,2,14
-355,Ragdoll_73.jpg,Cat: ragdoll,27,1,9
-356,Bengal_20.jpg,Cat: bengal,6,1,2
-357,boxer_51.jpg,Dog: boxer,9,2,5
-358,beagle_98.jpg,Dog: beagle,5,2,4
-359,staffordshire_bull_terrier_104.jpg,Dog: staffordshire bull terrier,35,2,23
-360,British_Shorthair_99.jpg,Cat: british shorthair,10,1,5
-361,english_setter_123.jpg,Dog: english setter,14,2,8
-362,chihuahua_142.jpg,Dog: chihuahua,11,2,6
-363,British_Shorthair_61.jpg,Cat: british shorthair,10,1,5
-364,miniature_pinscher_103.jpg,Dog: miniature pinscher,22,2,15
-365,Sphynx_156.jpg,Cat: sphynx,34,1,12
-366,Egyptian_Mau_70.jpg,Cat: egyptian mau,12,1,6
-367,wheaten_terrier_140.jpg,Dog: wheaten terrier,36,2,24
-368,Persian_26.jpg,Cat: persian,24,1,8
-369,Ragdoll_115.jpg,Cat: ragdoll,27,1,9
-370,english_setter_193.jpg,Dog: english setter,14,2,8
-371,Ragdoll_32.jpg,Cat: ragdoll,27,1,9
-372,chihuahua_100.jpg,Dog: chihuahua,11,2,6
-373,basset_hound_96.jpg,Dog: basset hound,4,2,3
-374,miniature_pinscher_64.jpg,Dog: miniature pinscher,22,2,15
-375,american_pit_bull_terrier_88.jpg,Dog: american pit bull terrier,3,2,2
-376,english_setter_16.jpg,Dog: english setter,14,2,8
-377,english_cocker_spaniel_34.jpg,Dog: english cocker spaniel,13,2,7
-378,german_shorthaired_62.jpg,Dog: german shorthaired,15,2,9
-379,Abyssinian_224.jpg,Cat: abyssinian,1,1,1
-380,scottish_terrier_114.jpg,Dog: scottish terrier,31,2,21
-381,basset_hound_68.jpg,Dog: basset hound,4,2,3
-382,Bombay_85.jpg,Cat: bombay,8,1,4
-383,english_cocker_spaniel_79.jpg,Dog: english cocker spaniel,13,2,7
-384,Bombay_97.jpg,Cat: bombay,8,1,4
-385,boxer_34.jpg,Dog: boxer,9,2,5
-386,yorkshire_terrier_191.jpg,Dog: yorkshire terrier,37,2,25
-387,wheaten_terrier_157.jpg,Dog: wheaten terrier,36,2,24
-388,american_bulldog_25.jpg,Dog: american bulldog,2,2,1
-389,havanese_67.jpg,Dog: havanese,17,2,11
-390,staffordshire_bull_terrier_100.jpg,Dog: staffordshire bull terrier,35,2,23
-391,miniature_pinscher_2.jpg,Dog: miniature pinscher,22,2,15
-392,yorkshire_terrier_135.jpg,Dog: yorkshire terrier,37,2,25
-393,Bombay_193.jpg,Cat: bombay,8,1,4
-394,newfoundland_58.jpg,Dog: newfoundland,23,2,16
-395,yorkshire_terrier_176.jpg,Dog: yorkshire terrier,37,2,25
-396,British_Shorthair_86.jpg,Cat: british shorthair,10,1,5
-397,miniature_pinscher_109.jpg,Dog: miniature pinscher,22,2,15
-398,samoyed_88.jpg,Dog: samoyed,30,2,20
-399,Abyssinian_150.jpg,Cat: abyssinian,1,1,1
-400,english_cocker_spaniel_18.jpg,Dog: english cocker spaniel,13,2,7
-401,english_setter_181.jpg,Dog: english setter,14,2,8
-402,Birman_34.jpg,Cat: birman,7,1,3
-403,miniature_pinscher_183.jpg,Dog: miniature pinscher,22,2,15
-404,Birman_141.jpg,Cat: birman,7,1,3
-405,Abyssinian_220.jpg,Cat: abyssinian,1,1,1
-406,Maine_Coon_253.jpg,Cat: maine coon,21,1,7
-407,wheaten_terrier_122.jpg,Dog: wheaten terrier,36,2,24
-408,samoyed_179.jpg,Dog: samoyed,30,2,20
-409,Abyssinian_184.jpg,Cat: abyssinian,1,1,1
-410,Egyptian_Mau_87.jpg,Cat: egyptian mau,12,1,6
-411,shiba_inu_57.jpg,Dog: shiba inu,32,2,22
-412,leonberger_46.jpg,Dog: leonberger,20,2,14
-413,american_bulldog_11.jpg,Dog: american bulldog,2,2,1
-414,staffordshire_bull_terrier_94.jpg,Dog: staffordshire bull terrier,35,2,23
-415,german_shorthaired_38.jpg,Dog: german shorthaired,15,2,9
-416,Persian_98.jpg,Cat: persian,24,1,8
-417,american_bulldog_82.jpg,Dog: american bulldog,2,2,1
-418,japanese_chin_121.jpg,Dog: japanese chin,18,2,12
-419,Sphynx_115.jpg,Cat: sphynx,34,1,12
-420,leonberger_26.jpg,Dog: leonberger,20,2,14
-421,Sphynx_105.jpg,Cat: sphynx,34,1,12
-422,miniature_pinscher_156.jpg,Dog: miniature pinscher,22,2,15
-423,pug_133.jpg,Dog: pug,26,2,18
-424,Sphynx_47.jpg,Cat: sphynx,34,1,12
-425,Maine_Coon_101.jpg,Cat: maine coon,21,1,7
-426,boxer_145.jpg,Dog: boxer,9,2,5
-427,havanese_33.jpg,Dog: havanese,17,2,11
-428,Persian_168.jpg,Cat: persian,24,1,8
-429,Persian_263.jpg,Cat: persian,24,1,8
-430,British_Shorthair_18.jpg,Cat: british shorthair,10,1,5
-431,Russian_Blue_228.jpg,Cat: russian blue,28,1,10
-432,Maine_Coon_160.jpg,Cat: maine coon,21,1,7
-433,english_setter_8.jpg,Dog: english setter,14,2,8
-434,miniature_pinscher_53.jpg,Dog: miniature pinscher,22,2,15
-435,Siamese_249.jpg,Cat: siamese,33,1,11
-436,great_pyrenees_99.jpg,Dog: great pyrenees,16,2,10
-437,saint_bernard_30.jpg,Dog: saint bernard,29,2,19
-438,german_shorthaired_29.jpg,Dog: german shorthaired,15,2,9
-439,saint_bernard_118.jpg,Dog: saint bernard,29,2,19
-440,american_bulldog_167.jpg,Dog: american bulldog,2,2,1
-441,Egyptian_Mau_210.jpg,Cat: egyptian mau,12,1,6
-442,British_Shorthair_54.jpg,Cat: british shorthair,10,1,5
-443,miniature_pinscher_164.jpg,Dog: miniature pinscher,22,2,15
-444,Abyssinian_78.jpg,Cat: abyssinian,1,1,1
-445,wheaten_terrier_42.jpg,Dog: wheaten terrier,36,2,24
-446,Birman_98.jpg,Cat: birman,7,1,3
-447,leonberger_13.jpg,Dog: leonberger,20,2,14
-448,samoyed_22.jpg,Dog: samoyed,30,2,20
-449,newfoundland_21.jpg,Dog: newfoundland,23,2,16
-450,Siamese_39.jpg,Cat: siamese,33,1,11
-451,Ragdoll_4.jpg,Cat: ragdoll,27,1,9
-452,leonberger_90.jpg,Dog: leonberger,20,2,14
-453,Sphynx_191.jpg,Cat: sphynx,34,1,12
-454,pug_22.jpg,Dog: pug,26,2,18
-455,Abyssinian_139.jpg,Cat: abyssinian,1,1,1
-456,japanese_chin_35.jpg,Dog: japanese chin,18,2,12
-457,basset_hound_84.jpg,Dog: basset hound,4,2,3
-458,Birman_8.jpg,Cat: birman,7,1,3
-459,Sphynx_75.jpg,Cat: sphynx,34,1,12
-460,english_cocker_spaniel_27.jpg,Dog: english cocker spaniel,13,2,7
-461,german_shorthaired_187.jpg,Dog: german shorthaired,15,2,9
-462,pug_169.jpg,Dog: pug,26,2,18
-463,havanese_69.jpg,Dog: havanese,17,2,11
-464,wheaten_terrier_145.jpg,Dog: wheaten terrier,36,2,24
-465,japanese_chin_94.jpg,Dog: japanese chin,18,2,12
-466,Ragdoll_145.jpg,Cat: ragdoll,27,1,9
-467,newfoundland_59.jpg,Dog: newfoundland,23,2,16
-468,Bombay_43.jpg,Cat: bombay,8,1,4
-469,British_Shorthair_21.jpg,Cat: british shorthair,10,1,5
-470,scottish_terrier_24.jpg,Dog: scottish terrier,31,2,21
-471,beagle_24.jpg,Dog: beagle,5,2,4
-472,Bengal_83.jpg,Cat: bengal,6,1,2
-473,Sphynx_212.jpg,Cat: sphynx,34,1,12
-474,Sphynx_87.jpg,Cat: sphynx,34,1,12
-475,pomeranian_150.jpg,Dog: pomeranian,25,2,17
-476,japanese_chin_13.jpg,Dog: japanese chin,18,2,12
-477,great_pyrenees_18.jpg,Dog: great pyrenees,16,2,10
-478,pug_56.jpg,Dog: pug,26,2,18
-479,keeshond_53.jpg,Dog: keeshond,19,2,13
-480,samoyed_84.jpg,Dog: samoyed,30,2,20
-481,Russian_Blue_166.jpg,Cat: russian blue,28,1,10
-482,Bengal_17.jpg,Cat: bengal,6,1,2
-483,chihuahua_126.jpg,Dog: chihuahua,11,2,6
-484,shiba_inu_111.jpg,Dog: shiba inu,32,2,22
-485,miniature_pinscher_112.jpg,Dog: miniature pinscher,22,2,15
-486,newfoundland_198.jpg,Dog: newfoundland,23,2,16
-487,english_cocker_spaniel_97.jpg,Dog: english cocker spaniel,13,2,7
-488,havanese_17.jpg,Dog: havanese,17,2,11
-489,Ragdoll_98.jpg,Cat: ragdoll,27,1,9
-490,Abyssinian_68.jpg,Cat: abyssinian,1,1,1
-491,wheaten_terrier_44.jpg,Dog: wheaten terrier,36,2,24
-492,samoyed_51.jpg,Dog: samoyed,30,2,20
-493,boxer_130.jpg,Dog: boxer,9,2,5
-494,leonberger_188.jpg,Dog: leonberger,20,2,14
-495,japanese_chin_104.jpg,Dog: japanese chin,18,2,12
-496,yorkshire_terrier_97.jpg,Dog: yorkshire terrier,37,2,25
-497,german_shorthaired_147.jpg,Dog: german shorthaired,15,2,9
-498,yorkshire_terrier_8.jpg,Dog: yorkshire terrier,37,2,25
-499,newfoundland_22.jpg,Dog: newfoundland,23,2,16
-500,great_pyrenees_86.jpg,Dog: great pyrenees,16,2,10
-501,leonberger_196.jpg,Dog: leonberger,20,2,14
-502,wheaten_terrier_135.jpg,Dog: wheaten terrier,36,2,24
-503,British_Shorthair_154.jpg,Cat: british shorthair,10,1,5
-504,Abyssinian_112.jpg,Cat: abyssinian,1,1,1
-505,german_shorthaired_45.jpg,Dog: german shorthaired,15,2,9
-506,chihuahua_82.jpg,Dog: chihuahua,11,2,6
-507,pomeranian_158.jpg,Dog: pomeranian,25,2,17
-508,samoyed_28.jpg,Dog: samoyed,30,2,20
-509,boxer_121.jpg,Dog: boxer,9,2,5
-510,yorkshire_terrier_140.jpg,Dog: yorkshire terrier,37,2,25
-511,japanese_chin_62.jpg,Dog: japanese chin,18,2,12
-512,pug_6.jpg,Dog: pug,26,2,18
-513,havanese_7.jpg,Dog: havanese,17,2,11
-514,Abyssinian_43.jpg,Cat: abyssinian,1,1,1
-515,pomeranian_16.jpg,Dog: pomeranian,25,2,17
-516,Ragdoll_128.jpg,Cat: ragdoll,27,1,9
-517,British_Shorthair_59.jpg,Cat: british shorthair,10,1,5
-518,miniature_pinscher_196.jpg,Dog: miniature pinscher,22,2,15
-519,beagle_196.jpg,Dog: beagle,5,2,4
-520,Ragdoll_192.jpg,Cat: ragdoll,27,1,9
-521,pomeranian_148.jpg,Dog: pomeranian,25,2,17
-522,havanese_49.jpg,Dog: havanese,17,2,11
-523,Egyptian_Mau_175.jpg,Cat: egyptian mau,12,1,6
-524,Abyssinian_116.jpg,Cat: abyssinian,1,1,1
-525,Sphynx_158.jpg,Cat: sphynx,34,1,12
-526,Maine_Coon_30.jpg,Cat: maine coon,21,1,7
-527,american_bulldog_62.jpg,Dog: american bulldog,2,2,1
-528,Persian_16.jpg,Cat: persian,24,1,8
-529,Maine_Coon_244.jpg,Cat: maine coon,21,1,7
-530,chihuahua_137.jpg,Dog: chihuahua,11,2,6
-531,Sphynx_144.jpg,Cat: sphynx,34,1,12
-532,staffordshire_bull_terrier_111.jpg,Dog: staffordshire bull terrier,35,2,23
-533,american_pit_bull_terrier_107.jpg,Dog: american pit bull terrier,3,2,2
-534,japanese_chin_152.jpg,Dog: japanese chin,18,2,12
-535,Sphynx_174.jpg,Cat: sphynx,34,1,12
-536,Abyssinian_56.jpg,Cat: abyssinian,1,1,1
-537,Birman_170.jpg,Cat: birman,7,1,3
-538,english_setter_20.jpg,Dog: english setter,14,2,8
-539,saint_bernard_73.jpg,Dog: saint bernard,29,2,19
-540,boxer_5.jpg,Dog: boxer,9,2,5
-541,British_Shorthair_94.jpg,Cat: british shorthair,10,1,5
-542,pomeranian_153.jpg,Dog: pomeranian,25,2,17
-543,Bengal_19.jpg,Cat: bengal,6,1,2
-544,beagle_152.jpg,Dog: beagle,5,2,4
-545,beagle_100.jpg,Dog: beagle,5,2,4
-546,american_pit_bull_terrier_96.jpg,Dog: american pit bull terrier,3,2,2
-547,Birman_2.jpg,Cat: birman,7,1,3
-548,Persian_32.jpg,Cat: persian,24,1,8
-549,american_pit_bull_terrier_142.jpg,Dog: american pit bull terrier,3,2,2
-550,Bombay_182.jpg,Cat: bombay,8,1,4
-551,chihuahua_108.jpg,Dog: chihuahua,11,2,6
-552,samoyed_178.jpg,Dog: samoyed,30,2,20
-553,samoyed_124.jpg,Dog: samoyed,30,2,20
-554,boxer_97.jpg,Dog: boxer,9,2,5
-555,havanese_177.jpg,Dog: havanese,17,2,11
-556,Russian_Blue_179.jpg,Cat: russian blue,28,1,10
-557,samoyed_91.jpg,Dog: samoyed,30,2,20
-558,Birman_86.jpg,Cat: birman,7,1,3
-559,american_pit_bull_terrier_67.jpg,Dog: american pit bull terrier,3,2,2
-560,Birman_36.jpg,Cat: birman,7,1,3
-561,american_bulldog_58.jpg,Dog: american bulldog,2,2,1
-562,beagle_189.jpg,Dog: beagle,5,2,4
-563,japanese_chin_45.jpg,Dog: japanese chin,18,2,12
-564,shiba_inu_80.jpg,Dog: shiba inu,32,2,22
-565,japanese_chin_200.jpg,Dog: japanese chin,18,2,12
-566,miniature_pinscher_80.jpg,Dog: miniature pinscher,22,2,15
-567,boxer_175.jpg,Dog: boxer,9,2,5
-568,pomeranian_30.jpg,Dog: pomeranian,25,2,17
-569,Siamese_93.jpg,Cat: siamese,33,1,11
-570,german_shorthaired_21.jpg,Dog: german shorthaired,15,2,9
-571,staffordshire_bull_terrier_130.jpg,Dog: staffordshire bull terrier,35,2,23
-572,staffordshire_bull_terrier_147.jpg,Dog: staffordshire bull terrier,35,2,23
-573,boxer_30.jpg,Dog: boxer,9,2,5
-574,chihuahua_35.jpg,Dog: chihuahua,11,2,6
-575,leonberger_76.jpg,Dog: leonberger,20,2,14
-576,american_pit_bull_terrier_136.jpg,Dog: american pit bull terrier,3,2,2
-577,saint_bernard_182.jpg,Dog: saint bernard,29,2,19
-578,samoyed_68.jpg,Dog: samoyed,30,2,20
-579,Siamese_82.jpg,Cat: siamese,33,1,11
-580,newfoundland_187.jpg,Dog: newfoundland,23,2,16
-581,boxer_116.jpg,Dog: boxer,9,2,5
-582,Bombay_150.jpg,Cat: bombay,8,1,4
-583,japanese_chin_172.jpg,Dog: japanese chin,18,2,12
-584,Birman_119.jpg,Cat: birman,7,1,3
-585,leonberger_89.jpg,Dog: leonberger,20,2,14
-586,great_pyrenees_156.jpg,Dog: great pyrenees,16,2,10
-587,miniature_pinscher_199.jpg,Dog: miniature pinscher,22,2,15
-588,samoyed_77.jpg,Dog: samoyed,30,2,20
-589,keeshond_2.jpg,Dog: keeshond,19,2,13
-590,Russian_Blue_187.jpg,Cat: russian blue,28,1,10
-591,Sphynx_94.jpg,Cat: sphynx,34,1,12
-592,Persian_21.jpg,Cat: persian,24,1,8
-593,Egyptian_Mau_196.jpg,Cat: egyptian mau,12,1,6
-594,pomeranian_92.jpg,Dog: pomeranian,25,2,17
-595,english_setter_63.jpg,Dog: english setter,14,2,8
-596,Persian_129.jpg,Cat: persian,24,1,8
-597,saint_bernard_116.jpg,Dog: saint bernard,29,2,19
-598,beagle_105.jpg,Dog: beagle,5,2,4
-599,scottish_terrier_130.jpg,Dog: scottish terrier,31,2,21
-600,Ragdoll_138.jpg,Cat: ragdoll,27,1,9
-601,Birman_117.jpg,Cat: birman,7,1,3
-602,boxer_180.jpg,Dog: boxer,9,2,5
-603,beagle_22.jpg,Dog: beagle,5,2,4
-604,english_cocker_spaniel_123.jpg,Dog: english cocker spaniel,13,2,7
-605,great_pyrenees_167.jpg,Dog: great pyrenees,16,2,10
-606,leonberger_5.jpg,Dog: leonberger,20,2,14
-607,english_setter_65.jpg,Dog: english setter,14,2,8
-608,japanese_chin_136.jpg,Dog: japanese chin,18,2,12
-609,yorkshire_terrier_165.jpg,Dog: yorkshire terrier,37,2,25
-610,japanese_chin_140.jpg,Dog: japanese chin,18,2,12
-611,samoyed_184.jpg,Dog: samoyed,30,2,20
-612,Persian_185.jpg,Cat: persian,24,1,8
-613,scottish_terrier_50.jpg,Dog: scottish terrier,31,2,21
-614,chihuahua_67.jpg,Dog: chihuahua,11,2,6
-615,saint_bernard_70.jpg,Dog: saint bernard,29,2,19
-616,Sphynx_143.jpg,Cat: sphynx,34,1,12
-617,newfoundland_14.jpg,Dog: newfoundland,23,2,16
-618,Russian_Blue_79.jpg,Cat: russian blue,28,1,10
-619,english_setter_159.jpg,Dog: english setter,14,2,8
-620,american_bulldog_8.jpg,Dog: american bulldog,2,2,1
-621,boxer_10.jpg,Dog: boxer,9,2,5
-622,Birman_160.jpg,Cat: birman,7,1,3
-623,keeshond_70.jpg,Dog: keeshond,19,2,13
-624,japanese_chin_27.jpg,Dog: japanese chin,18,2,12
-625,boxer_101.jpg,Dog: boxer,9,2,5
-626,staffordshire_bull_terrier_14.jpg,Dog: staffordshire bull terrier,35,2,23
-627,Maine_Coon_48.jpg,Cat: maine coon,21,1,7
-628,Bengal_161.jpg,Cat: bengal,6,1,2
-629,german_shorthaired_58.jpg,Dog: german shorthaired,15,2,9
-630,boxer_29.jpg,Dog: boxer,9,2,5
-631,chihuahua_68.jpg,Dog: chihuahua,11,2,6
-632,boxer_79.jpg,Dog: boxer,9,2,5
-633,Bombay_158.jpg,Cat: bombay,8,1,4
-634,British_Shorthair_121.jpg,Cat: british shorthair,10,1,5
-635,Egyptian_Mau_29.jpg,Cat: egyptian mau,12,1,6
-636,boxer_196.jpg,Dog: boxer,9,2,5
-637,Persian_189.jpg,Cat: persian,24,1,8
-638,Persian_128.jpg,Cat: persian,24,1,8
-639,Maine_Coon_112.jpg,Cat: maine coon,21,1,7
-640,Bombay_155.jpg,Cat: bombay,8,1,4
-641,newfoundland_154.jpg,Dog: newfoundland,23,2,16
-642,Persian_59.jpg,Cat: persian,24,1,8
-643,leonberger_112.jpg,Dog: leonberger,20,2,14
-644,beagle_144.jpg,Dog: beagle,5,2,4
-645,wheaten_terrier_84.jpg,Dog: wheaten terrier,36,2,24
-646,Birman_179.jpg,Cat: birman,7,1,3
-647,pomeranian_137.jpg,Dog: pomeranian,25,2,17
-648,american_bulldog_31.jpg,Dog: american bulldog,2,2,1
-649,beagle_3.jpg,Dog: beagle,5,2,4
-650,Siamese_170.jpg,Cat: siamese,33,1,11
-651,boxer_187.jpg,Dog: boxer,9,2,5
-652,Bengal_25.jpg,Cat: bengal,6,1,2
-653,British_Shorthair_158.jpg,Cat: british shorthair,10,1,5
-654,wheaten_terrier_182.jpg,Dog: wheaten terrier,36,2,24
-655,german_shorthaired_197.jpg,Dog: german shorthaired,15,2,9
-656,Maine_Coon_49.jpg,Cat: maine coon,21,1,7
-657,scottish_terrier_197.jpg,Dog: scottish terrier,31,2,21
-658,havanese_148.jpg,Dog: havanese,17,2,11
-659,saint_bernard_64.jpg,Dog: saint bernard,29,2,19
-660,newfoundland_79.jpg,Dog: newfoundland,23,2,16
-661,american_pit_bull_terrier_121.jpg,Dog: american pit bull terrier,3,2,2
-662,pomeranian_36.jpg,Dog: pomeranian,25,2,17
-663,keeshond_42.jpg,Dog: keeshond,19,2,13
-664,Russian_Blue_143.jpg,Cat: russian blue,28,1,10
-665,Ragdoll_171.jpg,Cat: ragdoll,27,1,9
-666,newfoundland_117.jpg,Dog: newfoundland,23,2,16
-667,miniature_pinscher_77.jpg,Dog: miniature pinscher,22,2,15
-668,american_pit_bull_terrier_81.jpg,Dog: american pit bull terrier,3,2,2
-669,saint_bernard_23.jpg,Dog: saint bernard,29,2,19
-670,yorkshire_terrier_158.jpg,Dog: yorkshire terrier,37,2,25
-671,Sphynx_190.jpg,Cat: sphynx,34,1,12
-672,american_bulldog_86.jpg,Dog: american bulldog,2,2,1
-673,scottish_terrier_5.jpg,Dog: scottish terrier,31,2,21
-674,beagle_178.jpg,Dog: beagle,5,2,4
-675,Sphynx_36.jpg,Cat: sphynx,34,1,12
-676,basset_hound_184.jpg,Dog: basset hound,4,2,3
-677,saint_bernard_179.jpg,Dog: saint bernard,29,2,19
-678,Bengal_58.jpg,Cat: bengal,6,1,2
-679,wheaten_terrier_104.jpg,Dog: wheaten terrier,36,2,24
-680,Bengal_71.jpg,Cat: bengal,6,1,2
-681,basset_hound_53.jpg,Dog: basset hound,4,2,3
-682,Birman_180.jpg,Cat: birman,7,1,3
-683,samoyed_86.jpg,Dog: samoyed,30,2,20
-684,pomeranian_107.jpg,Dog: pomeranian,25,2,17
-685,Ragdoll_208.jpg,Cat: ragdoll,27,1,9
-686,samoyed_123.jpg,Dog: samoyed,30,2,20
-687,scottish_terrier_152.jpg,Dog: scottish terrier,31,2,21
-688,german_shorthaired_84.jpg,Dog: german shorthaired,15,2,9
-689,basset_hound_117.jpg,Dog: basset hound,4,2,3
-690,Maine_Coon_63.jpg,Cat: maine coon,21,1,7
-691,Bengal_32.jpg,Cat: bengal,6,1,2
-692,Bengal_98.jpg,Cat: bengal,6,1,2
-693,pomeranian_119.jpg,Dog: pomeranian,25,2,17
-694,Birman_21.jpg,Cat: birman,7,1,3
-695,Persian_105.jpg,Cat: persian,24,1,8
-696,english_cocker_spaniel_146.jpg,Dog: english cocker spaniel,13,2,7
-697,japanese_chin_192.jpg,Dog: japanese chin,18,2,12
-698,pomeranian_185.jpg,Dog: pomeranian,25,2,17
-699,Russian_Blue_222.jpg,Cat: russian blue,28,1,10
-700,Bombay_56.jpg,Cat: bombay,8,1,4
-701,Persian_52.jpg,Cat: persian,24,1,8
-702,beagle_13.jpg,Dog: beagle,5,2,4
-703,english_cocker_spaniel_13.jpg,Dog: english cocker spaniel,13,2,7
-704,Maine_Coon_132.jpg,Cat: maine coon,21,1,7
-705,Sphynx_25.jpg,Cat: sphynx,34,1,12
-706,miniature_pinscher_157.jpg,Dog: miniature pinscher,22,2,15
-707,basset_hound_163.jpg,Dog: basset hound,4,2,3
-708,newfoundland_197.jpg,Dog: newfoundland,23,2,16
-709,english_setter_124.jpg,Dog: english setter,14,2,8
-710,scottish_terrier_3.jpg,Dog: scottish terrier,31,2,21
-711,boxer_88.jpg,Dog: boxer,9,2,5
-712,german_shorthaired_46.jpg,Dog: german shorthaired,15,2,9
-713,staffordshire_bull_terrier_190.jpg,Dog: staffordshire bull terrier,35,2,23
-714,Bengal_169.jpg,Cat: bengal,6,1,2
-715,saint_bernard_195.jpg,Dog: saint bernard,29,2,19
-716,yorkshire_terrier_60.jpg,Dog: yorkshire terrier,37,2,25
-717,Ragdoll_140.jpg,Cat: ragdoll,27,1,9
-718,american_pit_bull_terrier_18.jpg,Dog: american pit bull terrier,3,2,2
-719,Russian_Blue_168.jpg,Cat: russian blue,28,1,10
-720,samoyed_122.jpg,Dog: samoyed,30,2,20
-721,Siamese_51.jpg,Cat: siamese,33,1,11
-722,japanese_chin_89.jpg,Dog: japanese chin,18,2,12
-723,pomeranian_169.jpg,Dog: pomeranian,25,2,17
-724,wheaten_terrier_161.jpg,Dog: wheaten terrier,36,2,24
-725,american_bulldog_221.jpg,Dog: american bulldog,2,2,1
-726,english_setter_195.jpg,Dog: english setter,14,2,8
-727,Bombay_58.jpg,Cat: bombay,8,1,4
-728,Bombay_144.jpg,Cat: bombay,8,1,4
-729,Ragdoll_202.jpg,Cat: ragdoll,27,1,9
-730,British_Shorthair_145.jpg,Cat: british shorthair,10,1,5
-731,great_pyrenees_100.jpg,Dog: great pyrenees,16,2,10
-732,great_pyrenees_157.jpg,Dog: great pyrenees,16,2,10
-733,Ragdoll_163.jpg,Cat: ragdoll,27,1,9
-734,Sphynx_138.jpg,Cat: sphynx,34,1,12
-735,boxer_78.jpg,Dog: boxer,9,2,5
-736,Bombay_220.jpg,Cat: bombay,8,1,4
-737,samoyed_153.jpg,Dog: samoyed,30,2,20
-738,basset_hound_102.jpg,Dog: basset hound,4,2,3
-739,Birman_131.jpg,Cat: birman,7,1,3
-740,Birman_139.jpg,Cat: birman,7,1,3
-741,Egyptian_Mau_117.jpg,Cat: egyptian mau,12,1,6
-742,British_Shorthair_33.jpg,Cat: british shorthair,10,1,5
-743,english_setter_185.jpg,Dog: english setter,14,2,8
-744,havanese_12.jpg,Dog: havanese,17,2,11
-745,leonberger_92.jpg,Dog: leonberger,20,2,14
-746,pug_88.jpg,Dog: pug,26,2,18
-747,great_pyrenees_37.jpg,Dog: great pyrenees,16,2,10
-748,wheaten_terrier_74.jpg,Dog: wheaten terrier,36,2,24
-749,staffordshire_bull_terrier_119.jpg,Dog: staffordshire bull terrier,35,2,23
-750,great_pyrenees_25.jpg,Dog: great pyrenees,16,2,10
-751,american_bulldog_57.jpg,Dog: american bulldog,2,2,1
-752,great_pyrenees_158.jpg,Dog: great pyrenees,16,2,10
-753,Birman_102.jpg,Cat: birman,7,1,3
-754,Siamese_189.jpg,Cat: siamese,33,1,11
-755,wheaten_terrier_124.jpg,Dog: wheaten terrier,36,2,24
-756,Birman_18.jpg,Cat: birman,7,1,3
-757,pomeranian_102.jpg,Dog: pomeranian,25,2,17
-758,keeshond_21.jpg,Dog: keeshond,19,2,13
-759,boxer_132.jpg,Dog: boxer,9,2,5
-760,Siamese_131.jpg,Cat: siamese,33,1,11
-761,american_pit_bull_terrier_5.jpg,Dog: american pit bull terrier,3,2,2
-762,german_shorthaired_39.jpg,Dog: german shorthaired,15,2,9
-763,Sphynx_27.jpg,Cat: sphynx,34,1,12
-764,german_shorthaired_67.jpg,Dog: german shorthaired,15,2,9
-765,american_bulldog_29.jpg,Dog: american bulldog,2,2,1
-766,beagle_20.jpg,Dog: beagle,5,2,4
-767,samoyed_19.jpg,Dog: samoyed,30,2,20
-768,beagle_168.jpg,Dog: beagle,5,2,4
-769,chihuahua_163.jpg,Dog: chihuahua,11,2,6
-770,wheaten_terrier_79.jpg,Dog: wheaten terrier,36,2,24
-771,newfoundland_164.jpg,Dog: newfoundland,23,2,16
-772,pug_7.jpg,Dog: pug,26,2,18
-773,keeshond_32.jpg,Dog: keeshond,19,2,13
-774,keeshond_67.jpg,Dog: keeshond,19,2,13
-775,shiba_inu_147.jpg,Dog: shiba inu,32,2,22
-776,american_bulldog_64.jpg,Dog: american bulldog,2,2,1
-777,Russian_Blue_191.jpg,Cat: russian blue,28,1,10
-778,yorkshire_terrier_131.jpg,Dog: yorkshire terrier,37,2,25
-779,scottish_terrier_121.jpg,Dog: scottish terrier,31,2,21
-780,german_shorthaired_115.jpg,Dog: german shorthaired,15,2,9
-781,saint_bernard_137.jpg,Dog: saint bernard,29,2,19
-782,basset_hound_171.jpg,Dog: basset hound,4,2,3
-783,Maine_Coon_31.jpg,Cat: maine coon,21,1,7
-784,english_setter_119.jpg,Dog: english setter,14,2,8
-785,miniature_pinscher_141.jpg,Dog: miniature pinscher,22,2,15
-786,wheaten_terrier_173.jpg,Dog: wheaten terrier,36,2,24
-787,yorkshire_terrier_40.jpg,Dog: yorkshire terrier,37,2,25
-788,beagle_49.jpg,Dog: beagle,5,2,4
-789,japanese_chin_118.jpg,Dog: japanese chin,18,2,12
-790,great_pyrenees_16.jpg,Dog: great pyrenees,16,2,10
-791,english_cocker_spaniel_167.jpg,Dog: english cocker spaniel,13,2,7
-792,english_setter_174.jpg,Dog: english setter,14,2,8
-793,pomeranian_175.jpg,Dog: pomeranian,25,2,17
-794,japanese_chin_167.jpg,Dog: japanese chin,18,2,12
-795,keeshond_69.jpg,Dog: keeshond,19,2,13
-796,Maine_Coon_68.jpg,Cat: maine coon,21,1,7
-797,saint_bernard_181.jpg,Dog: saint bernard,29,2,19
-798,wheaten_terrier_73.jpg,Dog: wheaten terrier,36,2,24
-799,staffordshire_bull_terrier_194.jpg,Dog: staffordshire bull terrier,35,2,23
-800,havanese_141.jpg,Dog: havanese,17,2,11
-801,newfoundland_200.jpg,Dog: newfoundland,23,2,16
-802,great_pyrenees_54.jpg,Dog: great pyrenees,16,2,10
-803,american_bulldog_127.jpg,Dog: american bulldog,2,2,1
-804,american_pit_bull_terrier_40.jpg,Dog: american pit bull terrier,3,2,2
-805,Egyptian_Mau_8.jpg,Cat: egyptian mau,12,1,6
-806,american_bulldog_211.jpg,Dog: american bulldog,2,2,1
-807,wheaten_terrier_116.jpg,Dog: wheaten terrier,36,2,24
-808,Sphynx_179.jpg,Cat: sphynx,34,1,12
-809,japanese_chin_170.jpg,Dog: japanese chin,18,2,12
-810,german_shorthaired_180.jpg,Dog: german shorthaired,15,2,9
-811,samoyed_100.jpg,Dog: samoyed,30,2,20
-812,miniature_pinscher_54.jpg,Dog: miniature pinscher,22,2,15
-813,samoyed_62.jpg,Dog: samoyed,30,2,20
-814,pug_17.jpg,Dog: pug,26,2,18
-815,leonberger_96.jpg,Dog: leonberger,20,2,14
-816,boxer_28.jpg,Dog: boxer,9,2,5
-817,Egyptian_Mau_207.jpg,Cat: egyptian mau,12,1,6
-818,miniature_pinscher_56.jpg,Dog: miniature pinscher,22,2,15
-819,english_cocker_spaniel_112.jpg,Dog: english cocker spaniel,13,2,7
-820,yorkshire_terrier_59.jpg,Dog: yorkshire terrier,37,2,25
-821,basset_hound_94.jpg,Dog: basset hound,4,2,3
-822,Egyptian_Mau_164.jpg,Cat: egyptian mau,12,1,6
-823,havanese_96.jpg,Dog: havanese,17,2,11
-824,staffordshire_bull_terrier_87.jpg,Dog: staffordshire bull terrier,35,2,23
-825,Siamese_181.jpg,Cat: siamese,33,1,11
-826,staffordshire_bull_terrier_128.jpg,Dog: staffordshire bull terrier,35,2,23
-827,shiba_inu_9.jpg,Dog: shiba inu,32,2,22
-828,Maine_Coon_246.jpg,Cat: maine coon,21,1,7
-829,keeshond_152.jpg,Dog: keeshond,19,2,13
-830,Egyptian_Mau_84.jpg,Cat: egyptian mau,12,1,6
-831,Abyssinian_65.jpg,Cat: abyssinian,1,1,1
-832,chihuahua_92.jpg,Dog: chihuahua,11,2,6
-833,scottish_terrier_159.jpg,Dog: scottish terrier,31,2,21
-834,Ragdoll_92.jpg,Cat: ragdoll,27,1,9
-835,scottish_terrier_15.jpg,Dog: scottish terrier,31,2,21
-836,english_cocker_spaniel_91.jpg,Dog: english cocker spaniel,13,2,7
-837,keeshond_14.jpg,Dog: keeshond,19,2,13
-838,boxer_53.jpg,Dog: boxer,9,2,5
-839,Bombay_112.jpg,Cat: bombay,8,1,4
-840,american_pit_bull_terrier_191.jpg,Dog: american pit bull terrier,3,2,2
-841,american_bulldog_97.jpg,Dog: american bulldog,2,2,1
-842,japanese_chin_17.jpg,Dog: japanese chin,18,2,12
-843,British_Shorthair_115.jpg,Cat: british shorthair,10,1,5
-844,staffordshire_bull_terrier_21.jpg,Dog: staffordshire bull terrier,35,2,23
-845,Persian_200.jpg,Cat: persian,24,1,8
-846,basset_hound_9.jpg,Dog: basset hound,4,2,3
-847,german_shorthaired_130.jpg,Dog: german shorthaired,15,2,9
-848,Siamese_152.jpg,Cat: siamese,33,1,11
-849,Sphynx_103.jpg,Cat: sphynx,34,1,12
-850,english_setter_184.jpg,Dog: english setter,14,2,8
-851,pug_65.jpg,Dog: pug,26,2,18
-852,english_setter_149.jpg,Dog: english setter,14,2,8
-853,saint_bernard_192.jpg,Dog: saint bernard,29,2,19
-854,scottish_terrier_175.jpg,Dog: scottish terrier,31,2,21
-855,english_cocker_spaniel_170.jpg,Dog: english cocker spaniel,13,2,7
-856,scottish_terrier_125.jpg,Dog: scottish terrier,31,2,21
-857,wheaten_terrier_131.jpg,Dog: wheaten terrier,36,2,24
-858,keeshond_142.jpg,Dog: keeshond,19,2,13
-859,pug_103.jpg,Dog: pug,26,2,18
-860,Egyptian_Mau_7.jpg,Cat: egyptian mau,12,1,6
-861,Bengal_143.jpg,Cat: bengal,6,1,2
-862,shiba_inu_88.jpg,Dog: shiba inu,32,2,22
-863,shiba_inu_63.jpg,Dog: shiba inu,32,2,22
-864,japanese_chin_84.jpg,Dog: japanese chin,18,2,12
-865,staffordshire_bull_terrier_197.jpg,Dog: staffordshire bull terrier,35,2,23
-866,Ragdoll_170.jpg,Cat: ragdoll,27,1,9
-867,pomeranian_45.jpg,Dog: pomeranian,25,2,17
-868,miniature_pinscher_48.jpg,Dog: miniature pinscher,22,2,15
-869,scottish_terrier_156.jpg,Dog: scottish terrier,31,2,21
-870,Egyptian_Mau_130.jpg,Cat: egyptian mau,12,1,6
-871,samoyed_192.jpg,Dog: samoyed,30,2,20
-872,Siamese_101.jpg,Cat: siamese,33,1,11
-873,saint_bernard_95.jpg,Dog: saint bernard,29,2,19
-874,american_bulldog_103.jpg,Dog: american bulldog,2,2,1
-875,staffordshire_bull_terrier_121.jpg,Dog: staffordshire bull terrier,35,2,23
-876,scottish_terrier_51.jpg,Dog: scottish terrier,31,2,21
-877,havanese_72.jpg,Dog: havanese,17,2,11
-878,Maine_Coon_2.jpg,Cat: maine coon,21,1,7
-879,yorkshire_terrier_186.jpg,Dog: yorkshire terrier,37,2,25
-880,boxer_9.jpg,Dog: boxer,9,2,5
-881,keeshond_3.jpg,Dog: keeshond,19,2,13
-882,leonberger_27.jpg,Dog: leonberger,20,2,14
-883,beagle_109.jpg,Dog: beagle,5,2,4
-884,pug_112.jpg,Dog: pug,26,2,18
-885,havanese_140.jpg,Dog: havanese,17,2,11
-886,miniature_pinscher_154.jpg,Dog: miniature pinscher,22,2,15
-887,British_Shorthair_48.jpg,Cat: british shorthair,10,1,5
-888,basset_hound_142.jpg,Dog: basset hound,4,2,3
-889,german_shorthaired_109.jpg,Dog: german shorthaired,15,2,9
-890,yorkshire_terrier_52.jpg,Dog: yorkshire terrier,37,2,25
-891,pomeranian_192.jpg,Dog: pomeranian,25,2,17
-892,Birman_121.jpg,Cat: birman,7,1,3
-893,pug_190.jpg,Dog: pug,26,2,18
-894,Bengal_33.jpg,Cat: bengal,6,1,2
-895,american_pit_bull_terrier_97.jpg,Dog: american pit bull terrier,3,2,2
-896,newfoundland_152.jpg,Dog: newfoundland,23,2,16
-897,Birman_58.jpg,Cat: birman,7,1,3
-898,american_pit_bull_terrier_193.jpg,Dog: american pit bull terrier,3,2,2
-899,pug_201.jpg,Dog: pug,26,2,18
-900,Abyssinian_176.jpg,Cat: abyssinian,1,1,1
-901,chihuahua_47.jpg,Dog: chihuahua,11,2,6
-902,pomeranian_11.jpg,Dog: pomeranian,25,2,17
-903,Birman_127.jpg,Cat: birman,7,1,3
-904,Bengal_67.jpg,Cat: bengal,6,1,2
-905,english_setter_130.jpg,Dog: english setter,14,2,8
-906,newfoundland_122.jpg,Dog: newfoundland,23,2,16
-907,Egyptian_Mau_80.jpg,Cat: egyptian mau,12,1,6
-908,boxer_197.jpg,Dog: boxer,9,2,5
-909,leonberger_176.jpg,Dog: leonberger,20,2,14
-910,Bombay_54.jpg,Cat: bombay,8,1,4
-911,Bengal_57.jpg,Cat: bengal,6,1,2
-912,chihuahua_105.jpg,Dog: chihuahua,11,2,6
-913,staffordshire_bull_terrier_195.jpg,Dog: staffordshire bull terrier,35,2,23
-914,Persian_194.jpg,Cat: persian,24,1,8
-915,leonberger_152.jpg,Dog: leonberger,20,2,14
-916,saint_bernard_76.jpg,Dog: saint bernard,29,2,19
-917,english_setter_48.jpg,Dog: english setter,14,2,8
-918,Persian_2.jpg,Cat: persian,24,1,8
-919,staffordshire_bull_terrier_60.jpg,Dog: staffordshire bull terrier,35,2,23
-920,chihuahua_91.jpg,Dog: chihuahua,11,2,6
-921,Persian_120.jpg,Cat: persian,24,1,8
-922,pomeranian_1.jpg,Dog: pomeranian,25,2,17
-923,Abyssinian_76.jpg,Cat: abyssinian,1,1,1
-924,american_pit_bull_terrier_90.jpg,Dog: american pit bull terrier,3,2,2
-925,leonberger_125.jpg,Dog: leonberger,20,2,14
-926,British_Shorthair_173.jpg,Cat: british shorthair,10,1,5
-927,newfoundland_148.jpg,Dog: newfoundland,23,2,16
-928,keeshond_57.jpg,Dog: keeshond,19,2,13
-929,Bombay_137.jpg,Cat: bombay,8,1,4
-930,Bengal_125.jpg,Cat: bengal,6,1,2
-931,miniature_pinscher_42.jpg,Dog: miniature pinscher,22,2,15
-932,great_pyrenees_134.jpg,Dog: great pyrenees,16,2,10
-933,keeshond_90.jpg,Dog: keeshond,19,2,13
-934,great_pyrenees_82.jpg,Dog: great pyrenees,16,2,10
-935,yorkshire_terrier_17.jpg,Dog: yorkshire terrier,37,2,25
-936,havanese_88.jpg,Dog: havanese,17,2,11
-937,Bengal_24.jpg,Cat: bengal,6,1,2
-938,american_bulldog_118.jpg,Dog: american bulldog,2,2,1
-939,scottish_terrier_169.jpg,Dog: scottish terrier,31,2,21
-940,Maine_Coon_208.jpg,Cat: maine coon,21,1,7
-941,British_Shorthair_263.jpg,Cat: british shorthair,10,1,5
-942,scottish_terrier_96.jpg,Dog: scottish terrier,31,2,21
-943,american_bulldog_28.jpg,Dog: american bulldog,2,2,1
-944,miniature_pinscher_188.jpg,Dog: miniature pinscher,22,2,15
-945,miniature_pinscher_177.jpg,Dog: miniature pinscher,22,2,15
-946,shiba_inu_179.jpg,Dog: shiba inu,32,2,22
-947,american_bulldog_138.jpg,Dog: american bulldog,2,2,1
-948,chihuahua_114.jpg,Dog: chihuahua,11,2,6
-949,english_cocker_spaniel_119.jpg,Dog: english cocker spaniel,13,2,7
-950,Siamese_157.jpg,Cat: siamese,33,1,11
-951,pug_130.jpg,Dog: pug,26,2,18
-952,keeshond_196.jpg,Dog: keeshond,19,2,13
-953,wheaten_terrier_138.jpg,Dog: wheaten terrier,36,2,24
-954,english_cocker_spaniel_22.jpg,Dog: english cocker spaniel,13,2,7
-955,Bombay_26.jpg,Cat: bombay,8,1,4
-956,Bengal_1.jpg,Cat: bengal,6,1,2
-957,american_bulldog_38.jpg,Dog: american bulldog,2,2,1
-958,saint_bernard_189.jpg,Dog: saint bernard,29,2,19
-959,yorkshire_terrier_67.jpg,Dog: yorkshire terrier,37,2,25
-960,staffordshire_bull_terrier_166.jpg,Dog: staffordshire bull terrier,35,2,23
-961,Bombay_50.jpg,Cat: bombay,8,1,4
-962,pug_93.jpg,Dog: pug,26,2,18
-963,scottish_terrier_32.jpg,Dog: scottish terrier,31,2,21
-964,British_Shorthair_189.jpg,Cat: british shorthair,10,1,5
-965,scottish_terrier_12.jpg,Dog: scottish terrier,31,2,21
-966,american_bulldog_199.jpg,Dog: american bulldog,2,2,1
-967,Abyssinian_49.jpg,Cat: abyssinian,1,1,1
-968,havanese_81.jpg,Dog: havanese,17,2,11
-969,Birman_51.jpg,Cat: birman,7,1,3
-970,german_shorthaired_105.jpg,Dog: german shorthaired,15,2,9
-971,Ragdoll_107.jpg,Cat: ragdoll,27,1,9
-972,chihuahua_172.jpg,Dog: chihuahua,11,2,6
-973,Abyssinian_1.jpg,Cat: abyssinian,1,1,1
-974,Abyssinian_204.jpg,Cat: abyssinian,1,1,1
-975,miniature_pinscher_135.jpg,Dog: miniature pinscher,22,2,15
-976,english_cocker_spaniel_56.jpg,Dog: english cocker spaniel,13,2,7
-977,german_shorthaired_119.jpg,Dog: german shorthaired,15,2,9
-978,leonberger_21.jpg,Dog: leonberger,20,2,14
-979,english_setter_145.jpg,Dog: english setter,14,2,8
-980,german_shorthaired_61.jpg,Dog: german shorthaired,15,2,9
-981,pomeranian_167.jpg,Dog: pomeranian,25,2,17
-982,British_Shorthair_97.jpg,Cat: british shorthair,10,1,5
-983,beagle_63.jpg,Dog: beagle,5,2,4
-984,Maine_Coon_206.jpg,Cat: maine coon,21,1,7
-985,Abyssinian_46.jpg,Cat: abyssinian,1,1,1
-986,samoyed_12.jpg,Dog: samoyed,30,2,20
-987,pomeranian_138.jpg,Dog: pomeranian,25,2,17
-988,havanese_128.jpg,Dog: havanese,17,2,11
-989,chihuahua_135.jpg,Dog: chihuahua,11,2,6
-990,american_bulldog_133.jpg,Dog: american bulldog,2,2,1
-991,yorkshire_terrier_56.jpg,Dog: yorkshire terrier,37,2,25
-992,samoyed_183.jpg,Dog: samoyed,30,2,20
-993,beagle_86.jpg,Dog: beagle,5,2,4
-994,american_bulldog_105.jpg,Dog: american bulldog,2,2,1
-995,Abyssinian_95.jpg,Cat: abyssinian,1,1,1
-996,samoyed_35.jpg,Dog: samoyed,30,2,20
-997,shiba_inu_60.jpg,Dog: shiba inu,32,2,22
-998,beagle_121.jpg,Dog: beagle,5,2,4
-999,newfoundland_97.jpg,Dog: newfoundland,23,2,16
-1000,Sphynx_1.jpg,Cat: sphynx,34,1,12
-1001,Abyssinian_107.jpg,Cat: abyssinian,1,1,1
-1002,havanese_55.jpg,Dog: havanese,17,2,11
-1003,Ragdoll_173.jpg,Cat: ragdoll,27,1,9
-1004,basset_hound_136.jpg,Dog: basset hound,4,2,3
-1005,pomeranian_186.jpg,Dog: pomeranian,25,2,17
-1006,Abyssinian_125.jpg,Cat: abyssinian,1,1,1
-1007,miniature_pinscher_140.jpg,Dog: miniature pinscher,22,2,15
-1008,japanese_chin_11.jpg,Dog: japanese chin,18,2,12
-1009,scottish_terrier_172.jpg,Dog: scottish terrier,31,2,21
-1010,beagle_181.jpg,Dog: beagle,5,2,4
-1011,great_pyrenees_200.jpg,Dog: great pyrenees,16,2,10
-1012,pug_75.jpg,Dog: pug,26,2,18
-1013,german_shorthaired_27.jpg,Dog: german shorthaired,15,2,9
-1014,beagle_79.jpg,Dog: beagle,5,2,4
-1015,miniature_pinscher_169.jpg,Dog: miniature pinscher,22,2,15
-1016,samoyed_72.jpg,Dog: samoyed,30,2,20
-1017,Maine_Coon_241.jpg,Cat: maine coon,21,1,7
-1018,Ragdoll_224.jpg,Cat: ragdoll,27,1,9
-1019,saint_bernard_58.jpg,Dog: saint bernard,29,2,19
-1020,yorkshire_terrier_63.jpg,Dog: yorkshire terrier,37,2,25
-1021,British_Shorthair_95.jpg,Cat: british shorthair,10,1,5
-1022,Bombay_1.jpg,Cat: bombay,8,1,4
-1023,Sphynx_198.jpg,Cat: sphynx,34,1,12
-1024,wheaten_terrier_129.jpg,Dog: wheaten terrier,36,2,24
-1025,havanese_165.jpg,Dog: havanese,17,2,11
-1026,japanese_chin_61.jpg,Dog: japanese chin,18,2,12
-1027,great_pyrenees_175.jpg,Dog: great pyrenees,16,2,10
-1028,beagle_7.jpg,Dog: beagle,5,2,4
-1029,Russian_Blue_63.jpg,Cat: russian blue,28,1,10
-1030,Bombay_53.jpg,Cat: bombay,8,1,4
-1031,boxer_172.jpg,Dog: boxer,9,2,5
-1032,Bombay_63.jpg,Cat: bombay,8,1,4
-1033,yorkshire_terrier_25.jpg,Dog: yorkshire terrier,37,2,25
-1034,english_cocker_spaniel_85.jpg,Dog: english cocker spaniel,13,2,7
-1035,Egyptian_Mau_140.jpg,Cat: egyptian mau,12,1,6
-1036,leonberger_190.jpg,Dog: leonberger,20,2,14
-1037,Abyssinian_205.jpg,Cat: abyssinian,1,1,1
-1038,staffordshire_bull_terrier_5.jpg,Dog: staffordshire bull terrier,35,2,23
-1039,Egyptian_Mau_189.jpg,Cat: egyptian mau,12,1,6
-1040,english_cocker_spaniel_81.jpg,Dog: english cocker spaniel,13,2,7
-1041,miniature_pinscher_194.jpg,Dog: miniature pinscher,22,2,15
-1042,great_pyrenees_179.jpg,Dog: great pyrenees,16,2,10
-1043,Abyssinian_86.jpg,Cat: abyssinian,1,1,1
-1044,great_pyrenees_128.jpg,Dog: great pyrenees,16,2,10
-1045,beagle_56.jpg,Dog: beagle,5,2,4
-1046,english_cocker_spaniel_60.jpg,Dog: english cocker spaniel,13,2,7
-1047,keeshond_30.jpg,Dog: keeshond,19,2,13
-1048,samoyed_64.jpg,Dog: samoyed,30,2,20
-1049,samoyed_115.jpg,Dog: samoyed,30,2,20
-1050,havanese_124.jpg,Dog: havanese,17,2,11
-1051,great_pyrenees_9.jpg,Dog: great pyrenees,16,2,10
-1052,scottish_terrier_43.jpg,Dog: scottish terrier,31,2,21
-1053,miniature_pinscher_173.jpg,Dog: miniature pinscher,22,2,15
-1054,staffordshire_bull_terrier_129.jpg,Dog: staffordshire bull terrier,35,2,23
-1055,miniature_pinscher_133.jpg,Dog: miniature pinscher,22,2,15
-1056,wheaten_terrier_48.jpg,Dog: wheaten terrier,36,2,24
-1057,havanese_186.jpg,Dog: havanese,17,2,11
-1058,american_pit_bull_terrier_9.jpg,Dog: american pit bull terrier,3,2,2
-1059,yorkshire_terrier_99.jpg,Dog: yorkshire terrier,37,2,25
-1060,basset_hound_135.jpg,Dog: basset hound,4,2,3
-1061,saint_bernard_135.jpg,Dog: saint bernard,29,2,19
-1062,wheaten_terrier_147.jpg,Dog: wheaten terrier,36,2,24
-1063,havanese_182.jpg,Dog: havanese,17,2,11
-1064,beagle_40.jpg,Dog: beagle,5,2,4
-1065,Russian_Blue_32.jpg,Cat: russian blue,28,1,10
-1066,Siamese_161.jpg,Cat: siamese,33,1,11
-1067,great_pyrenees_106.jpg,Dog: great pyrenees,16,2,10
-1068,leonberger_173.jpg,Dog: leonberger,20,2,14
-1069,Bengal_56.jpg,Cat: bengal,6,1,2
-1070,newfoundland_163.jpg,Dog: newfoundland,23,2,16
-1071,chihuahua_53.jpg,Dog: chihuahua,11,2,6
-1072,Egyptian_Mau_4.jpg,Cat: egyptian mau,12,1,6
-1073,Persian_106.jpg,Cat: persian,24,1,8
-1074,Egyptian_Mau_2.jpg,Cat: egyptian mau,12,1,6
-1075,scottish_terrier_98.jpg,Dog: scottish terrier,31,2,21
-1076,saint_bernard_6.jpg,Dog: saint bernard,29,2,19
-1077,german_shorthaired_150.jpg,Dog: german shorthaired,15,2,9
-1078,japanese_chin_148.jpg,Dog: japanese chin,18,2,12
-1079,Bombay_87.jpg,Cat: bombay,8,1,4
-1080,keeshond_141.jpg,Dog: keeshond,19,2,13
-1081,basset_hound_160.jpg,Dog: basset hound,4,2,3
-1082,keeshond_66.jpg,Dog: keeshond,19,2,13
-1083,japanese_chin_55.jpg,Dog: japanese chin,18,2,12
-1084,wheaten_terrier_35.jpg,Dog: wheaten terrier,36,2,24
-1085,Birman_164.jpg,Cat: birman,7,1,3
-1086,Egyptian_Mau_99.jpg,Cat: egyptian mau,12,1,6
-1087,samoyed_114.jpg,Dog: samoyed,30,2,20
-1088,samoyed_76.jpg,Dog: samoyed,30,2,20
-1089,newfoundland_72.jpg,Dog: newfoundland,23,2,16
-1090,miniature_pinscher_68.jpg,Dog: miniature pinscher,22,2,15
-1091,yorkshire_terrier_112.jpg,Dog: yorkshire terrier,37,2,25
-1092,german_shorthaired_8.jpg,Dog: german shorthaired,15,2,9
-1093,British_Shorthair_68.jpg,Cat: british shorthair,10,1,5
-1094,shiba_inu_120.jpg,Dog: shiba inu,32,2,22
-1095,basset_hound_133.jpg,Dog: basset hound,4,2,3
-1096,Russian_Blue_171.jpg,Cat: russian blue,28,1,10
-1097,Abyssinian_77.jpg,Cat: abyssinian,1,1,1
-1098,Sphynx_83.jpg,Cat: sphynx,34,1,12
-1099,pug_44.jpg,Dog: pug,26,2,18
-1100,great_pyrenees_181.jpg,Dog: great pyrenees,16,2,10
-1101,beagle_33.jpg,Dog: beagle,5,2,4
-1102,wheaten_terrier_133.jpg,Dog: wheaten terrier,36,2,24
-1103,beagle_85.jpg,Dog: beagle,5,2,4
-1104,staffordshire_bull_terrier_167.jpg,Dog: staffordshire bull terrier,35,2,23
-1105,Birman_149.jpg,Cat: birman,7,1,3
-1106,japanese_chin_185.jpg,Dog: japanese chin,18,2,12
-1107,boxer_122.jpg,Dog: boxer,9,2,5
-1108,Abyssinian_118.jpg,Cat: abyssinian,1,1,1
-1109,havanese_4.jpg,Dog: havanese,17,2,11
-1110,Birman_72.jpg,Cat: birman,7,1,3
-1111,german_shorthaired_11.jpg,Dog: german shorthaired,15,2,9
-1112,pug_123.jpg,Dog: pug,26,2,18
-1113,scottish_terrier_108.jpg,Dog: scottish terrier,31,2,21
-1114,english_setter_138.jpg,Dog: english setter,14,2,8
-1115,Bombay_200.jpg,Cat: bombay,8,1,4
-1116,Ragdoll_130.jpg,Cat: ragdoll,27,1,9
-1117,scottish_terrier_178.jpg,Dog: scottish terrier,31,2,21
-1118,Ragdoll_37.jpg,Cat: ragdoll,27,1,9
-1119,Russian_Blue_204.jpg,Cat: russian blue,28,1,10
-1120,saint_bernard_41.jpg,Dog: saint bernard,29,2,19
-1121,Bombay_160.jpg,Cat: bombay,8,1,4
-1122,saint_bernard_91.jpg,Dog: saint bernard,29,2,19
-1123,newfoundland_172.jpg,Dog: newfoundland,23,2,16
-1124,keeshond_31.jpg,Dog: keeshond,19,2,13
-1125,Egyptian_Mau_13.jpg,Cat: egyptian mau,12,1,6
-1126,english_cocker_spaniel_17.jpg,Dog: english cocker spaniel,13,2,7
-1127,japanese_chin_53.jpg,Dog: japanese chin,18,2,12
-1128,great_pyrenees_185.jpg,Dog: great pyrenees,16,2,10
-1129,British_Shorthair_200.jpg,Cat: british shorthair,10,1,5
-1130,newfoundland_195.jpg,Dog: newfoundland,23,2,16
-1131,saint_bernard_138.jpg,Dog: saint bernard,29,2,19
-1132,pomeranian_52.jpg,Dog: pomeranian,25,2,17
-1133,pomeranian_61.jpg,Dog: pomeranian,25,2,17
-1134,shiba_inu_195.jpg,Dog: shiba inu,32,2,22
-1135,Bengal_100.jpg,Cat: bengal,6,1,2
-1136,boxer_118.jpg,Dog: boxer,9,2,5
-1137,Sphynx_155.jpg,Cat: sphynx,34,1,12
-1138,Egyptian_Mau_94.jpg,Cat: egyptian mau,12,1,6
-1139,shiba_inu_56.jpg,Dog: shiba inu,32,2,22
-1140,miniature_pinscher_100.jpg,Dog: miniature pinscher,22,2,15
-1141,Birman_96.jpg,Cat: birman,7,1,3
-1142,havanese_54.jpg,Dog: havanese,17,2,11
-1143,basset_hound_39.jpg,Dog: basset hound,4,2,3
-1144,miniature_pinscher_82.jpg,Dog: miniature pinscher,22,2,15
-1145,great_pyrenees_169.jpg,Dog: great pyrenees,16,2,10
-1146,Persian_66.jpg,Cat: persian,24,1,8
-1147,yorkshire_terrier_84.jpg,Dog: yorkshire terrier,37,2,25
-1148,leonberger_65.jpg,Dog: leonberger,20,2,14
-1149,havanese_104.jpg,Dog: havanese,17,2,11
-1150,Ragdoll_29.jpg,Cat: ragdoll,27,1,9
-1151,american_bulldog_120.jpg,Dog: american bulldog,2,2,1
-1152,Bengal_128.jpg,Cat: bengal,6,1,2
-1153,shiba_inu_71.jpg,Dog: shiba inu,32,2,22
-1154,Bombay_203.jpg,Cat: bombay,8,1,4
-1155,english_setter_6.jpg,Dog: english setter,14,2,8
-1156,beagle_82.jpg,Dog: beagle,5,2,4
-1157,shiba_inu_97.jpg,Dog: shiba inu,32,2,22
-1158,great_pyrenees_92.jpg,Dog: great pyrenees,16,2,10
-1159,english_cocker_spaniel_111.jpg,Dog: english cocker spaniel,13,2,7
-1160,american_pit_bull_terrier_139.jpg,Dog: american pit bull terrier,3,2,2
-1161,Ragdoll_114.jpg,Cat: ragdoll,27,1,9
-1162,english_cocker_spaniel_169.jpg,Dog: english cocker spaniel,13,2,7
-1163,newfoundland_85.jpg,Dog: newfoundland,23,2,16
-1164,Siamese_160.jpg,Cat: siamese,33,1,11
-1165,yorkshire_terrier_94.jpg,Dog: yorkshire terrier,37,2,25
-1166,havanese_164.jpg,Dog: havanese,17,2,11
-1167,beagle_156.jpg,Dog: beagle,5,2,4
-1168,shiba_inu_128.jpg,Dog: shiba inu,32,2,22
-1169,Russian_Blue_145.jpg,Cat: russian blue,28,1,10
-1170,miniature_pinscher_151.jpg,Dog: miniature pinscher,22,2,15
-1171,wheaten_terrier_118.jpg,Dog: wheaten terrier,36,2,24
-1172,Birman_130.jpg,Cat: birman,7,1,3
-1173,boxer_1.jpg,Dog: boxer,9,2,5
-1174,shiba_inu_38.jpg,Dog: shiba inu,32,2,22
-1175,boxer_91.jpg,Dog: boxer,9,2,5
-1176,Persian_132.jpg,Cat: persian,24,1,8
-1177,chihuahua_165.jpg,Dog: chihuahua,11,2,6
-1178,beagle_77.jpg,Dog: beagle,5,2,4
-1179,British_Shorthair_51.jpg,Cat: british shorthair,10,1,5
-1180,saint_bernard_175.jpg,Dog: saint bernard,29,2,19
-1181,shiba_inu_81.jpg,Dog: shiba inu,32,2,22
-1182,japanese_chin_133.jpg,Dog: japanese chin,18,2,12
-1183,Bombay_205.jpg,Cat: bombay,8,1,4
-1184,yorkshire_terrier_14.jpg,Dog: yorkshire terrier,37,2,25
-1185,pug_74.jpg,Dog: pug,26,2,18
-1186,Egyptian_Mau_163.jpg,Cat: egyptian mau,12,1,6
-1187,havanese_168.jpg,Dog: havanese,17,2,11
-1188,shiba_inu_182.jpg,Dog: shiba inu,32,2,22
-1189,american_pit_bull_terrier_29.jpg,Dog: american pit bull terrier,3,2,2
-1190,american_pit_bull_terrier_4.jpg,Dog: american pit bull terrier,3,2,2
-1191,scottish_terrier_188.jpg,Dog: scottish terrier,31,2,21
-1192,english_cocker_spaniel_179.jpg,Dog: english cocker spaniel,13,2,7
-1193,boxer_128.jpg,Dog: boxer,9,2,5
-1194,boxer_27.jpg,Dog: boxer,9,2,5
-1195,wheaten_terrier_29.jpg,Dog: wheaten terrier,36,2,24
-1196,Sphynx_251.jpg,Cat: sphynx,34,1,12
-1197,chihuahua_25.jpg,Dog: chihuahua,11,2,6
-1198,boxer_32.jpg,Dog: boxer,9,2,5
-1199,saint_bernard_52.jpg,Dog: saint bernard,29,2,19
-1200,yorkshire_terrier_110.jpg,Dog: yorkshire terrier,37,2,25
-1201,keeshond_94.jpg,Dog: keeshond,19,2,13
-1202,american_bulldog_140.jpg,Dog: american bulldog,2,2,1
-1203,boxer_35.jpg,Dog: boxer,9,2,5
-1204,leonberger_137.jpg,Dog: leonberger,20,2,14
-1205,scottish_terrier_105.jpg,Dog: scottish terrier,31,2,21
-1206,Bengal_174.jpg,Cat: bengal,6,1,2
-1207,Maine_Coon_10.jpg,Cat: maine coon,21,1,7
-1208,american_pit_bull_terrier_180.jpg,Dog: american pit bull terrier,3,2,2
-1209,saint_bernard_46.jpg,Dog: saint bernard,29,2,19
-1210,Maine_Coon_196.jpg,Cat: maine coon,21,1,7
-1211,shiba_inu_136.jpg,Dog: shiba inu,32,2,22
-1212,Sphynx_249.jpg,Cat: sphynx,34,1,12
-1213,Persian_84.jpg,Cat: persian,24,1,8
-1214,Bengal_109.jpg,Cat: bengal,6,1,2
-1215,scottish_terrier_107.jpg,Dog: scottish terrier,31,2,21
-1216,miniature_pinscher_79.jpg,Dog: miniature pinscher,22,2,15
-1217,pomeranian_37.jpg,Dog: pomeranian,25,2,17
-1218,boxer_98.jpg,Dog: boxer,9,2,5
-1219,Sphynx_121.jpg,Cat: sphynx,34,1,12
-1220,miniature_pinscher_43.jpg,Dog: miniature pinscher,22,2,15
-1221,Egyptian_Mau_191.gif,Cat: egyptian mau,12,1,6
-1222,British_Shorthair_210.jpg,Cat: british shorthair,10,1,5
-1223,Maine_Coon_136.jpg,Cat: maine coon,21,1,7
-1224,scottish_terrier_45.jpg,Dog: scottish terrier,31,2,21
-1225,British_Shorthair_272.jpg,Cat: british shorthair,10,1,5
-1226,Maine_Coon_265.jpg,Cat: maine coon,21,1,7
-1227,saint_bernard_139.jpg,Dog: saint bernard,29,2,19
-1228,keeshond_162.jpg,Dog: keeshond,19,2,13
-1229,shiba_inu_47.jpg,Dog: shiba inu,32,2,22
-1230,pomeranian_180.jpg,Dog: pomeranian,25,2,17
-1231,Bengal_176.jpg,Cat: bengal,6,1,2
-1232,British_Shorthair_37.jpg,Cat: british shorthair,10,1,5
-1233,Sphynx_170.jpg,Cat: sphynx,34,1,12
-1234,saint_bernard_28.jpg,Dog: saint bernard,29,2,19
-1235,chihuahua_1.jpg,Dog: chihuahua,11,2,6
-1236,great_pyrenees_183.jpg,Dog: great pyrenees,16,2,10
-1237,boxer_141.jpg,Dog: boxer,9,2,5
-1238,saint_bernard_196.jpg,Dog: saint bernard,29,2,19
-1239,american_pit_bull_terrier_74.jpg,Dog: american pit bull terrier,3,2,2
-1240,yorkshire_terrier_182.jpg,Dog: yorkshire terrier,37,2,25
-1241,wheaten_terrier_25.jpg,Dog: wheaten terrier,36,2,24
-1242,shiba_inu_1.jpg,Dog: shiba inu,32,2,22
-1243,scottish_terrier_88.jpg,Dog: scottish terrier,31,2,21
-1244,great_pyrenees_163.jpg,Dog: great pyrenees,16,2,10
-1245,Birman_69.jpg,Cat: birman,7,1,3
-1246,english_cocker_spaniel_42.jpg,Dog: english cocker spaniel,13,2,7
-1247,Bombay_177.jpg,Cat: bombay,8,1,4
-1248,Ragdoll_69.jpg,Cat: ragdoll,27,1,9
-1249,Ragdoll_5.jpg,Cat: ragdoll,27,1,9
-1250,pomeranian_157.jpg,Dog: pomeranian,25,2,17
-1251,staffordshire_bull_terrier_67.jpg,Dog: staffordshire bull terrier,35,2,23
-1252,staffordshire_bull_terrier_158.jpg,Dog: staffordshire bull terrier,35,2,23
-1253,yorkshire_terrier_87.jpg,Dog: yorkshire terrier,37,2,25
-1254,english_cocker_spaniel_142.jpg,Dog: english cocker spaniel,13,2,7
-1255,British_Shorthair_114.jpg,Cat: british shorthair,10,1,5
-1256,Russian_Blue_61.jpg,Cat: russian blue,28,1,10
-1257,wheaten_terrier_128.jpg,Dog: wheaten terrier,36,2,24
-1258,Russian_Blue_80.jpg,Cat: russian blue,28,1,10
-1259,Siamese_234.jpg,Cat: siamese,33,1,11
-1260,beagle_115.jpg,Dog: beagle,5,2,4
-1261,samoyed_50.jpg,Dog: samoyed,30,2,20
-1262,keeshond_15.jpg,Dog: keeshond,19,2,13
-1263,Birman_41.jpg,Cat: birman,7,1,3
-1264,boxer_185.jpg,Dog: boxer,9,2,5
-1265,staffordshire_bull_terrier_105.jpg,Dog: staffordshire bull terrier,35,2,23
-1266,pug_92.jpg,Dog: pug,26,2,18
-1267,Egyptian_Mau_21.jpg,Cat: egyptian mau,12,1,6
-1268,pug_24.jpg,Dog: pug,26,2,18
-1269,Siamese_151.jpg,Cat: siamese,33,1,11
-1270,Sphynx_234.jpg,Cat: sphynx,34,1,12
-1271,saint_bernard_21.jpg,Dog: saint bernard,29,2,19
-1272,english_cocker_spaniel_6.jpg,Dog: english cocker spaniel,13,2,7
-1273,boxer_189.jpg,Dog: boxer,9,2,5
-1274,scottish_terrier_79.jpg,Dog: scottish terrier,31,2,21
-1275,american_pit_bull_terrier_201.jpg,Dog: american pit bull terrier,3,2,2
-1276,Sphynx_185.jpg,Cat: sphynx,34,1,12
-1277,japanese_chin_8.jpg,Dog: japanese chin,18,2,12
-1278,Birman_25.jpg,Cat: birman,7,1,3
-1279,saint_bernard_159.jpg,Dog: saint bernard,29,2,19
-1280,Siamese_109.jpg,Cat: siamese,33,1,11
-1281,Sphynx_206.jpg,Cat: sphynx,34,1,12
-1282,Bengal_96.jpg,Cat: bengal,6,1,2
-1283,British_Shorthair_156.jpg,Cat: british shorthair,10,1,5
-1284,miniature_pinscher_155.jpg,Dog: miniature pinscher,22,2,15
-1285,Maine_Coon_119.jpg,Cat: maine coon,21,1,7
-1286,keeshond_96.jpg,Dog: keeshond,19,2,13
-1287,american_pit_bull_terrier_123.jpg,Dog: american pit bull terrier,3,2,2
-1288,english_setter_74.jpg,Dog: english setter,14,2,8
-1289,german_shorthaired_60.jpg,Dog: german shorthaired,15,2,9
-1290,Maine_Coon_60.jpg,Cat: maine coon,21,1,7
-1291,leonberger_155.jpg,Dog: leonberger,20,2,14
-1292,beagle_204.jpg,Dog: beagle,5,2,4
-1293,keeshond_125.jpg,Dog: keeshond,19,2,13
-1294,yorkshire_terrier_198.jpg,Dog: yorkshire terrier,37,2,25
-1295,shiba_inu_76.jpg,Dog: shiba inu,32,2,22
-1296,english_cocker_spaniel_168.jpg,Dog: english cocker spaniel,13,2,7
-1297,newfoundland_189.jpg,Dog: newfoundland,23,2,16
-1298,Ragdoll_162.jpg,Cat: ragdoll,27,1,9
-1299,japanese_chin_146.jpg,Dog: japanese chin,18,2,12
-1300,pomeranian_54.jpg,Dog: pomeranian,25,2,17
-1301,english_cocker_spaniel_70.jpg,Dog: english cocker spaniel,13,2,7
-1302,shiba_inu_174.jpg,Dog: shiba inu,32,2,22
-1303,american_bulldog_132.jpg,Dog: american bulldog,2,2,1
-1304,basset_hound_158.jpg,Dog: basset hound,4,2,3
-1305,beagle_10.jpg,Dog: beagle,5,2,4
-1306,Abyssinian_73.jpg,Cat: abyssinian,1,1,1
-1307,havanese_134.jpg,Dog: havanese,17,2,11
-1308,basset_hound_86.jpg,Dog: basset hound,4,2,3
-1309,german_shorthaired_16.jpg,Dog: german shorthaired,15,2,9
-1310,keeshond_122.jpg,Dog: keeshond,19,2,13
-1311,Ragdoll_116.jpg,Cat: ragdoll,27,1,9
-1312,basset_hound_22.jpg,Dog: basset hound,4,2,3
-1313,yorkshire_terrier_45.jpg,Dog: yorkshire terrier,37,2,25
-1314,Bombay_37.jpg,Cat: bombay,8,1,4
-1315,leonberger_130.jpg,Dog: leonberger,20,2,14
-1316,staffordshire_bull_terrier_31.jpg,Dog: staffordshire bull terrier,35,2,23
-1317,Persian_174.jpg,Cat: persian,24,1,8
-1318,miniature_pinscher_165.jpg,Dog: miniature pinscher,22,2,15
-1319,shiba_inu_119.jpg,Dog: shiba inu,32,2,22
-1320,leonberger_143.jpg,Dog: leonberger,20,2,14
-1321,Abyssinian_168.jpg,Cat: abyssinian,1,1,1
-1322,Abyssinian_159.jpg,Cat: abyssinian,1,1,1
-1323,japanese_chin_123.jpg,Dog: japanese chin,18,2,12
-1324,Sphynx_59.jpg,Cat: sphynx,34,1,12
-1325,pug_45.jpg,Dog: pug,26,2,18
-1326,newfoundland_6.jpg,Dog: newfoundland,23,2,16
-1327,Bengal_11.jpg,Cat: bengal,6,1,2
-1328,Maine_Coon_159.jpg,Cat: maine coon,21,1,7
-1329,yorkshire_terrier_5.jpg,Dog: yorkshire terrier,37,2,25
-1330,Persian_259.jpg,Cat: persian,24,1,8
-1331,shiba_inu_137.jpg,Dog: shiba inu,32,2,22
-1332,Bengal_107.jpg,Cat: bengal,6,1,2
-1333,Persian_88.jpg,Cat: persian,24,1,8
-1334,german_shorthaired_20.jpg,Dog: german shorthaired,15,2,9
-1335,basset_hound_134.jpg,Dog: basset hound,4,2,3
-1336,american_bulldog_122.jpg,Dog: american bulldog,2,2,1
-1337,Abyssinian_201.jpg,Cat: abyssinian,1,1,1
-1338,beagle_192.jpg,Dog: beagle,5,2,4
-1339,Ragdoll_254.jpg,Cat: ragdoll,27,1,9
-1340,miniature_pinscher_52.jpg,Dog: miniature pinscher,22,2,15
-1341,yorkshire_terrier_7.jpg,Dog: yorkshire terrier,37,2,25
-1342,Siamese_198.jpg,Cat: siamese,33,1,11
-1343,chihuahua_76.jpg,Dog: chihuahua,11,2,6
-1344,samoyed_3.jpg,Dog: samoyed,30,2,20
-1345,Birman_78.jpg,Cat: birman,7,1,3
-1346,american_pit_bull_terrier_167.jpg,Dog: american pit bull terrier,3,2,2
-1347,newfoundland_157.jpg,Dog: newfoundland,23,2,16
-1348,german_shorthaired_91.jpg,Dog: german shorthaired,15,2,9
-1349,pomeranian_165.jpg,Dog: pomeranian,25,2,17
-1350,miniature_pinscher_171.jpg,Dog: miniature pinscher,22,2,15
-1351,pomeranian_117.jpg,Dog: pomeranian,25,2,17
-1352,basset_hound_167.jpg,Dog: basset hound,4,2,3
-1353,Bombay_167.jpg,Cat: bombay,8,1,4
-1354,american_bulldog_201.jpg,Dog: american bulldog,2,2,1
-1355,english_cocker_spaniel_172.jpg,Dog: english cocker spaniel,13,2,7
-1356,staffordshire_bull_terrier_50.jpg,Dog: staffordshire bull terrier,35,2,23
-1357,american_pit_bull_terrier_22.jpg,Dog: american pit bull terrier,3,2,2
-1358,chihuahua_54.jpg,Dog: chihuahua,11,2,6
-1359,leonberger_153.jpg,Dog: leonberger,20,2,14
-1360,Abyssinian_52.jpg,Cat: abyssinian,1,1,1
-1361,shiba_inu_52.jpg,Dog: shiba inu,32,2,22
-1362,german_shorthaired_44.jpg,Dog: german shorthaired,15,2,9
-1363,samoyed_16.jpg,Dog: samoyed,30,2,20
-1364,american_bulldog_81.jpg,Dog: american bulldog,2,2,1
-1365,shiba_inu_39.jpg,Dog: shiba inu,32,2,22
-1366,Abyssinian_219.jpg,Cat: abyssinian,1,1,1
-1367,keeshond_85.jpg,Dog: keeshond,19,2,13
-1368,beagle_127.jpg,Dog: beagle,5,2,4
-1369,scottish_terrier_86.jpg,Dog: scottish terrier,31,2,21
-1370,yorkshire_terrier_100.jpg,Dog: yorkshire terrier,37,2,25
-1371,wheaten_terrier_190.jpg,Dog: wheaten terrier,36,2,24
-1372,american_bulldog_96.jpg,Dog: american bulldog,2,2,1
-1373,saint_bernard_61.jpg,Dog: saint bernard,29,2,19
-1374,boxer_133.jpg,Dog: boxer,9,2,5
-1375,Bombay_65.jpg,Cat: bombay,8,1,4
-1376,shiba_inu_207.jpg,Dog: shiba inu,32,2,22
-1377,english_setter_151.jpg,Dog: english setter,14,2,8
-1378,english_setter_85.jpg,Dog: english setter,14,2,8
-1379,shiba_inu_14.jpg,Dog: shiba inu,32,2,22
-1380,english_setter_61.jpg,Dog: english setter,14,2,8
-1381,american_bulldog_33.jpg,Dog: american bulldog,2,2,1
-1382,shiba_inu_141.jpg,Dog: shiba inu,32,2,22
-1383,staffordshire_bull_terrier_92.jpg,Dog: staffordshire bull terrier,35,2,23
-1384,great_pyrenees_45.jpg,Dog: great pyrenees,16,2,10
-1385,yorkshire_terrier_10.jpg,Dog: yorkshire terrier,37,2,25
-1386,boxer_154.jpg,Dog: boxer,9,2,5
-1387,yorkshire_terrier_80.jpg,Dog: yorkshire terrier,37,2,25
-1388,great_pyrenees_30.jpg,Dog: great pyrenees,16,2,10
-1389,Maine_Coon_64.jpg,Cat: maine coon,21,1,7
-1390,Bengal_50.jpg,Cat: bengal,6,1,2
-1391,Abyssinian_126.jpg,Cat: abyssinian,1,1,1
-1392,scottish_terrier_75.jpg,Dog: scottish terrier,31,2,21
-1393,Birman_107.jpg,Cat: birman,7,1,3
-1394,pug_108.jpg,Dog: pug,26,2,18
-1395,keeshond_195.jpg,Dog: keeshond,19,2,13
-1396,British_Shorthair_72.jpg,Cat: british shorthair,10,1,5
-1397,keeshond_101.jpg,Dog: keeshond,19,2,13
-1398,Bombay_15.jpg,Cat: bombay,8,1,4
-1399,keeshond_60.jpg,Dog: keeshond,19,2,13
-1400,american_pit_bull_terrier_153.jpg,Dog: american pit bull terrier,3,2,2
-1401,chihuahua_20.jpg,Dog: chihuahua,11,2,6
-1402,Abyssinian_177.jpg,Cat: abyssinian,1,1,1
-1403,Siamese_22.jpg,Cat: siamese,33,1,11
-1404,Russian_Blue_136.jpg,Cat: russian blue,28,1,10
-1405,Birman_74.jpg,Cat: birman,7,1,3
-1406,german_shorthaired_149.jpg,Dog: german shorthaired,15,2,9
-1407,japanese_chin_6.jpg,Dog: japanese chin,18,2,12
-1408,miniature_pinscher_170.jpg,Dog: miniature pinscher,22,2,15
-1409,american_pit_bull_terrier_76.jpg,Dog: american pit bull terrier,3,2,2
-1410,Russian_Blue_153.jpg,Cat: russian blue,28,1,10
-1411,miniature_pinscher_163.jpg,Dog: miniature pinscher,22,2,15
-1412,miniature_pinscher_50.jpg,Dog: miniature pinscher,22,2,15
-1413,beagle_37.jpg,Dog: beagle,5,2,4
-1414,pomeranian_146.jpg,Dog: pomeranian,25,2,17
-1415,Bengal_123.jpg,Cat: bengal,6,1,2
-1416,samoyed_158.jpg,Dog: samoyed,30,2,20
-1417,beagle_108.jpg,Dog: beagle,5,2,4
-1418,Ragdoll_255.jpg,Cat: ragdoll,27,1,9
-1419,Egyptian_Mau_36.jpg,Cat: egyptian mau,12,1,6
-1420,english_setter_127.jpg,Dog: english setter,14,2,8
-1421,samoyed_81.jpg,Dog: samoyed,30,2,20
-1422,Abyssinian_145.jpg,Cat: abyssinian,1,1,1
-1423,great_pyrenees_165.jpg,Dog: great pyrenees,16,2,10
-1424,basset_hound_174.jpg,Dog: basset hound,4,2,3
-1425,german_shorthaired_64.jpg,Dog: german shorthaired,15,2,9
-1426,Birman_168.jpg,Cat: birman,7,1,3
-1427,saint_bernard_63.jpg,Dog: saint bernard,29,2,19
-1428,Birman_190.jpg,Cat: birman,7,1,3
-1429,Ragdoll_259.jpg,Cat: ragdoll,27,1,9
-1430,Persian_34.jpg,Cat: persian,24,1,8
-1431,samoyed_101.jpg,Dog: samoyed,30,2,20
-1432,beagle_16.jpg,Dog: beagle,5,2,4
-1433,chihuahua_32.jpg,Dog: chihuahua,11,2,6
-1434,german_shorthaired_86.jpg,Dog: german shorthaired,15,2,9
-1435,wheaten_terrier_50.jpg,Dog: wheaten terrier,36,2,24
-1436,keeshond_58.jpg,Dog: keeshond,19,2,13
-1437,saint_bernard_146.jpg,Dog: saint bernard,29,2,19
-1438,Maine_Coon_158.jpg,Cat: maine coon,21,1,7
-1439,keeshond_108.jpg,Dog: keeshond,19,2,13
-1440,staffordshire_bull_terrier_188.jpg,Dog: staffordshire bull terrier,35,2,23
-1441,german_shorthaired_195.jpg,Dog: german shorthaired,15,2,9
-1442,pomeranian_13.jpg,Dog: pomeranian,25,2,17
-1443,miniature_pinscher_127.jpg,Dog: miniature pinscher,22,2,15
-1444,american_pit_bull_terrier_156.jpg,Dog: american pit bull terrier,3,2,2
-1445,leonberger_95.jpg,Dog: leonberger,20,2,14
-1446,Abyssinian_193.jpg,Cat: abyssinian,1,1,1
-1447,japanese_chin_42.jpg,Dog: japanese chin,18,2,12
-1448,american_pit_bull_terrier_171.jpg,Dog: american pit bull terrier,3,2,2
-1449,Maine_Coon_194.jpg,Cat: maine coon,21,1,7
+Image file,Pet,Class id,Species id,Breed id
+Ragdoll_250.jpg,Cat: ragdoll,27,1,9
+wheaten_terrier_93.jpg,Dog: wheaten terrier,36,2,24
+shiba_inu_203.jpg,Dog: shiba inu,32,2,22
+Maine_Coon_23.jpg,Cat: maine coon,21,1,7
+beagle_114.jpg,Dog: beagle,5,2,4
+newfoundland_110.jpg,Dog: newfoundland,23,2,16
+Bengal_45.jpg,Cat: bengal,6,1,2
+Bombay_6.jpg,Cat: bombay,8,1,4
+Sphynx_134.jpg,Cat: sphynx,34,1,12
+samoyed_139.jpg,Dog: samoyed,30,2,20
+Siamese_57.jpg,Cat: siamese,33,1,11
+newfoundland_128.jpg,Dog: newfoundland,23,2,16
+Ragdoll_93.jpg,Cat: ragdoll,27,1,9
+keeshond_129.jpg,Dog: keeshond,19,2,13
+wheaten_terrier_75.jpg,Dog: wheaten terrier,36,2,24
+staffordshire_bull_terrier_180.jpg,Dog: staffordshire bull terrier,35,2,23
+Birman_7.jpg,Cat: birman,7,1,3
+Ragdoll_166.jpg,Cat: ragdoll,27,1,9
+chihuahua_112.jpg,Dog: chihuahua,11,2,6
+japanese_chin_52.jpg,Dog: japanese chin,18,2,12
+Russian_Blue_147.jpg,Cat: russian blue,28,1,10
+basset_hound_85.jpg,Dog: basset hound,4,2,3
+pug_129.jpg,Dog: pug,26,2,18
+leonberger_193.jpg,Dog: leonberger,20,2,14
+newfoundland_11.jpg,Dog: newfoundland,23,2,16
+miniature_pinscher_191.jpg,Dog: miniature pinscher,22,2,15
+english_setter_21.jpg,Dog: english setter,14,2,8
+Ragdoll_40.jpg,Cat: ragdoll,27,1,9
+great_pyrenees_77.jpg,Dog: great pyrenees,16,2,10
+basset_hound_67.jpg,Dog: basset hound,4,2,3
+Persian_111.jpg,Cat: persian,24,1,8
+american_bulldog_116.jpg,Dog: american bulldog,2,2,1
+leonberger_179.jpg,Dog: leonberger,20,2,14
+keeshond_37.jpg,Dog: keeshond,19,2,13
+Ragdoll_257.jpg,Cat: ragdoll,27,1,9
+Sphynx_58.jpg,Cat: sphynx,34,1,12
+boxer_92.jpg,Dog: boxer,9,2,5
+Bombay_68.jpg,Cat: bombay,8,1,4
+pug_158.jpg,Dog: pug,26,2,18
+american_pit_bull_terrier_38.jpg,Dog: american pit bull terrier,3,2,2
+Ragdoll_174.jpg,Cat: ragdoll,27,1,9
+Sphynx_53.jpg,Cat: sphynx,34,1,12
+yorkshire_terrier_130.jpg,Dog: yorkshire terrier,37,2,25
+german_shorthaired_124.jpg,Dog: german shorthaired,15,2,9
+english_setter_2.jpg,Dog: english setter,14,2,8
+american_pit_bull_terrier_106.jpg,Dog: american pit bull terrier,3,2,2
+samoyed_17.jpg,Dog: samoyed,30,2,20
+pug_178.jpg,Dog: pug,26,2,18
+great_pyrenees_166.jpg,Dog: great pyrenees,16,2,10
+Persian_163.jpg,Cat: persian,24,1,8
+Siamese_100.jpg,Cat: siamese,33,1,11
+Abyssinian_196.jpg,Cat: abyssinian,1,1,1
+beagle_123.jpg,Dog: beagle,5,2,4
+american_bulldog_151.jpg,Dog: american bulldog,2,2,1
+British_Shorthair_104.jpg,Cat: british shorthair,10,1,5
+german_shorthaired_107.jpg,Dog: german shorthaired,15,2,9
+Sphynx_239.jpg,Cat: sphynx,34,1,12
+pug_10.jpg,Dog: pug,26,2,18
+german_shorthaired_68.jpg,Dog: german shorthaired,15,2,9
+Maine_Coon_104.jpg,Cat: maine coon,21,1,7
+Russian_Blue_45.jpg,Cat: russian blue,28,1,10
+american_bulldog_147.jpg,Dog: american bulldog,2,2,1
+leonberger_22.jpg,Dog: leonberger,20,2,14
+yorkshire_terrier_46.jpg,Dog: yorkshire terrier,37,2,25
+basset_hound_71.jpg,Dog: basset hound,4,2,3
+great_pyrenees_72.jpg,Dog: great pyrenees,16,2,10
+Russian_Blue_83.jpg,Cat: russian blue,28,1,10
+basset_hound_196.jpg,Dog: basset hound,4,2,3
+chihuahua_37.jpg,Dog: chihuahua,11,2,6
+Sphynx_74.jpg,Cat: sphynx,34,1,12
+american_bulldog_175.jpg,Dog: american bulldog,2,2,1
+British_Shorthair_213.jpg,Cat: british shorthair,10,1,5
+Egyptian_Mau_192.jpg,Cat: egyptian mau,12,1,6
+scottish_terrier_42.jpg,Dog: scottish terrier,31,2,21
+staffordshire_bull_terrier_29.jpg,Dog: staffordshire bull terrier,35,2,23
+staffordshire_bull_terrier_171.jpg,Dog: staffordshire bull terrier,35,2,23
+boxer_200.jpg,Dog: boxer,9,2,5
+saint_bernard_170.jpg,Dog: saint bernard,29,2,19
+Bombay_96.jpg,Cat: bombay,8,1,4
+Abyssinian_215.jpg,Cat: abyssinian,1,1,1
+scottish_terrier_33.jpg,Dog: scottish terrier,31,2,21
+Persian_122.jpg,Cat: persian,24,1,8
+english_cocker_spaniel_1.jpg,Dog: english cocker spaniel,13,2,7
+British_Shorthair_57.jpg,Cat: british shorthair,10,1,5
+japanese_chin_169.jpg,Dog: japanese chin,18,2,12
+Siamese_66.jpg,Cat: siamese,33,1,11
+scottish_terrier_17.jpg,Dog: scottish terrier,31,2,21
+keeshond_145.jpg,Dog: keeshond,19,2,13
+Abyssinian_15.jpg,Cat: abyssinian,1,1,1
+pug_52.jpg,Dog: pug,26,2,18
+boxer_60.jpg,Dog: boxer,9,2,5
+Persian_102.jpg,Cat: persian,24,1,8
+chihuahua_141.jpg,Dog: chihuahua,11,2,6
+Siamese_184.jpg,Cat: siamese,33,1,11
+Maine_Coon_75.jpg,Cat: maine coon,21,1,7
+boxer_160.jpg,Dog: boxer,9,2,5
+wheaten_terrier_60.jpg,Dog: wheaten terrier,36,2,24
+samoyed_121.jpg,Dog: samoyed,30,2,20
+Birman_175.jpg,Cat: birman,7,1,3
+keeshond_181.jpg,Dog: keeshond,19,2,13
+chihuahua_11.jpg,Dog: chihuahua,11,2,6
+scottish_terrier_52.jpg,Dog: scottish terrier,31,2,21
+saint_bernard_29.jpg,Dog: saint bernard,29,2,19
+saint_bernard_67.jpg,Dog: saint bernard,29,2,19
+Bombay_192.jpg,Cat: bombay,8,1,4
+Birman_1.jpg,Cat: birman,7,1,3
+american_bulldog_90.jpg,Dog: american bulldog,2,2,1
+Abyssinian_6.jpg,Cat: abyssinian,1,1,1
+havanese_70.jpg,Dog: havanese,17,2,11
+newfoundland_96.jpg,Dog: newfoundland,23,2,16
+miniature_pinscher_40.jpg,Dog: miniature pinscher,22,2,15
+Egyptian_Mau_44.jpg,Cat: egyptian mau,12,1,6
+boxer_76.jpg,Dog: boxer,9,2,5
+British_Shorthair_186.jpg,Cat: british shorthair,10,1,5
+basset_hound_11.jpg,Dog: basset hound,4,2,3
+newfoundland_186.jpg,Dog: newfoundland,23,2,16
+pug_166.jpg,Dog: pug,26,2,18
+chihuahua_159.jpg,Dog: chihuahua,11,2,6
+Sphynx_136.jpg,Cat: sphynx,34,1,12
+boxer_108.jpg,Dog: boxer,9,2,5
+staffordshire_bull_terrier_40.jpg,Dog: staffordshire bull terrier,35,2,23
+Abyssinian_54.jpg,Cat: abyssinian,1,1,1
+american_bulldog_115.jpg,Dog: american bulldog,2,2,1
+keeshond_22.jpg,Dog: keeshond,19,2,13
+english_setter_177.jpg,Dog: english setter,14,2,8
+Maine_Coon_61.jpg,Cat: maine coon,21,1,7
+Abyssinian_63.jpg,Cat: abyssinian,1,1,1
+american_bulldog_102.jpg,Dog: american bulldog,2,2,1
+great_pyrenees_4.jpg,Dog: great pyrenees,16,2,10
+boxer_104.jpg,Dog: boxer,9,2,5
+chihuahua_90.jpg,Dog: chihuahua,11,2,6
+Russian_Blue_95.jpg,Cat: russian blue,28,1,10
+Birman_66.jpg,Cat: birman,7,1,3
+beagle_91.jpg,Dog: beagle,5,2,4
+chihuahua_166.jpg,Dog: chihuahua,11,2,6
+beagle_28.jpg,Dog: beagle,5,2,4
+Bengal_53.jpg,Cat: bengal,6,1,2
+american_bulldog_186.jpg,Dog: american bulldog,2,2,1
+beagle_139.jpg,Dog: beagle,5,2,4
+american_pit_bull_terrier_202.jpg,Dog: american pit bull terrier,3,2,2
+pug_136.jpg,Dog: pug,26,2,18
+Persian_9.jpg,Cat: persian,24,1,8
+Abyssinian_16.jpg,Cat: abyssinian,1,1,1
+american_bulldog_100.jpg,Dog: american bulldog,2,2,1
+pug_98.jpg,Dog: pug,26,2,18
+Russian_Blue_137.jpg,Cat: russian blue,28,1,10
+Abyssinian_195.jpg,Cat: abyssinian,1,1,1
+yorkshire_terrier_23.jpg,Dog: yorkshire terrier,37,2,25
+american_pit_bull_terrier_16.jpg,Dog: american pit bull terrier,3,2,2
+beagle_32.jpg,Dog: beagle,5,2,4
+miniature_pinscher_7.jpg,Dog: miniature pinscher,22,2,15
+english_cocker_spaniel_180.jpg,Dog: english cocker spaniel,13,2,7
+havanese_37.jpg,Dog: havanese,17,2,11
+Russian_Blue_99.jpg,Cat: russian blue,28,1,10
+newfoundland_23.jpg,Dog: newfoundland,23,2,16
+Maine_Coon_21.jpg,Cat: maine coon,21,1,7
+keeshond_43.jpg,Dog: keeshond,19,2,13
+saint_bernard_35.jpg,Dog: saint bernard,29,2,19
+Birman_16.jpg,Cat: birman,7,1,3
+Bengal_147.jpg,Cat: bengal,6,1,2
+Bengal_137.jpg,Cat: bengal,6,1,2
+english_setter_64.jpg,Dog: english setter,14,2,8
+yorkshire_terrier_164.jpg,Dog: yorkshire terrier,37,2,25
+Sphynx_54.jpg,Cat: sphynx,34,1,12
+pug_48.jpg,Dog: pug,26,2,18
+pomeranian_59.jpg,Dog: pomeranian,25,2,17
+japanese_chin_7.jpg,Dog: japanese chin,18,2,12
+Russian_Blue_192.jpg,Cat: russian blue,28,1,10
+yorkshire_terrier_124.jpg,Dog: yorkshire terrier,37,2,25
+staffordshire_bull_terrier_101.jpg,Dog: staffordshire bull terrier,35,2,23
+Russian_Blue_181.jpg,Cat: russian blue,28,1,10
+Bombay_64.jpg,Cat: bombay,8,1,4
+Bengal_9.jpg,Cat: bengal,6,1,2
+Persian_13.jpg,Cat: persian,24,1,8
+Bombay_93.jpg,Cat: bombay,8,1,4
+Abyssinian_154.jpg,Cat: abyssinian,1,1,1
+pomeranian_76.jpg,Dog: pomeranian,25,2,17
+boxer_40.jpg,Dog: boxer,9,2,5
+great_pyrenees_15.jpg,Dog: great pyrenees,16,2,10
+British_Shorthair_230.jpg,Cat: british shorthair,10,1,5
+Egyptian_Mau_110.jpg,Cat: egyptian mau,12,1,6
+english_setter_150.jpg,Dog: english setter,14,2,8
+Bengal_75.jpg,Cat: bengal,6,1,2
+pug_66.jpg,Dog: pug,26,2,18
+great_pyrenees_56.jpg,Dog: great pyrenees,16,2,10
+miniature_pinscher_147.jpg,Dog: miniature pinscher,22,2,15
+Egyptian_Mau_9.jpg,Cat: egyptian mau,12,1,6
+Russian_Blue_85.jpg,Cat: russian blue,28,1,10
+german_shorthaired_157.jpg,Dog: german shorthaired,15,2,9
+Persian_37.jpg,Cat: persian,24,1,8
+japanese_chin_159.jpg,Dog: japanese chin,18,2,12
+pug_33.jpg,Dog: pug,26,2,18
+american_pit_bull_terrier_134.jpg,Dog: american pit bull terrier,3,2,2
+great_pyrenees_53.jpg,Dog: great pyrenees,16,2,10
+scottish_terrier_6.jpg,Dog: scottish terrier,31,2,21
+german_shorthaired_42.jpg,Dog: german shorthaired,15,2,9
+miniature_pinscher_124.jpg,Dog: miniature pinscher,22,2,15
+havanese_131.jpg,Dog: havanese,17,2,11
+boxer_149.jpg,Dog: boxer,9,2,5
+german_shorthaired_51.jpg,Dog: german shorthaired,15,2,9
+leonberger_140.jpg,Dog: leonberger,20,2,14
+Bombay_91.jpg,Cat: bombay,8,1,4
+leonberger_74.jpg,Dog: leonberger,20,2,14
+pomeranian_114.jpg,Dog: pomeranian,25,2,17
+wheaten_terrier_24.jpg,Dog: wheaten terrier,36,2,24
+Sphynx_171.jpg,Cat: sphynx,34,1,12
+staffordshire_bull_terrier_185.jpg,Dog: staffordshire bull terrier,35,2,23
+pomeranian_31.jpg,Dog: pomeranian,25,2,17
+boxer_194.jpg,Dog: boxer,9,2,5
+english_cocker_spaniel_3.jpg,Dog: english cocker spaniel,13,2,7
+miniature_pinscher_150.jpg,Dog: miniature pinscher,22,2,15
+chihuahua_115.jpg,Dog: chihuahua,11,2,6
+Egyptian_Mau_133.jpg,Cat: egyptian mau,12,1,6
+miniature_pinscher_113.jpg,Dog: miniature pinscher,22,2,15
+english_setter_104.jpg,Dog: english setter,14,2,8
+Persian_257.jpg,Cat: persian,24,1,8
+american_pit_bull_terrier_162.jpg,Dog: american pit bull terrier,3,2,2
+Egyptian_Mau_197.jpg,Cat: egyptian mau,12,1,6
+yorkshire_terrier_107.jpg,Dog: yorkshire terrier,37,2,25
+Siamese_196.jpg,Cat: siamese,33,1,11
+pomeranian_139.jpg,Dog: pomeranian,25,2,17
+great_pyrenees_84.jpg,Dog: great pyrenees,16,2,10
+Abyssinian_10.jpg,Cat: abyssinian,1,1,1
+american_pit_bull_terrier_51.jpg,Dog: american pit bull terrier,3,2,2
+shiba_inu_40.jpg,Dog: shiba inu,32,2,22
+miniature_pinscher_71.jpg,Dog: miniature pinscher,22,2,15
+japanese_chin_67.jpg,Dog: japanese chin,18,2,12
+Maine_Coon_186.jpg,Cat: maine coon,21,1,7
+Siamese_140.jpg,Cat: siamese,33,1,11
+staffordshire_bull_terrier_199.jpg,Dog: staffordshire bull terrier,35,2,23
+staffordshire_bull_terrier_9.jpg,Dog: staffordshire bull terrier,35,2,23
+havanese_99.jpg,Dog: havanese,17,2,11
+Abyssinian_178.jpg,Cat: abyssinian,1,1,1
+pug_39.jpg,Dog: pug,26,2,18
+boxer_4.jpg,Dog: boxer,9,2,5
+leonberger_59.jpg,Dog: leonberger,20,2,14
+german_shorthaired_54.jpg,Dog: german shorthaired,15,2,9
+chihuahua_184.jpg,Dog: chihuahua,11,2,6
+boxer_119.jpg,Dog: boxer,9,2,5
+havanese_89.jpg,Dog: havanese,17,2,11
+saint_bernard_183.jpg,Dog: saint bernard,29,2,19
+miniature_pinscher_3.jpg,Dog: miniature pinscher,22,2,15
+leonberger_194.jpg,Dog: leonberger,20,2,14
+shiba_inu_19.jpg,Dog: shiba inu,32,2,22
+Bengal_114.jpg,Cat: bengal,6,1,2
+Ragdoll_193.jpg,Cat: ragdoll,27,1,9
+great_pyrenees_153.jpg,Dog: great pyrenees,16,2,10
+Birman_6.jpg,Cat: birman,7,1,3
+chihuahua_182.jpg,Dog: chihuahua,11,2,6
+japanese_chin_186.jpg,Dog: japanese chin,18,2,12
+shiba_inu_134.jpg,Dog: shiba inu,32,2,22
+keeshond_6.jpg,Dog: keeshond,19,2,13
+Maine_Coon_269.jpg,Cat: maine coon,21,1,7
+leonberger_32.jpg,Dog: leonberger,20,2,14
+Bengal_4.jpg,Cat: bengal,6,1,2
+english_setter_152.jpg,Dog: english setter,14,2,8
+miniature_pinscher_47.jpg,Dog: miniature pinscher,22,2,15
+yorkshire_terrier_133.jpg,Dog: yorkshire terrier,37,2,25
+Abyssinian_102.jpg,Cat: abyssinian,1,1,1
+Persian_10.jpg,Cat: persian,24,1,8
+great_pyrenees_145.jpg,Dog: great pyrenees,16,2,10
+Persian_256.jpg,Cat: persian,24,1,8
+Persian_94.jpg,Cat: persian,24,1,8
+keeshond_64.jpg,Dog: keeshond,19,2,13
+basset_hound_92.jpg,Dog: basset hound,4,2,3
+newfoundland_133.jpg,Dog: newfoundland,23,2,16
+Egyptian_Mau_85.jpg,Cat: egyptian mau,12,1,6
+pug_4.jpg,Dog: pug,26,2,18
+pug_156.jpg,Dog: pug,26,2,18
+shiba_inu_75.jpg,Dog: shiba inu,32,2,22
+american_pit_bull_terrier_92.jpg,Dog: american pit bull terrier,3,2,2
+basset_hound_45.jpg,Dog: basset hound,4,2,3
+Ragdoll_186.jpg,Cat: ragdoll,27,1,9
+shiba_inu_41.jpg,Dog: shiba inu,32,2,22
+boxer_17.jpg,Dog: boxer,9,2,5
+chihuahua_183.jpg,Dog: chihuahua,11,2,6
+american_pit_bull_terrier_95.jpg,Dog: american pit bull terrier,3,2,2
+British_Shorthair_196.jpg,Cat: british shorthair,10,1,5
+leonberger_79.jpg,Dog: leonberger,20,2,14
+British_Shorthair_168.jpg,Cat: british shorthair,10,1,5
+german_shorthaired_141.jpg,Dog: german shorthaired,15,2,9
+Egyptian_Mau_186.png,Cat: egyptian mau,12,1,6
+havanese_83.jpg,Dog: havanese,17,2,11
+german_shorthaired_114.jpg,Dog: german shorthaired,15,2,9
+pug_77.jpg,Dog: pug,26,2,18
+Siamese_116.jpg,Cat: siamese,33,1,11
+havanese_162.jpg,Dog: havanese,17,2,11
+basset_hound_73.jpg,Dog: basset hound,4,2,3
+Persian_144.jpg,Cat: persian,24,1,8
+Persian_224.jpg,Cat: persian,24,1,8
+miniature_pinscher_148.jpg,Dog: miniature pinscher,22,2,15
+scottish_terrier_128.jpg,Dog: scottish terrier,31,2,21
+great_pyrenees_20.jpg,Dog: great pyrenees,16,2,10
+leonberger_159.jpg,Dog: leonberger,20,2,14
+american_pit_bull_terrier_27.jpg,Dog: american pit bull terrier,3,2,2
+British_Shorthair_83.jpg,Cat: british shorthair,10,1,5
+boxer_65.jpg,Dog: boxer,9,2,5
+english_setter_47.jpg,Dog: english setter,14,2,8
+Russian_Blue_150.jpg,Cat: russian blue,28,1,10
+Siamese_225.jpg,Cat: siamese,33,1,11
+newfoundland_196.jpg,Dog: newfoundland,23,2,16
+scottish_terrier_111.jpg,Dog: scottish terrier,31,2,21
+Bengal_101.jpg,Cat: bengal,6,1,2
+Russian_Blue_53.jpg,Cat: russian blue,28,1,10
+newfoundland_25.jpg,Dog: newfoundland,23,2,16
+pomeranian_199.jpg,Dog: pomeranian,25,2,17
+Sphynx_80.jpg,Cat: sphynx,34,1,12
+japanese_chin_31.jpg,Dog: japanese chin,18,2,12
+Birman_43.jpg,Cat: birman,7,1,3
+japanese_chin_160.jpg,Dog: japanese chin,18,2,12
+havanese_61.jpg,Dog: havanese,17,2,11
+Sphynx_197.jpg,Cat: sphynx,34,1,12
+leonberger_43.jpg,Dog: leonberger,20,2,14
+shiba_inu_21.jpg,Dog: shiba inu,32,2,22
+german_shorthaired_56.jpg,Dog: german shorthaired,15,2,9
+japanese_chin_12.jpg,Dog: japanese chin,18,2,12
+american_bulldog_46.jpg,Dog: american bulldog,2,2,1
+pomeranian_156.jpg,Dog: pomeranian,25,2,17
+havanese_110.jpg,Dog: havanese,17,2,11
+american_bulldog_87.jpg,Dog: american bulldog,2,2,1
+Russian_Blue_216.jpg,Cat: russian blue,28,1,10
+english_cocker_spaniel_138.jpg,Dog: english cocker spaniel,13,2,7
+scottish_terrier_78.jpg,Dog: scottish terrier,31,2,21
+Maine_Coon_214.jpg,Cat: maine coon,21,1,7
+Abyssinian_29.jpg,Cat: abyssinian,1,1,1
+Sphynx_196.jpg,Cat: sphynx,34,1,12
+great_pyrenees_120.jpg,Dog: great pyrenees,16,2,10
+american_bulldog_194.jpg,Dog: american bulldog,2,2,1
+american_pit_bull_terrier_49.jpg,Dog: american pit bull terrier,3,2,2
+basset_hound_27.jpg,Dog: basset hound,4,2,3
+Sphynx_73.jpg,Cat: sphynx,34,1,12
+samoyed_33.jpg,Dog: samoyed,30,2,20
+pomeranian_104.jpg,Dog: pomeranian,25,2,17
+Sphynx_82.jpg,Cat: sphynx,34,1,12
+Sphynx_76.jpg,Cat: sphynx,34,1,12
+newfoundland_32.jpg,Dog: newfoundland,23,2,16
+Sphynx_133.jpg,Cat: sphynx,34,1,12
+Russian_Blue_207.jpg,Cat: russian blue,28,1,10
+german_shorthaired_94.jpg,Dog: german shorthaired,15,2,9
+Birman_144.jpg,Cat: birman,7,1,3
+Ragdoll_13.jpg,Cat: ragdoll,27,1,9
+english_setter_175.jpg,Dog: english setter,14,2,8
+saint_bernard_130.jpg,Dog: saint bernard,29,2,19
+shiba_inu_140.jpg,Dog: shiba inu,32,2,22
+Bombay_107.jpg,Cat: bombay,8,1,4
+miniature_pinscher_24.jpg,Dog: miniature pinscher,22,2,15
+saint_bernard_151.jpg,Dog: saint bernard,29,2,19
+yorkshire_terrier_64.jpg,Dog: yorkshire terrier,37,2,25
+samoyed_21.jpg,Dog: samoyed,30,2,20
+saint_bernard_172.jpg,Dog: saint bernard,29,2,19
+great_pyrenees_139.jpg,Dog: great pyrenees,16,2,10
+Birman_64.jpg,Cat: birman,7,1,3
+scottish_terrier_60.jpg,Dog: scottish terrier,31,2,21
+japanese_chin_57.jpg,Dog: japanese chin,18,2,12
+leonberger_64.jpg,Dog: leonberger,20,2,14
+Ragdoll_73.jpg,Cat: ragdoll,27,1,9
+Bengal_20.jpg,Cat: bengal,6,1,2
+boxer_51.jpg,Dog: boxer,9,2,5
+beagle_98.jpg,Dog: beagle,5,2,4
+staffordshire_bull_terrier_104.jpg,Dog: staffordshire bull terrier,35,2,23
+British_Shorthair_99.jpg,Cat: british shorthair,10,1,5
+english_setter_123.jpg,Dog: english setter,14,2,8
+chihuahua_142.jpg,Dog: chihuahua,11,2,6
+British_Shorthair_61.jpg,Cat: british shorthair,10,1,5
+miniature_pinscher_103.jpg,Dog: miniature pinscher,22,2,15
+Sphynx_156.jpg,Cat: sphynx,34,1,12
+Egyptian_Mau_70.jpg,Cat: egyptian mau,12,1,6
+wheaten_terrier_140.jpg,Dog: wheaten terrier,36,2,24
+Persian_26.jpg,Cat: persian,24,1,8
+Ragdoll_115.jpg,Cat: ragdoll,27,1,9
+english_setter_193.jpg,Dog: english setter,14,2,8
+Ragdoll_32.jpg,Cat: ragdoll,27,1,9
+chihuahua_100.jpg,Dog: chihuahua,11,2,6
+basset_hound_96.jpg,Dog: basset hound,4,2,3
+miniature_pinscher_64.jpg,Dog: miniature pinscher,22,2,15
+american_pit_bull_terrier_88.jpg,Dog: american pit bull terrier,3,2,2
+english_setter_16.jpg,Dog: english setter,14,2,8
+english_cocker_spaniel_34.jpg,Dog: english cocker spaniel,13,2,7
+german_shorthaired_62.jpg,Dog: german shorthaired,15,2,9
+Abyssinian_224.jpg,Cat: abyssinian,1,1,1
+scottish_terrier_114.jpg,Dog: scottish terrier,31,2,21
+basset_hound_68.jpg,Dog: basset hound,4,2,3
+Bombay_85.jpg,Cat: bombay,8,1,4
+english_cocker_spaniel_79.jpg,Dog: english cocker spaniel,13,2,7
+Bombay_97.jpg,Cat: bombay,8,1,4
+boxer_34.jpg,Dog: boxer,9,2,5
+yorkshire_terrier_191.jpg,Dog: yorkshire terrier,37,2,25
+wheaten_terrier_157.jpg,Dog: wheaten terrier,36,2,24
+american_bulldog_25.jpg,Dog: american bulldog,2,2,1
+havanese_67.jpg,Dog: havanese,17,2,11
+staffordshire_bull_terrier_100.jpg,Dog: staffordshire bull terrier,35,2,23
+miniature_pinscher_2.jpg,Dog: miniature pinscher,22,2,15
+yorkshire_terrier_135.jpg,Dog: yorkshire terrier,37,2,25
+Bombay_193.jpg,Cat: bombay,8,1,4
+newfoundland_58.jpg,Dog: newfoundland,23,2,16
+yorkshire_terrier_176.jpg,Dog: yorkshire terrier,37,2,25
+British_Shorthair_86.jpg,Cat: british shorthair,10,1,5
+miniature_pinscher_109.jpg,Dog: miniature pinscher,22,2,15
+samoyed_88.jpg,Dog: samoyed,30,2,20
+Abyssinian_150.jpg,Cat: abyssinian,1,1,1
+english_cocker_spaniel_18.jpg,Dog: english cocker spaniel,13,2,7
+english_setter_181.jpg,Dog: english setter,14,2,8
+Birman_34.jpg,Cat: birman,7,1,3
+miniature_pinscher_183.jpg,Dog: miniature pinscher,22,2,15
+Birman_141.jpg,Cat: birman,7,1,3
+Abyssinian_220.jpg,Cat: abyssinian,1,1,1
+Maine_Coon_253.jpg,Cat: maine coon,21,1,7
+wheaten_terrier_122.jpg,Dog: wheaten terrier,36,2,24
+samoyed_179.jpg,Dog: samoyed,30,2,20
+Abyssinian_184.jpg,Cat: abyssinian,1,1,1
+Egyptian_Mau_87.jpg,Cat: egyptian mau,12,1,6
+shiba_inu_57.jpg,Dog: shiba inu,32,2,22
+leonberger_46.jpg,Dog: leonberger,20,2,14
+american_bulldog_11.jpg,Dog: american bulldog,2,2,1
+staffordshire_bull_terrier_94.jpg,Dog: staffordshire bull terrier,35,2,23
+german_shorthaired_38.jpg,Dog: german shorthaired,15,2,9
+Persian_98.jpg,Cat: persian,24,1,8
+american_bulldog_82.jpg,Dog: american bulldog,2,2,1
+japanese_chin_121.jpg,Dog: japanese chin,18,2,12
+Sphynx_115.jpg,Cat: sphynx,34,1,12
+leonberger_26.jpg,Dog: leonberger,20,2,14
+Sphynx_105.jpg,Cat: sphynx,34,1,12
+miniature_pinscher_156.jpg,Dog: miniature pinscher,22,2,15
+pug_133.jpg,Dog: pug,26,2,18
+Sphynx_47.jpg,Cat: sphynx,34,1,12
+Maine_Coon_101.jpg,Cat: maine coon,21,1,7
+boxer_145.jpg,Dog: boxer,9,2,5
+havanese_33.jpg,Dog: havanese,17,2,11
+Persian_168.jpg,Cat: persian,24,1,8
+Persian_263.jpg,Cat: persian,24,1,8
+British_Shorthair_18.jpg,Cat: british shorthair,10,1,5
+Russian_Blue_228.jpg,Cat: russian blue,28,1,10
+Maine_Coon_160.jpg,Cat: maine coon,21,1,7
+english_setter_8.jpg,Dog: english setter,14,2,8
+miniature_pinscher_53.jpg,Dog: miniature pinscher,22,2,15
+Siamese_249.jpg,Cat: siamese,33,1,11
+great_pyrenees_99.jpg,Dog: great pyrenees,16,2,10
+saint_bernard_30.jpg,Dog: saint bernard,29,2,19
+german_shorthaired_29.jpg,Dog: german shorthaired,15,2,9
+saint_bernard_118.jpg,Dog: saint bernard,29,2,19
+american_bulldog_167.jpg,Dog: american bulldog,2,2,1
+Egyptian_Mau_210.jpg,Cat: egyptian mau,12,1,6
+British_Shorthair_54.jpg,Cat: british shorthair,10,1,5
+miniature_pinscher_164.jpg,Dog: miniature pinscher,22,2,15
+Abyssinian_78.jpg,Cat: abyssinian,1,1,1
+wheaten_terrier_42.jpg,Dog: wheaten terrier,36,2,24
+Birman_98.jpg,Cat: birman,7,1,3
+leonberger_13.jpg,Dog: leonberger,20,2,14
+samoyed_22.jpg,Dog: samoyed,30,2,20
+newfoundland_21.jpg,Dog: newfoundland,23,2,16
+Siamese_39.jpg,Cat: siamese,33,1,11
+Ragdoll_4.jpg,Cat: ragdoll,27,1,9
+leonberger_90.jpg,Dog: leonberger,20,2,14
+Sphynx_191.jpg,Cat: sphynx,34,1,12
+pug_22.jpg,Dog: pug,26,2,18
+Abyssinian_139.jpg,Cat: abyssinian,1,1,1
+japanese_chin_35.jpg,Dog: japanese chin,18,2,12
+basset_hound_84.jpg,Dog: basset hound,4,2,3
+Birman_8.jpg,Cat: birman,7,1,3
+Sphynx_75.jpg,Cat: sphynx,34,1,12
+english_cocker_spaniel_27.jpg,Dog: english cocker spaniel,13,2,7
+german_shorthaired_187.jpg,Dog: german shorthaired,15,2,9
+pug_169.jpg,Dog: pug,26,2,18
+havanese_69.jpg,Dog: havanese,17,2,11
+wheaten_terrier_145.jpg,Dog: wheaten terrier,36,2,24
+japanese_chin_94.jpg,Dog: japanese chin,18,2,12
+Ragdoll_145.jpg,Cat: ragdoll,27,1,9
+newfoundland_59.jpg,Dog: newfoundland,23,2,16
+Bombay_43.jpg,Cat: bombay,8,1,4
+British_Shorthair_21.jpg,Cat: british shorthair,10,1,5
+scottish_terrier_24.jpg,Dog: scottish terrier,31,2,21
+beagle_24.jpg,Dog: beagle,5,2,4
+Bengal_83.jpg,Cat: bengal,6,1,2
+Sphynx_212.jpg,Cat: sphynx,34,1,12
+Sphynx_87.jpg,Cat: sphynx,34,1,12
+pomeranian_150.jpg,Dog: pomeranian,25,2,17
+japanese_chin_13.jpg,Dog: japanese chin,18,2,12
+great_pyrenees_18.jpg,Dog: great pyrenees,16,2,10
+pug_56.jpg,Dog: pug,26,2,18
+keeshond_53.jpg,Dog: keeshond,19,2,13
+samoyed_84.jpg,Dog: samoyed,30,2,20
+Russian_Blue_166.jpg,Cat: russian blue,28,1,10
+Bengal_17.jpg,Cat: bengal,6,1,2
+chihuahua_126.jpg,Dog: chihuahua,11,2,6
+shiba_inu_111.jpg,Dog: shiba inu,32,2,22
+miniature_pinscher_112.jpg,Dog: miniature pinscher,22,2,15
+newfoundland_198.jpg,Dog: newfoundland,23,2,16
+english_cocker_spaniel_97.jpg,Dog: english cocker spaniel,13,2,7
+havanese_17.jpg,Dog: havanese,17,2,11
+Ragdoll_98.jpg,Cat: ragdoll,27,1,9
+Abyssinian_68.jpg,Cat: abyssinian,1,1,1
+wheaten_terrier_44.jpg,Dog: wheaten terrier,36,2,24
+samoyed_51.jpg,Dog: samoyed,30,2,20
+boxer_130.jpg,Dog: boxer,9,2,5
+leonberger_188.jpg,Dog: leonberger,20,2,14
+japanese_chin_104.jpg,Dog: japanese chin,18,2,12
+yorkshire_terrier_97.jpg,Dog: yorkshire terrier,37,2,25
+german_shorthaired_147.jpg,Dog: german shorthaired,15,2,9
+yorkshire_terrier_8.jpg,Dog: yorkshire terrier,37,2,25
+newfoundland_22.jpg,Dog: newfoundland,23,2,16
+great_pyrenees_86.jpg,Dog: great pyrenees,16,2,10
+leonberger_196.jpg,Dog: leonberger,20,2,14
+wheaten_terrier_135.jpg,Dog: wheaten terrier,36,2,24
+British_Shorthair_154.jpg,Cat: british shorthair,10,1,5
+Abyssinian_112.jpg,Cat: abyssinian,1,1,1
+german_shorthaired_45.jpg,Dog: german shorthaired,15,2,9
+chihuahua_82.jpg,Dog: chihuahua,11,2,6
+pomeranian_158.jpg,Dog: pomeranian,25,2,17
+samoyed_28.jpg,Dog: samoyed,30,2,20
+boxer_121.jpg,Dog: boxer,9,2,5
+yorkshire_terrier_140.jpg,Dog: yorkshire terrier,37,2,25
+japanese_chin_62.jpg,Dog: japanese chin,18,2,12
+pug_6.jpg,Dog: pug,26,2,18
+havanese_7.jpg,Dog: havanese,17,2,11
+Abyssinian_43.jpg,Cat: abyssinian,1,1,1
+pomeranian_16.jpg,Dog: pomeranian,25,2,17
+Ragdoll_128.jpg,Cat: ragdoll,27,1,9
+British_Shorthair_59.jpg,Cat: british shorthair,10,1,5
+miniature_pinscher_196.jpg,Dog: miniature pinscher,22,2,15
+beagle_196.jpg,Dog: beagle,5,2,4
+Ragdoll_192.jpg,Cat: ragdoll,27,1,9
+pomeranian_148.jpg,Dog: pomeranian,25,2,17
+havanese_49.jpg,Dog: havanese,17,2,11
+Egyptian_Mau_175.jpg,Cat: egyptian mau,12,1,6
+Abyssinian_116.jpg,Cat: abyssinian,1,1,1
+Sphynx_158.jpg,Cat: sphynx,34,1,12
+Maine_Coon_30.jpg,Cat: maine coon,21,1,7
+american_bulldog_62.jpg,Dog: american bulldog,2,2,1
+Persian_16.jpg,Cat: persian,24,1,8
+Maine_Coon_244.jpg,Cat: maine coon,21,1,7
+chihuahua_137.jpg,Dog: chihuahua,11,2,6
+Sphynx_144.jpg,Cat: sphynx,34,1,12
+staffordshire_bull_terrier_111.jpg,Dog: staffordshire bull terrier,35,2,23
+american_pit_bull_terrier_107.jpg,Dog: american pit bull terrier,3,2,2
+japanese_chin_152.jpg,Dog: japanese chin,18,2,12
+Sphynx_174.jpg,Cat: sphynx,34,1,12
+Abyssinian_56.jpg,Cat: abyssinian,1,1,1
+Birman_170.jpg,Cat: birman,7,1,3
+english_setter_20.jpg,Dog: english setter,14,2,8
+saint_bernard_73.jpg,Dog: saint bernard,29,2,19
+boxer_5.jpg,Dog: boxer,9,2,5
+British_Shorthair_94.jpg,Cat: british shorthair,10,1,5
+pomeranian_153.jpg,Dog: pomeranian,25,2,17
+Bengal_19.jpg,Cat: bengal,6,1,2
+beagle_152.jpg,Dog: beagle,5,2,4
+beagle_100.jpg,Dog: beagle,5,2,4
+american_pit_bull_terrier_96.jpg,Dog: american pit bull terrier,3,2,2
+Birman_2.jpg,Cat: birman,7,1,3
+Persian_32.jpg,Cat: persian,24,1,8
+american_pit_bull_terrier_142.jpg,Dog: american pit bull terrier,3,2,2
+Bombay_182.jpg,Cat: bombay,8,1,4
+chihuahua_108.jpg,Dog: chihuahua,11,2,6
+samoyed_178.jpg,Dog: samoyed,30,2,20
+samoyed_124.jpg,Dog: samoyed,30,2,20
+boxer_97.jpg,Dog: boxer,9,2,5
+havanese_177.jpg,Dog: havanese,17,2,11
+Russian_Blue_179.jpg,Cat: russian blue,28,1,10
+samoyed_91.jpg,Dog: samoyed,30,2,20
+Birman_86.jpg,Cat: birman,7,1,3
+american_pit_bull_terrier_67.jpg,Dog: american pit bull terrier,3,2,2
+Birman_36.jpg,Cat: birman,7,1,3
+american_bulldog_58.jpg,Dog: american bulldog,2,2,1
+beagle_189.jpg,Dog: beagle,5,2,4
+japanese_chin_45.jpg,Dog: japanese chin,18,2,12
+shiba_inu_80.jpg,Dog: shiba inu,32,2,22
+japanese_chin_200.jpg,Dog: japanese chin,18,2,12
+miniature_pinscher_80.jpg,Dog: miniature pinscher,22,2,15
+boxer_175.jpg,Dog: boxer,9,2,5
+pomeranian_30.jpg,Dog: pomeranian,25,2,17
+Siamese_93.jpg,Cat: siamese,33,1,11
+german_shorthaired_21.jpg,Dog: german shorthaired,15,2,9
+staffordshire_bull_terrier_130.jpg,Dog: staffordshire bull terrier,35,2,23
+staffordshire_bull_terrier_147.jpg,Dog: staffordshire bull terrier,35,2,23
+boxer_30.jpg,Dog: boxer,9,2,5
+chihuahua_35.jpg,Dog: chihuahua,11,2,6
+leonberger_76.jpg,Dog: leonberger,20,2,14
+american_pit_bull_terrier_136.jpg,Dog: american pit bull terrier,3,2,2
+saint_bernard_182.jpg,Dog: saint bernard,29,2,19
+samoyed_68.jpg,Dog: samoyed,30,2,20
+Siamese_82.jpg,Cat: siamese,33,1,11
+newfoundland_187.jpg,Dog: newfoundland,23,2,16
+boxer_116.jpg,Dog: boxer,9,2,5
+Bombay_150.jpg,Cat: bombay,8,1,4
+japanese_chin_172.jpg,Dog: japanese chin,18,2,12
+Birman_119.jpg,Cat: birman,7,1,3
+leonberger_89.jpg,Dog: leonberger,20,2,14
+great_pyrenees_156.jpg,Dog: great pyrenees,16,2,10
+miniature_pinscher_199.jpg,Dog: miniature pinscher,22,2,15
+samoyed_77.jpg,Dog: samoyed,30,2,20
+keeshond_2.jpg,Dog: keeshond,19,2,13
+Russian_Blue_187.jpg,Cat: russian blue,28,1,10
+Sphynx_94.jpg,Cat: sphynx,34,1,12
+Persian_21.jpg,Cat: persian,24,1,8
+Egyptian_Mau_196.jpg,Cat: egyptian mau,12,1,6
+pomeranian_92.jpg,Dog: pomeranian,25,2,17
+english_setter_63.jpg,Dog: english setter,14,2,8
+Persian_129.jpg,Cat: persian,24,1,8
+saint_bernard_116.jpg,Dog: saint bernard,29,2,19
+beagle_105.jpg,Dog: beagle,5,2,4
+scottish_terrier_130.jpg,Dog: scottish terrier,31,2,21
+Ragdoll_138.jpg,Cat: ragdoll,27,1,9
+Birman_117.jpg,Cat: birman,7,1,3
+boxer_180.jpg,Dog: boxer,9,2,5
+beagle_22.jpg,Dog: beagle,5,2,4
+english_cocker_spaniel_123.jpg,Dog: english cocker spaniel,13,2,7
+great_pyrenees_167.jpg,Dog: great pyrenees,16,2,10
+leonberger_5.jpg,Dog: leonberger,20,2,14
+english_setter_65.jpg,Dog: english setter,14,2,8
+japanese_chin_136.jpg,Dog: japanese chin,18,2,12
+yorkshire_terrier_165.jpg,Dog: yorkshire terrier,37,2,25
+japanese_chin_140.jpg,Dog: japanese chin,18,2,12
+samoyed_184.jpg,Dog: samoyed,30,2,20
+Persian_185.jpg,Cat: persian,24,1,8
+scottish_terrier_50.jpg,Dog: scottish terrier,31,2,21
+chihuahua_67.jpg,Dog: chihuahua,11,2,6
+saint_bernard_70.jpg,Dog: saint bernard,29,2,19
+Sphynx_143.jpg,Cat: sphynx,34,1,12
+newfoundland_14.jpg,Dog: newfoundland,23,2,16
+Russian_Blue_79.jpg,Cat: russian blue,28,1,10
+english_setter_159.jpg,Dog: english setter,14,2,8
+american_bulldog_8.jpg,Dog: american bulldog,2,2,1
+boxer_10.jpg,Dog: boxer,9,2,5
+Birman_160.jpg,Cat: birman,7,1,3
+keeshond_70.jpg,Dog: keeshond,19,2,13
+japanese_chin_27.jpg,Dog: japanese chin,18,2,12
+boxer_101.jpg,Dog: boxer,9,2,5
+staffordshire_bull_terrier_14.jpg,Dog: staffordshire bull terrier,35,2,23
+Maine_Coon_48.jpg,Cat: maine coon,21,1,7
+Bengal_161.jpg,Cat: bengal,6,1,2
+german_shorthaired_58.jpg,Dog: german shorthaired,15,2,9
+boxer_29.jpg,Dog: boxer,9,2,5
+chihuahua_68.jpg,Dog: chihuahua,11,2,6
+boxer_79.jpg,Dog: boxer,9,2,5
+Bombay_158.jpg,Cat: bombay,8,1,4
+British_Shorthair_121.jpg,Cat: british shorthair,10,1,5
+Egyptian_Mau_29.jpg,Cat: egyptian mau,12,1,6
+boxer_196.jpg,Dog: boxer,9,2,5
+Persian_189.jpg,Cat: persian,24,1,8
+Persian_128.jpg,Cat: persian,24,1,8
+Maine_Coon_112.jpg,Cat: maine coon,21,1,7
+Bombay_155.jpg,Cat: bombay,8,1,4
+newfoundland_154.jpg,Dog: newfoundland,23,2,16
+Persian_59.jpg,Cat: persian,24,1,8
+leonberger_112.jpg,Dog: leonberger,20,2,14
+beagle_144.jpg,Dog: beagle,5,2,4
+wheaten_terrier_84.jpg,Dog: wheaten terrier,36,2,24
+Birman_179.jpg,Cat: birman,7,1,3
+pomeranian_137.jpg,Dog: pomeranian,25,2,17
+american_bulldog_31.jpg,Dog: american bulldog,2,2,1
+beagle_3.jpg,Dog: beagle,5,2,4
+Siamese_170.jpg,Cat: siamese,33,1,11
+boxer_187.jpg,Dog: boxer,9,2,5
+Bengal_25.jpg,Cat: bengal,6,1,2
+British_Shorthair_158.jpg,Cat: british shorthair,10,1,5
+wheaten_terrier_182.jpg,Dog: wheaten terrier,36,2,24
+german_shorthaired_197.jpg,Dog: german shorthaired,15,2,9
+Maine_Coon_49.jpg,Cat: maine coon,21,1,7
+scottish_terrier_197.jpg,Dog: scottish terrier,31,2,21
+havanese_148.jpg,Dog: havanese,17,2,11
+saint_bernard_64.jpg,Dog: saint bernard,29,2,19
+newfoundland_79.jpg,Dog: newfoundland,23,2,16
+american_pit_bull_terrier_121.jpg,Dog: american pit bull terrier,3,2,2
+pomeranian_36.jpg,Dog: pomeranian,25,2,17
+keeshond_42.jpg,Dog: keeshond,19,2,13
+Russian_Blue_143.jpg,Cat: russian blue,28,1,10
+Ragdoll_171.jpg,Cat: ragdoll,27,1,9
+newfoundland_117.jpg,Dog: newfoundland,23,2,16
+miniature_pinscher_77.jpg,Dog: miniature pinscher,22,2,15
+american_pit_bull_terrier_81.jpg,Dog: american pit bull terrier,3,2,2
+saint_bernard_23.jpg,Dog: saint bernard,29,2,19
+yorkshire_terrier_158.jpg,Dog: yorkshire terrier,37,2,25
+Sphynx_190.jpg,Cat: sphynx,34,1,12
+american_bulldog_86.jpg,Dog: american bulldog,2,2,1
+scottish_terrier_5.jpg,Dog: scottish terrier,31,2,21
+beagle_178.jpg,Dog: beagle,5,2,4
+Sphynx_36.jpg,Cat: sphynx,34,1,12
+basset_hound_184.jpg,Dog: basset hound,4,2,3
+saint_bernard_179.jpg,Dog: saint bernard,29,2,19
+Bengal_58.jpg,Cat: bengal,6,1,2
+wheaten_terrier_104.jpg,Dog: wheaten terrier,36,2,24
+Bengal_71.jpg,Cat: bengal,6,1,2
+basset_hound_53.jpg,Dog: basset hound,4,2,3
+Birman_180.jpg,Cat: birman,7,1,3
+samoyed_86.jpg,Dog: samoyed,30,2,20
+pomeranian_107.jpg,Dog: pomeranian,25,2,17
+Ragdoll_208.jpg,Cat: ragdoll,27,1,9
+samoyed_123.jpg,Dog: samoyed,30,2,20
+scottish_terrier_152.jpg,Dog: scottish terrier,31,2,21
+german_shorthaired_84.jpg,Dog: german shorthaired,15,2,9
+basset_hound_117.jpg,Dog: basset hound,4,2,3
+Maine_Coon_63.jpg,Cat: maine coon,21,1,7
+Bengal_32.jpg,Cat: bengal,6,1,2
+Bengal_98.jpg,Cat: bengal,6,1,2
+pomeranian_119.jpg,Dog: pomeranian,25,2,17
+Birman_21.jpg,Cat: birman,7,1,3
+Persian_105.jpg,Cat: persian,24,1,8
+english_cocker_spaniel_146.jpg,Dog: english cocker spaniel,13,2,7
+japanese_chin_192.jpg,Dog: japanese chin,18,2,12
+pomeranian_185.jpg,Dog: pomeranian,25,2,17
+Russian_Blue_222.jpg,Cat: russian blue,28,1,10
+Bombay_56.jpg,Cat: bombay,8,1,4
+Persian_52.jpg,Cat: persian,24,1,8
+beagle_13.jpg,Dog: beagle,5,2,4
+english_cocker_spaniel_13.jpg,Dog: english cocker spaniel,13,2,7
+Maine_Coon_132.jpg,Cat: maine coon,21,1,7
+Sphynx_25.jpg,Cat: sphynx,34,1,12
+miniature_pinscher_157.jpg,Dog: miniature pinscher,22,2,15
+basset_hound_163.jpg,Dog: basset hound,4,2,3
+newfoundland_197.jpg,Dog: newfoundland,23,2,16
+english_setter_124.jpg,Dog: english setter,14,2,8
+scottish_terrier_3.jpg,Dog: scottish terrier,31,2,21
+boxer_88.jpg,Dog: boxer,9,2,5
+german_shorthaired_46.jpg,Dog: german shorthaired,15,2,9
+staffordshire_bull_terrier_190.jpg,Dog: staffordshire bull terrier,35,2,23
+Bengal_169.jpg,Cat: bengal,6,1,2
+saint_bernard_195.jpg,Dog: saint bernard,29,2,19
+yorkshire_terrier_60.jpg,Dog: yorkshire terrier,37,2,25
+Ragdoll_140.jpg,Cat: ragdoll,27,1,9
+american_pit_bull_terrier_18.jpg,Dog: american pit bull terrier,3,2,2
+Russian_Blue_168.jpg,Cat: russian blue,28,1,10
+samoyed_122.jpg,Dog: samoyed,30,2,20
+Siamese_51.jpg,Cat: siamese,33,1,11
+japanese_chin_89.jpg,Dog: japanese chin,18,2,12
+pomeranian_169.jpg,Dog: pomeranian,25,2,17
+wheaten_terrier_161.jpg,Dog: wheaten terrier,36,2,24
+american_bulldog_221.jpg,Dog: american bulldog,2,2,1
+english_setter_195.jpg,Dog: english setter,14,2,8
+Bombay_58.jpg,Cat: bombay,8,1,4
+Bombay_144.jpg,Cat: bombay,8,1,4
+Ragdoll_202.jpg,Cat: ragdoll,27,1,9
+British_Shorthair_145.jpg,Cat: british shorthair,10,1,5
+great_pyrenees_100.jpg,Dog: great pyrenees,16,2,10
+great_pyrenees_157.jpg,Dog: great pyrenees,16,2,10
+Ragdoll_163.jpg,Cat: ragdoll,27,1,9
+Sphynx_138.jpg,Cat: sphynx,34,1,12
+boxer_78.jpg,Dog: boxer,9,2,5
+Bombay_220.jpg,Cat: bombay,8,1,4
+samoyed_153.jpg,Dog: samoyed,30,2,20
+basset_hound_102.jpg,Dog: basset hound,4,2,3
+Birman_131.jpg,Cat: birman,7,1,3
+Birman_139.jpg,Cat: birman,7,1,3
+Egyptian_Mau_117.jpg,Cat: egyptian mau,12,1,6
+British_Shorthair_33.jpg,Cat: british shorthair,10,1,5
+english_setter_185.jpg,Dog: english setter,14,2,8
+havanese_12.jpg,Dog: havanese,17,2,11
+leonberger_92.jpg,Dog: leonberger,20,2,14
+pug_88.jpg,Dog: pug,26,2,18
+great_pyrenees_37.jpg,Dog: great pyrenees,16,2,10
+wheaten_terrier_74.jpg,Dog: wheaten terrier,36,2,24
+staffordshire_bull_terrier_119.jpg,Dog: staffordshire bull terrier,35,2,23
+great_pyrenees_25.jpg,Dog: great pyrenees,16,2,10
+american_bulldog_57.jpg,Dog: american bulldog,2,2,1
+great_pyrenees_158.jpg,Dog: great pyrenees,16,2,10
+Birman_102.jpg,Cat: birman,7,1,3
+Siamese_189.jpg,Cat: siamese,33,1,11
+wheaten_terrier_124.jpg,Dog: wheaten terrier,36,2,24
+Birman_18.jpg,Cat: birman,7,1,3
+pomeranian_102.jpg,Dog: pomeranian,25,2,17
+keeshond_21.jpg,Dog: keeshond,19,2,13
+boxer_132.jpg,Dog: boxer,9,2,5
+Siamese_131.jpg,Cat: siamese,33,1,11
+american_pit_bull_terrier_5.jpg,Dog: american pit bull terrier,3,2,2
+german_shorthaired_39.jpg,Dog: german shorthaired,15,2,9
+Sphynx_27.jpg,Cat: sphynx,34,1,12
+german_shorthaired_67.jpg,Dog: german shorthaired,15,2,9
+american_bulldog_29.jpg,Dog: american bulldog,2,2,1
+beagle_20.jpg,Dog: beagle,5,2,4
+samoyed_19.jpg,Dog: samoyed,30,2,20
+beagle_168.jpg,Dog: beagle,5,2,4
+chihuahua_163.jpg,Dog: chihuahua,11,2,6
+wheaten_terrier_79.jpg,Dog: wheaten terrier,36,2,24
+newfoundland_164.jpg,Dog: newfoundland,23,2,16
+pug_7.jpg,Dog: pug,26,2,18
+keeshond_32.jpg,Dog: keeshond,19,2,13
+keeshond_67.jpg,Dog: keeshond,19,2,13
+shiba_inu_147.jpg,Dog: shiba inu,32,2,22
+american_bulldog_64.jpg,Dog: american bulldog,2,2,1
+Russian_Blue_191.jpg,Cat: russian blue,28,1,10
+yorkshire_terrier_131.jpg,Dog: yorkshire terrier,37,2,25
+scottish_terrier_121.jpg,Dog: scottish terrier,31,2,21
+german_shorthaired_115.jpg,Dog: german shorthaired,15,2,9
+saint_bernard_137.jpg,Dog: saint bernard,29,2,19
+basset_hound_171.jpg,Dog: basset hound,4,2,3
+Maine_Coon_31.jpg,Cat: maine coon,21,1,7
+english_setter_119.jpg,Dog: english setter,14,2,8
+miniature_pinscher_141.jpg,Dog: miniature pinscher,22,2,15
+wheaten_terrier_173.jpg,Dog: wheaten terrier,36,2,24
+yorkshire_terrier_40.jpg,Dog: yorkshire terrier,37,2,25
+beagle_49.jpg,Dog: beagle,5,2,4
+japanese_chin_118.jpg,Dog: japanese chin,18,2,12
+great_pyrenees_16.jpg,Dog: great pyrenees,16,2,10
+english_cocker_spaniel_167.jpg,Dog: english cocker spaniel,13,2,7
+english_setter_174.jpg,Dog: english setter,14,2,8
+pomeranian_175.jpg,Dog: pomeranian,25,2,17
+japanese_chin_167.jpg,Dog: japanese chin,18,2,12
+keeshond_69.jpg,Dog: keeshond,19,2,13
+Maine_Coon_68.jpg,Cat: maine coon,21,1,7
+saint_bernard_181.jpg,Dog: saint bernard,29,2,19
+wheaten_terrier_73.jpg,Dog: wheaten terrier,36,2,24
+staffordshire_bull_terrier_194.jpg,Dog: staffordshire bull terrier,35,2,23
+havanese_141.jpg,Dog: havanese,17,2,11
+newfoundland_200.jpg,Dog: newfoundland,23,2,16
+great_pyrenees_54.jpg,Dog: great pyrenees,16,2,10
+american_bulldog_127.jpg,Dog: american bulldog,2,2,1
+american_pit_bull_terrier_40.jpg,Dog: american pit bull terrier,3,2,2
+Egyptian_Mau_8.jpg,Cat: egyptian mau,12,1,6
+american_bulldog_211.jpg,Dog: american bulldog,2,2,1
+wheaten_terrier_116.jpg,Dog: wheaten terrier,36,2,24
+Sphynx_179.jpg,Cat: sphynx,34,1,12
+japanese_chin_170.jpg,Dog: japanese chin,18,2,12
+german_shorthaired_180.jpg,Dog: german shorthaired,15,2,9
+samoyed_100.jpg,Dog: samoyed,30,2,20
+miniature_pinscher_54.jpg,Dog: miniature pinscher,22,2,15
+samoyed_62.jpg,Dog: samoyed,30,2,20
+pug_17.jpg,Dog: pug,26,2,18
+leonberger_96.jpg,Dog: leonberger,20,2,14
+boxer_28.jpg,Dog: boxer,9,2,5
+Egyptian_Mau_207.jpg,Cat: egyptian mau,12,1,6
+miniature_pinscher_56.jpg,Dog: miniature pinscher,22,2,15
+english_cocker_spaniel_112.jpg,Dog: english cocker spaniel,13,2,7
+yorkshire_terrier_59.jpg,Dog: yorkshire terrier,37,2,25
+basset_hound_94.jpg,Dog: basset hound,4,2,3
+Egyptian_Mau_164.jpg,Cat: egyptian mau,12,1,6
+havanese_96.jpg,Dog: havanese,17,2,11
+staffordshire_bull_terrier_87.jpg,Dog: staffordshire bull terrier,35,2,23
+Siamese_181.jpg,Cat: siamese,33,1,11
+staffordshire_bull_terrier_128.jpg,Dog: staffordshire bull terrier,35,2,23
+shiba_inu_9.jpg,Dog: shiba inu,32,2,22
+Maine_Coon_246.jpg,Cat: maine coon,21,1,7
+keeshond_152.jpg,Dog: keeshond,19,2,13
+Egyptian_Mau_84.jpg,Cat: egyptian mau,12,1,6
+Abyssinian_65.jpg,Cat: abyssinian,1,1,1
+chihuahua_92.jpg,Dog: chihuahua,11,2,6
+scottish_terrier_159.jpg,Dog: scottish terrier,31,2,21
+Ragdoll_92.jpg,Cat: ragdoll,27,1,9
+scottish_terrier_15.jpg,Dog: scottish terrier,31,2,21
+english_cocker_spaniel_91.jpg,Dog: english cocker spaniel,13,2,7
+keeshond_14.jpg,Dog: keeshond,19,2,13
+boxer_53.jpg,Dog: boxer,9,2,5
+Bombay_112.jpg,Cat: bombay,8,1,4
+american_pit_bull_terrier_191.jpg,Dog: american pit bull terrier,3,2,2
+american_bulldog_97.jpg,Dog: american bulldog,2,2,1
+japanese_chin_17.jpg,Dog: japanese chin,18,2,12
+British_Shorthair_115.jpg,Cat: british shorthair,10,1,5
+staffordshire_bull_terrier_21.jpg,Dog: staffordshire bull terrier,35,2,23
+Persian_200.jpg,Cat: persian,24,1,8
+basset_hound_9.jpg,Dog: basset hound,4,2,3
+german_shorthaired_130.jpg,Dog: german shorthaired,15,2,9
+Siamese_152.jpg,Cat: siamese,33,1,11
+Sphynx_103.jpg,Cat: sphynx,34,1,12
+english_setter_184.jpg,Dog: english setter,14,2,8
+pug_65.jpg,Dog: pug,26,2,18
+english_setter_149.jpg,Dog: english setter,14,2,8
+saint_bernard_192.jpg,Dog: saint bernard,29,2,19
+scottish_terrier_175.jpg,Dog: scottish terrier,31,2,21
+english_cocker_spaniel_170.jpg,Dog: english cocker spaniel,13,2,7
+scottish_terrier_125.jpg,Dog: scottish terrier,31,2,21
+wheaten_terrier_131.jpg,Dog: wheaten terrier,36,2,24
+keeshond_142.jpg,Dog: keeshond,19,2,13
+pug_103.jpg,Dog: pug,26,2,18
+Egyptian_Mau_7.jpg,Cat: egyptian mau,12,1,6
+Bengal_143.jpg,Cat: bengal,6,1,2
+shiba_inu_88.jpg,Dog: shiba inu,32,2,22
+shiba_inu_63.jpg,Dog: shiba inu,32,2,22
+japanese_chin_84.jpg,Dog: japanese chin,18,2,12
+staffordshire_bull_terrier_197.jpg,Dog: staffordshire bull terrier,35,2,23
+Ragdoll_170.jpg,Cat: ragdoll,27,1,9
+pomeranian_45.jpg,Dog: pomeranian,25,2,17
+miniature_pinscher_48.jpg,Dog: miniature pinscher,22,2,15
+scottish_terrier_156.jpg,Dog: scottish terrier,31,2,21
+Egyptian_Mau_130.jpg,Cat: egyptian mau,12,1,6
+samoyed_192.jpg,Dog: samoyed,30,2,20
+Siamese_101.jpg,Cat: siamese,33,1,11
+saint_bernard_95.jpg,Dog: saint bernard,29,2,19
+american_bulldog_103.jpg,Dog: american bulldog,2,2,1
+staffordshire_bull_terrier_121.jpg,Dog: staffordshire bull terrier,35,2,23
+scottish_terrier_51.jpg,Dog: scottish terrier,31,2,21
+havanese_72.jpg,Dog: havanese,17,2,11
+Maine_Coon_2.jpg,Cat: maine coon,21,1,7
+yorkshire_terrier_186.jpg,Dog: yorkshire terrier,37,2,25
+boxer_9.jpg,Dog: boxer,9,2,5
+keeshond_3.jpg,Dog: keeshond,19,2,13
+leonberger_27.jpg,Dog: leonberger,20,2,14
+beagle_109.jpg,Dog: beagle,5,2,4
+pug_112.jpg,Dog: pug,26,2,18
+havanese_140.jpg,Dog: havanese,17,2,11
+miniature_pinscher_154.jpg,Dog: miniature pinscher,22,2,15
+British_Shorthair_48.jpg,Cat: british shorthair,10,1,5
+basset_hound_142.jpg,Dog: basset hound,4,2,3
+german_shorthaired_109.jpg,Dog: german shorthaired,15,2,9
+yorkshire_terrier_52.jpg,Dog: yorkshire terrier,37,2,25
+pomeranian_192.jpg,Dog: pomeranian,25,2,17
+Birman_121.jpg,Cat: birman,7,1,3
+pug_190.jpg,Dog: pug,26,2,18
+Bengal_33.jpg,Cat: bengal,6,1,2
+american_pit_bull_terrier_97.jpg,Dog: american pit bull terrier,3,2,2
+newfoundland_152.jpg,Dog: newfoundland,23,2,16
+Birman_58.jpg,Cat: birman,7,1,3
+american_pit_bull_terrier_193.jpg,Dog: american pit bull terrier,3,2,2
+pug_201.jpg,Dog: pug,26,2,18
+Abyssinian_176.jpg,Cat: abyssinian,1,1,1
+chihuahua_47.jpg,Dog: chihuahua,11,2,6
+pomeranian_11.jpg,Dog: pomeranian,25,2,17
+Birman_127.jpg,Cat: birman,7,1,3
+Bengal_67.jpg,Cat: bengal,6,1,2
+english_setter_130.jpg,Dog: english setter,14,2,8
+newfoundland_122.jpg,Dog: newfoundland,23,2,16
+Egyptian_Mau_80.jpg,Cat: egyptian mau,12,1,6
+boxer_197.jpg,Dog: boxer,9,2,5
+leonberger_176.jpg,Dog: leonberger,20,2,14
+Bombay_54.jpg,Cat: bombay,8,1,4
+Bengal_57.jpg,Cat: bengal,6,1,2
+chihuahua_105.jpg,Dog: chihuahua,11,2,6
+staffordshire_bull_terrier_195.jpg,Dog: staffordshire bull terrier,35,2,23
+Persian_194.jpg,Cat: persian,24,1,8
+leonberger_152.jpg,Dog: leonberger,20,2,14
+saint_bernard_76.jpg,Dog: saint bernard,29,2,19
+english_setter_48.jpg,Dog: english setter,14,2,8
+Persian_2.jpg,Cat: persian,24,1,8
+staffordshire_bull_terrier_60.jpg,Dog: staffordshire bull terrier,35,2,23
+chihuahua_91.jpg,Dog: chihuahua,11,2,6
+Persian_120.jpg,Cat: persian,24,1,8
+pomeranian_1.jpg,Dog: pomeranian,25,2,17
+Abyssinian_76.jpg,Cat: abyssinian,1,1,1
+american_pit_bull_terrier_90.jpg,Dog: american pit bull terrier,3,2,2
+leonberger_125.jpg,Dog: leonberger,20,2,14
+British_Shorthair_173.jpg,Cat: british shorthair,10,1,5
+newfoundland_148.jpg,Dog: newfoundland,23,2,16
+keeshond_57.jpg,Dog: keeshond,19,2,13
+Bombay_137.jpg,Cat: bombay,8,1,4
+Bengal_125.jpg,Cat: bengal,6,1,2
+miniature_pinscher_42.jpg,Dog: miniature pinscher,22,2,15
+great_pyrenees_134.jpg,Dog: great pyrenees,16,2,10
+keeshond_90.jpg,Dog: keeshond,19,2,13
+great_pyrenees_82.jpg,Dog: great pyrenees,16,2,10
+yorkshire_terrier_17.jpg,Dog: yorkshire terrier,37,2,25
+havanese_88.jpg,Dog: havanese,17,2,11
+Bengal_24.jpg,Cat: bengal,6,1,2
+american_bulldog_118.jpg,Dog: american bulldog,2,2,1
+scottish_terrier_169.jpg,Dog: scottish terrier,31,2,21
+Maine_Coon_208.jpg,Cat: maine coon,21,1,7
+British_Shorthair_263.jpg,Cat: british shorthair,10,1,5
+scottish_terrier_96.jpg,Dog: scottish terrier,31,2,21
+american_bulldog_28.jpg,Dog: american bulldog,2,2,1
+miniature_pinscher_188.jpg,Dog: miniature pinscher,22,2,15
+miniature_pinscher_177.jpg,Dog: miniature pinscher,22,2,15
+shiba_inu_179.jpg,Dog: shiba inu,32,2,22
+american_bulldog_138.jpg,Dog: american bulldog,2,2,1
+chihuahua_114.jpg,Dog: chihuahua,11,2,6
+english_cocker_spaniel_119.jpg,Dog: english cocker spaniel,13,2,7
+Siamese_157.jpg,Cat: siamese,33,1,11
+pug_130.jpg,Dog: pug,26,2,18
+keeshond_196.jpg,Dog: keeshond,19,2,13
+wheaten_terrier_138.jpg,Dog: wheaten terrier,36,2,24
+english_cocker_spaniel_22.jpg,Dog: english cocker spaniel,13,2,7
+Bombay_26.jpg,Cat: bombay,8,1,4
+Bengal_1.jpg,Cat: bengal,6,1,2
+american_bulldog_38.jpg,Dog: american bulldog,2,2,1
+saint_bernard_189.jpg,Dog: saint bernard,29,2,19
+yorkshire_terrier_67.jpg,Dog: yorkshire terrier,37,2,25
+staffordshire_bull_terrier_166.jpg,Dog: staffordshire bull terrier,35,2,23
+Bombay_50.jpg,Cat: bombay,8,1,4
+pug_93.jpg,Dog: pug,26,2,18
+scottish_terrier_32.jpg,Dog: scottish terrier,31,2,21
+British_Shorthair_189.jpg,Cat: british shorthair,10,1,5
+scottish_terrier_12.jpg,Dog: scottish terrier,31,2,21
+american_bulldog_199.jpg,Dog: american bulldog,2,2,1
+Abyssinian_49.jpg,Cat: abyssinian,1,1,1
+havanese_81.jpg,Dog: havanese,17,2,11
+Birman_51.jpg,Cat: birman,7,1,3
+german_shorthaired_105.jpg,Dog: german shorthaired,15,2,9
+Ragdoll_107.jpg,Cat: ragdoll,27,1,9
+chihuahua_172.jpg,Dog: chihuahua,11,2,6
+Abyssinian_1.jpg,Cat: abyssinian,1,1,1
+Abyssinian_204.jpg,Cat: abyssinian,1,1,1
+miniature_pinscher_135.jpg,Dog: miniature pinscher,22,2,15
+english_cocker_spaniel_56.jpg,Dog: english cocker spaniel,13,2,7
+german_shorthaired_119.jpg,Dog: german shorthaired,15,2,9
+leonberger_21.jpg,Dog: leonberger,20,2,14
+english_setter_145.jpg,Dog: english setter,14,2,8
+german_shorthaired_61.jpg,Dog: german shorthaired,15,2,9
+pomeranian_167.jpg,Dog: pomeranian,25,2,17
+British_Shorthair_97.jpg,Cat: british shorthair,10,1,5
+beagle_63.jpg,Dog: beagle,5,2,4
+Maine_Coon_206.jpg,Cat: maine coon,21,1,7
+Abyssinian_46.jpg,Cat: abyssinian,1,1,1
+samoyed_12.jpg,Dog: samoyed,30,2,20
+pomeranian_138.jpg,Dog: pomeranian,25,2,17
+havanese_128.jpg,Dog: havanese,17,2,11
+chihuahua_135.jpg,Dog: chihuahua,11,2,6
+american_bulldog_133.jpg,Dog: american bulldog,2,2,1
+yorkshire_terrier_56.jpg,Dog: yorkshire terrier,37,2,25
+samoyed_183.jpg,Dog: samoyed,30,2,20
+beagle_86.jpg,Dog: beagle,5,2,4
+american_bulldog_105.jpg,Dog: american bulldog,2,2,1
+Abyssinian_95.jpg,Cat: abyssinian,1,1,1
+samoyed_35.jpg,Dog: samoyed,30,2,20
+shiba_inu_60.jpg,Dog: shiba inu,32,2,22
+beagle_121.jpg,Dog: beagle,5,2,4
+newfoundland_97.jpg,Dog: newfoundland,23,2,16
+Sphynx_1.jpg,Cat: sphynx,34,1,12
+Abyssinian_107.jpg,Cat: abyssinian,1,1,1
+havanese_55.jpg,Dog: havanese,17,2,11
+Ragdoll_173.jpg,Cat: ragdoll,27,1,9
+basset_hound_136.jpg,Dog: basset hound,4,2,3
+pomeranian_186.jpg,Dog: pomeranian,25,2,17
+Abyssinian_125.jpg,Cat: abyssinian,1,1,1
+miniature_pinscher_140.jpg,Dog: miniature pinscher,22,2,15
+japanese_chin_11.jpg,Dog: japanese chin,18,2,12
+scottish_terrier_172.jpg,Dog: scottish terrier,31,2,21
+beagle_181.jpg,Dog: beagle,5,2,4
+great_pyrenees_200.jpg,Dog: great pyrenees,16,2,10
+pug_75.jpg,Dog: pug,26,2,18
+german_shorthaired_27.jpg,Dog: german shorthaired,15,2,9
+beagle_79.jpg,Dog: beagle,5,2,4
+miniature_pinscher_169.jpg,Dog: miniature pinscher,22,2,15
+samoyed_72.jpg,Dog: samoyed,30,2,20
+Maine_Coon_241.jpg,Cat: maine coon,21,1,7
+Ragdoll_224.jpg,Cat: ragdoll,27,1,9
+saint_bernard_58.jpg,Dog: saint bernard,29,2,19
+yorkshire_terrier_63.jpg,Dog: yorkshire terrier,37,2,25
+British_Shorthair_95.jpg,Cat: british shorthair,10,1,5
+Bombay_1.jpg,Cat: bombay,8,1,4
+Sphynx_198.jpg,Cat: sphynx,34,1,12
+wheaten_terrier_129.jpg,Dog: wheaten terrier,36,2,24
+havanese_165.jpg,Dog: havanese,17,2,11
+japanese_chin_61.jpg,Dog: japanese chin,18,2,12
+great_pyrenees_175.jpg,Dog: great pyrenees,16,2,10
+beagle_7.jpg,Dog: beagle,5,2,4
+Russian_Blue_63.jpg,Cat: russian blue,28,1,10
+Bombay_53.jpg,Cat: bombay,8,1,4
+boxer_172.jpg,Dog: boxer,9,2,5
+Bombay_63.jpg,Cat: bombay,8,1,4
+yorkshire_terrier_25.jpg,Dog: yorkshire terrier,37,2,25
+english_cocker_spaniel_85.jpg,Dog: english cocker spaniel,13,2,7
+Egyptian_Mau_140.jpg,Cat: egyptian mau,12,1,6
+leonberger_190.jpg,Dog: leonberger,20,2,14
+Abyssinian_205.jpg,Cat: abyssinian,1,1,1
+staffordshire_bull_terrier_5.jpg,Dog: staffordshire bull terrier,35,2,23
+Egyptian_Mau_189.jpg,Cat: egyptian mau,12,1,6
+english_cocker_spaniel_81.jpg,Dog: english cocker spaniel,13,2,7
+miniature_pinscher_194.jpg,Dog: miniature pinscher,22,2,15
+great_pyrenees_179.jpg,Dog: great pyrenees,16,2,10
+Abyssinian_86.jpg,Cat: abyssinian,1,1,1
+great_pyrenees_128.jpg,Dog: great pyrenees,16,2,10
+beagle_56.jpg,Dog: beagle,5,2,4
+english_cocker_spaniel_60.jpg,Dog: english cocker spaniel,13,2,7
+keeshond_30.jpg,Dog: keeshond,19,2,13
+samoyed_64.jpg,Dog: samoyed,30,2,20
+samoyed_115.jpg,Dog: samoyed,30,2,20
+havanese_124.jpg,Dog: havanese,17,2,11
+great_pyrenees_9.jpg,Dog: great pyrenees,16,2,10
+scottish_terrier_43.jpg,Dog: scottish terrier,31,2,21
+miniature_pinscher_173.jpg,Dog: miniature pinscher,22,2,15
+staffordshire_bull_terrier_129.jpg,Dog: staffordshire bull terrier,35,2,23
+miniature_pinscher_133.jpg,Dog: miniature pinscher,22,2,15
+wheaten_terrier_48.jpg,Dog: wheaten terrier,36,2,24
+havanese_186.jpg,Dog: havanese,17,2,11
+american_pit_bull_terrier_9.jpg,Dog: american pit bull terrier,3,2,2
+yorkshire_terrier_99.jpg,Dog: yorkshire terrier,37,2,25
+basset_hound_135.jpg,Dog: basset hound,4,2,3
+saint_bernard_135.jpg,Dog: saint bernard,29,2,19
+wheaten_terrier_147.jpg,Dog: wheaten terrier,36,2,24
+havanese_182.jpg,Dog: havanese,17,2,11
+beagle_40.jpg,Dog: beagle,5,2,4
+Russian_Blue_32.jpg,Cat: russian blue,28,1,10
+Siamese_161.jpg,Cat: siamese,33,1,11
+great_pyrenees_106.jpg,Dog: great pyrenees,16,2,10
+leonberger_173.jpg,Dog: leonberger,20,2,14
+Bengal_56.jpg,Cat: bengal,6,1,2
+newfoundland_163.jpg,Dog: newfoundland,23,2,16
+chihuahua_53.jpg,Dog: chihuahua,11,2,6
+Egyptian_Mau_4.jpg,Cat: egyptian mau,12,1,6
+Persian_106.jpg,Cat: persian,24,1,8
+Egyptian_Mau_2.jpg,Cat: egyptian mau,12,1,6
+scottish_terrier_98.jpg,Dog: scottish terrier,31,2,21
+saint_bernard_6.jpg,Dog: saint bernard,29,2,19
+german_shorthaired_150.jpg,Dog: german shorthaired,15,2,9
+japanese_chin_148.jpg,Dog: japanese chin,18,2,12
+Bombay_87.jpg,Cat: bombay,8,1,4
+keeshond_141.jpg,Dog: keeshond,19,2,13
+basset_hound_160.jpg,Dog: basset hound,4,2,3
+keeshond_66.jpg,Dog: keeshond,19,2,13
+japanese_chin_55.jpg,Dog: japanese chin,18,2,12
+wheaten_terrier_35.jpg,Dog: wheaten terrier,36,2,24
+Birman_164.jpg,Cat: birman,7,1,3
+Egyptian_Mau_99.jpg,Cat: egyptian mau,12,1,6
+samoyed_114.jpg,Dog: samoyed,30,2,20
+samoyed_76.jpg,Dog: samoyed,30,2,20
+newfoundland_72.jpg,Dog: newfoundland,23,2,16
+miniature_pinscher_68.jpg,Dog: miniature pinscher,22,2,15
+yorkshire_terrier_112.jpg,Dog: yorkshire terrier,37,2,25
+german_shorthaired_8.jpg,Dog: german shorthaired,15,2,9
+British_Shorthair_68.jpg,Cat: british shorthair,10,1,5
+shiba_inu_120.jpg,Dog: shiba inu,32,2,22
+basset_hound_133.jpg,Dog: basset hound,4,2,3
+Russian_Blue_171.jpg,Cat: russian blue,28,1,10
+Abyssinian_77.jpg,Cat: abyssinian,1,1,1
+Sphynx_83.jpg,Cat: sphynx,34,1,12
+pug_44.jpg,Dog: pug,26,2,18
+great_pyrenees_181.jpg,Dog: great pyrenees,16,2,10
+beagle_33.jpg,Dog: beagle,5,2,4
+wheaten_terrier_133.jpg,Dog: wheaten terrier,36,2,24
+beagle_85.jpg,Dog: beagle,5,2,4
+staffordshire_bull_terrier_167.jpg,Dog: staffordshire bull terrier,35,2,23
+Birman_149.jpg,Cat: birman,7,1,3
+japanese_chin_185.jpg,Dog: japanese chin,18,2,12
+boxer_122.jpg,Dog: boxer,9,2,5
+Abyssinian_118.jpg,Cat: abyssinian,1,1,1
+havanese_4.jpg,Dog: havanese,17,2,11
+Birman_72.jpg,Cat: birman,7,1,3
+german_shorthaired_11.jpg,Dog: german shorthaired,15,2,9
+pug_123.jpg,Dog: pug,26,2,18
+scottish_terrier_108.jpg,Dog: scottish terrier,31,2,21
+english_setter_138.jpg,Dog: english setter,14,2,8
+Bombay_200.jpg,Cat: bombay,8,1,4
+Ragdoll_130.jpg,Cat: ragdoll,27,1,9
+scottish_terrier_178.jpg,Dog: scottish terrier,31,2,21
+Ragdoll_37.jpg,Cat: ragdoll,27,1,9
+Russian_Blue_204.jpg,Cat: russian blue,28,1,10
+saint_bernard_41.jpg,Dog: saint bernard,29,2,19
+Bombay_160.jpg,Cat: bombay,8,1,4
+saint_bernard_91.jpg,Dog: saint bernard,29,2,19
+newfoundland_172.jpg,Dog: newfoundland,23,2,16
+keeshond_31.jpg,Dog: keeshond,19,2,13
+Egyptian_Mau_13.jpg,Cat: egyptian mau,12,1,6
+english_cocker_spaniel_17.jpg,Dog: english cocker spaniel,13,2,7
+japanese_chin_53.jpg,Dog: japanese chin,18,2,12
+great_pyrenees_185.jpg,Dog: great pyrenees,16,2,10
+British_Shorthair_200.jpg,Cat: british shorthair,10,1,5
+newfoundland_195.jpg,Dog: newfoundland,23,2,16
+saint_bernard_138.jpg,Dog: saint bernard,29,2,19
+pomeranian_52.jpg,Dog: pomeranian,25,2,17
+pomeranian_61.jpg,Dog: pomeranian,25,2,17
+shiba_inu_195.jpg,Dog: shiba inu,32,2,22
+Bengal_100.jpg,Cat: bengal,6,1,2
+boxer_118.jpg,Dog: boxer,9,2,5
+Sphynx_155.jpg,Cat: sphynx,34,1,12
+Egyptian_Mau_94.jpg,Cat: egyptian mau,12,1,6
+shiba_inu_56.jpg,Dog: shiba inu,32,2,22
+miniature_pinscher_100.jpg,Dog: miniature pinscher,22,2,15
+Birman_96.jpg,Cat: birman,7,1,3
+havanese_54.jpg,Dog: havanese,17,2,11
+basset_hound_39.jpg,Dog: basset hound,4,2,3
+miniature_pinscher_82.jpg,Dog: miniature pinscher,22,2,15
+great_pyrenees_169.jpg,Dog: great pyrenees,16,2,10
+Persian_66.jpg,Cat: persian,24,1,8
+yorkshire_terrier_84.jpg,Dog: yorkshire terrier,37,2,25
+leonberger_65.jpg,Dog: leonberger,20,2,14
+havanese_104.jpg,Dog: havanese,17,2,11
+Ragdoll_29.jpg,Cat: ragdoll,27,1,9
+american_bulldog_120.jpg,Dog: american bulldog,2,2,1
+Bengal_128.jpg,Cat: bengal,6,1,2
+shiba_inu_71.jpg,Dog: shiba inu,32,2,22
+Bombay_203.jpg,Cat: bombay,8,1,4
+english_setter_6.jpg,Dog: english setter,14,2,8
+beagle_82.jpg,Dog: beagle,5,2,4
+shiba_inu_97.jpg,Dog: shiba inu,32,2,22
+great_pyrenees_92.jpg,Dog: great pyrenees,16,2,10
+english_cocker_spaniel_111.jpg,Dog: english cocker spaniel,13,2,7
+american_pit_bull_terrier_139.jpg,Dog: american pit bull terrier,3,2,2
+Ragdoll_114.jpg,Cat: ragdoll,27,1,9
+english_cocker_spaniel_169.jpg,Dog: english cocker spaniel,13,2,7
+newfoundland_85.jpg,Dog: newfoundland,23,2,16
+Siamese_160.jpg,Cat: siamese,33,1,11
+yorkshire_terrier_94.jpg,Dog: yorkshire terrier,37,2,25
+havanese_164.jpg,Dog: havanese,17,2,11
+beagle_156.jpg,Dog: beagle,5,2,4
+shiba_inu_128.jpg,Dog: shiba inu,32,2,22
+Russian_Blue_145.jpg,Cat: russian blue,28,1,10
+miniature_pinscher_151.jpg,Dog: miniature pinscher,22,2,15
+wheaten_terrier_118.jpg,Dog: wheaten terrier,36,2,24
+Birman_130.jpg,Cat: birman,7,1,3
+boxer_1.jpg,Dog: boxer,9,2,5
+shiba_inu_38.jpg,Dog: shiba inu,32,2,22
+boxer_91.jpg,Dog: boxer,9,2,5
+Persian_132.jpg,Cat: persian,24,1,8
+chihuahua_165.jpg,Dog: chihuahua,11,2,6
+beagle_77.jpg,Dog: beagle,5,2,4
+British_Shorthair_51.jpg,Cat: british shorthair,10,1,5
+saint_bernard_175.jpg,Dog: saint bernard,29,2,19
+shiba_inu_81.jpg,Dog: shiba inu,32,2,22
+japanese_chin_133.jpg,Dog: japanese chin,18,2,12
+Bombay_205.jpg,Cat: bombay,8,1,4
+yorkshire_terrier_14.jpg,Dog: yorkshire terrier,37,2,25
+pug_74.jpg,Dog: pug,26,2,18
+Egyptian_Mau_163.jpg,Cat: egyptian mau,12,1,6
+havanese_168.jpg,Dog: havanese,17,2,11
+shiba_inu_182.jpg,Dog: shiba inu,32,2,22
+american_pit_bull_terrier_29.jpg,Dog: american pit bull terrier,3,2,2
+american_pit_bull_terrier_4.jpg,Dog: american pit bull terrier,3,2,2
+scottish_terrier_188.jpg,Dog: scottish terrier,31,2,21
+english_cocker_spaniel_179.jpg,Dog: english cocker spaniel,13,2,7
+boxer_128.jpg,Dog: boxer,9,2,5
+boxer_27.jpg,Dog: boxer,9,2,5
+wheaten_terrier_29.jpg,Dog: wheaten terrier,36,2,24
+Sphynx_251.jpg,Cat: sphynx,34,1,12
+chihuahua_25.jpg,Dog: chihuahua,11,2,6
+boxer_32.jpg,Dog: boxer,9,2,5
+saint_bernard_52.jpg,Dog: saint bernard,29,2,19
+yorkshire_terrier_110.jpg,Dog: yorkshire terrier,37,2,25
+keeshond_94.jpg,Dog: keeshond,19,2,13
+american_bulldog_140.jpg,Dog: american bulldog,2,2,1
+boxer_35.jpg,Dog: boxer,9,2,5
+leonberger_137.jpg,Dog: leonberger,20,2,14
+scottish_terrier_105.jpg,Dog: scottish terrier,31,2,21
+Bengal_174.jpg,Cat: bengal,6,1,2
+Maine_Coon_10.jpg,Cat: maine coon,21,1,7
+american_pit_bull_terrier_180.jpg,Dog: american pit bull terrier,3,2,2
+saint_bernard_46.jpg,Dog: saint bernard,29,2,19
+Maine_Coon_196.jpg,Cat: maine coon,21,1,7
+shiba_inu_136.jpg,Dog: shiba inu,32,2,22
+Sphynx_249.jpg,Cat: sphynx,34,1,12
+Persian_84.jpg,Cat: persian,24,1,8
+Bengal_109.jpg,Cat: bengal,6,1,2
+scottish_terrier_107.jpg,Dog: scottish terrier,31,2,21
+miniature_pinscher_79.jpg,Dog: miniature pinscher,22,2,15
+pomeranian_37.jpg,Dog: pomeranian,25,2,17
+boxer_98.jpg,Dog: boxer,9,2,5
+Sphynx_121.jpg,Cat: sphynx,34,1,12
+miniature_pinscher_43.jpg,Dog: miniature pinscher,22,2,15
+Egyptian_Mau_191.gif,Cat: egyptian mau,12,1,6
+British_Shorthair_210.jpg,Cat: british shorthair,10,1,5
+Maine_Coon_136.jpg,Cat: maine coon,21,1,7
+scottish_terrier_45.jpg,Dog: scottish terrier,31,2,21
+British_Shorthair_272.jpg,Cat: british shorthair,10,1,5
+Maine_Coon_265.jpg,Cat: maine coon,21,1,7
+saint_bernard_139.jpg,Dog: saint bernard,29,2,19
+keeshond_162.jpg,Dog: keeshond,19,2,13
+shiba_inu_47.jpg,Dog: shiba inu,32,2,22
+pomeranian_180.jpg,Dog: pomeranian,25,2,17
+Bengal_176.jpg,Cat: bengal,6,1,2
+British_Shorthair_37.jpg,Cat: british shorthair,10,1,5
+Sphynx_170.jpg,Cat: sphynx,34,1,12
+saint_bernard_28.jpg,Dog: saint bernard,29,2,19
+chihuahua_1.jpg,Dog: chihuahua,11,2,6
+great_pyrenees_183.jpg,Dog: great pyrenees,16,2,10
+boxer_141.jpg,Dog: boxer,9,2,5
+saint_bernard_196.jpg,Dog: saint bernard,29,2,19
+american_pit_bull_terrier_74.jpg,Dog: american pit bull terrier,3,2,2
+yorkshire_terrier_182.jpg,Dog: yorkshire terrier,37,2,25
+wheaten_terrier_25.jpg,Dog: wheaten terrier,36,2,24
+shiba_inu_1.jpg,Dog: shiba inu,32,2,22
+scottish_terrier_88.jpg,Dog: scottish terrier,31,2,21
+great_pyrenees_163.jpg,Dog: great pyrenees,16,2,10
+Birman_69.jpg,Cat: birman,7,1,3
+english_cocker_spaniel_42.jpg,Dog: english cocker spaniel,13,2,7
+Bombay_177.jpg,Cat: bombay,8,1,4
+Ragdoll_69.jpg,Cat: ragdoll,27,1,9
+Ragdoll_5.jpg,Cat: ragdoll,27,1,9
+pomeranian_157.jpg,Dog: pomeranian,25,2,17
+staffordshire_bull_terrier_67.jpg,Dog: staffordshire bull terrier,35,2,23
+staffordshire_bull_terrier_158.jpg,Dog: staffordshire bull terrier,35,2,23
+yorkshire_terrier_87.jpg,Dog: yorkshire terrier,37,2,25
+english_cocker_spaniel_142.jpg,Dog: english cocker spaniel,13,2,7
+British_Shorthair_114.jpg,Cat: british shorthair,10,1,5
+Russian_Blue_61.jpg,Cat: russian blue,28,1,10
+wheaten_terrier_128.jpg,Dog: wheaten terrier,36,2,24
+Russian_Blue_80.jpg,Cat: russian blue,28,1,10
+Siamese_234.jpg,Cat: siamese,33,1,11
+beagle_115.jpg,Dog: beagle,5,2,4
+samoyed_50.jpg,Dog: samoyed,30,2,20
+keeshond_15.jpg,Dog: keeshond,19,2,13
+Birman_41.jpg,Cat: birman,7,1,3
+boxer_185.jpg,Dog: boxer,9,2,5
+staffordshire_bull_terrier_105.jpg,Dog: staffordshire bull terrier,35,2,23
+pug_92.jpg,Dog: pug,26,2,18
+Egyptian_Mau_21.jpg,Cat: egyptian mau,12,1,6
+pug_24.jpg,Dog: pug,26,2,18
+Siamese_151.jpg,Cat: siamese,33,1,11
+Sphynx_234.jpg,Cat: sphynx,34,1,12
+saint_bernard_21.jpg,Dog: saint bernard,29,2,19
+english_cocker_spaniel_6.jpg,Dog: english cocker spaniel,13,2,7
+boxer_189.jpg,Dog: boxer,9,2,5
+scottish_terrier_79.jpg,Dog: scottish terrier,31,2,21
+american_pit_bull_terrier_201.jpg,Dog: american pit bull terrier,3,2,2
+Sphynx_185.jpg,Cat: sphynx,34,1,12
+japanese_chin_8.jpg,Dog: japanese chin,18,2,12
+Birman_25.jpg,Cat: birman,7,1,3
+saint_bernard_159.jpg,Dog: saint bernard,29,2,19
+Siamese_109.jpg,Cat: siamese,33,1,11
+Sphynx_206.jpg,Cat: sphynx,34,1,12
+Bengal_96.jpg,Cat: bengal,6,1,2
+British_Shorthair_156.jpg,Cat: british shorthair,10,1,5
+miniature_pinscher_155.jpg,Dog: miniature pinscher,22,2,15
+Maine_Coon_119.jpg,Cat: maine coon,21,1,7
+keeshond_96.jpg,Dog: keeshond,19,2,13
+american_pit_bull_terrier_123.jpg,Dog: american pit bull terrier,3,2,2
+english_setter_74.jpg,Dog: english setter,14,2,8
+german_shorthaired_60.jpg,Dog: german shorthaired,15,2,9
+Maine_Coon_60.jpg,Cat: maine coon,21,1,7
+leonberger_155.jpg,Dog: leonberger,20,2,14
+beagle_204.jpg,Dog: beagle,5,2,4
+keeshond_125.jpg,Dog: keeshond,19,2,13
+yorkshire_terrier_198.jpg,Dog: yorkshire terrier,37,2,25
+shiba_inu_76.jpg,Dog: shiba inu,32,2,22
+english_cocker_spaniel_168.jpg,Dog: english cocker spaniel,13,2,7
+newfoundland_189.jpg,Dog: newfoundland,23,2,16
+Ragdoll_162.jpg,Cat: ragdoll,27,1,9
+japanese_chin_146.jpg,Dog: japanese chin,18,2,12
+pomeranian_54.jpg,Dog: pomeranian,25,2,17
+english_cocker_spaniel_70.jpg,Dog: english cocker spaniel,13,2,7
+shiba_inu_174.jpg,Dog: shiba inu,32,2,22
+american_bulldog_132.jpg,Dog: american bulldog,2,2,1
+basset_hound_158.jpg,Dog: basset hound,4,2,3
+beagle_10.jpg,Dog: beagle,5,2,4
+Abyssinian_73.jpg,Cat: abyssinian,1,1,1
+havanese_134.jpg,Dog: havanese,17,2,11
+basset_hound_86.jpg,Dog: basset hound,4,2,3
+german_shorthaired_16.jpg,Dog: german shorthaired,15,2,9
+keeshond_122.jpg,Dog: keeshond,19,2,13
+Ragdoll_116.jpg,Cat: ragdoll,27,1,9
+basset_hound_22.jpg,Dog: basset hound,4,2,3
+yorkshire_terrier_45.jpg,Dog: yorkshire terrier,37,2,25
+Bombay_37.jpg,Cat: bombay,8,1,4
+leonberger_130.jpg,Dog: leonberger,20,2,14
+staffordshire_bull_terrier_31.jpg,Dog: staffordshire bull terrier,35,2,23
+Persian_174.jpg,Cat: persian,24,1,8
+miniature_pinscher_165.jpg,Dog: miniature pinscher,22,2,15
+shiba_inu_119.jpg,Dog: shiba inu,32,2,22
+leonberger_143.jpg,Dog: leonberger,20,2,14
+Abyssinian_168.jpg,Cat: abyssinian,1,1,1
+Abyssinian_159.jpg,Cat: abyssinian,1,1,1
+japanese_chin_123.jpg,Dog: japanese chin,18,2,12
+Sphynx_59.jpg,Cat: sphynx,34,1,12
+pug_45.jpg,Dog: pug,26,2,18
+newfoundland_6.jpg,Dog: newfoundland,23,2,16
+Bengal_11.jpg,Cat: bengal,6,1,2
+Maine_Coon_159.jpg,Cat: maine coon,21,1,7
+yorkshire_terrier_5.jpg,Dog: yorkshire terrier,37,2,25
+Persian_259.jpg,Cat: persian,24,1,8
+shiba_inu_137.jpg,Dog: shiba inu,32,2,22
+Bengal_107.jpg,Cat: bengal,6,1,2
+Persian_88.jpg,Cat: persian,24,1,8
+german_shorthaired_20.jpg,Dog: german shorthaired,15,2,9
+basset_hound_134.jpg,Dog: basset hound,4,2,3
+american_bulldog_122.jpg,Dog: american bulldog,2,2,1
+Abyssinian_201.jpg,Cat: abyssinian,1,1,1
+beagle_192.jpg,Dog: beagle,5,2,4
+Ragdoll_254.jpg,Cat: ragdoll,27,1,9
+miniature_pinscher_52.jpg,Dog: miniature pinscher,22,2,15
+yorkshire_terrier_7.jpg,Dog: yorkshire terrier,37,2,25
+Siamese_198.jpg,Cat: siamese,33,1,11
+chihuahua_76.jpg,Dog: chihuahua,11,2,6
+samoyed_3.jpg,Dog: samoyed,30,2,20
+Birman_78.jpg,Cat: birman,7,1,3
+american_pit_bull_terrier_167.jpg,Dog: american pit bull terrier,3,2,2
+newfoundland_157.jpg,Dog: newfoundland,23,2,16
+german_shorthaired_91.jpg,Dog: german shorthaired,15,2,9
+pomeranian_165.jpg,Dog: pomeranian,25,2,17
+miniature_pinscher_171.jpg,Dog: miniature pinscher,22,2,15
+pomeranian_117.jpg,Dog: pomeranian,25,2,17
+basset_hound_167.jpg,Dog: basset hound,4,2,3
+Bombay_167.jpg,Cat: bombay,8,1,4
+american_bulldog_201.jpg,Dog: american bulldog,2,2,1
+english_cocker_spaniel_172.jpg,Dog: english cocker spaniel,13,2,7
+staffordshire_bull_terrier_50.jpg,Dog: staffordshire bull terrier,35,2,23
+american_pit_bull_terrier_22.jpg,Dog: american pit bull terrier,3,2,2
+chihuahua_54.jpg,Dog: chihuahua,11,2,6
+leonberger_153.jpg,Dog: leonberger,20,2,14
+Abyssinian_52.jpg,Cat: abyssinian,1,1,1
+shiba_inu_52.jpg,Dog: shiba inu,32,2,22
+german_shorthaired_44.jpg,Dog: german shorthaired,15,2,9
+samoyed_16.jpg,Dog: samoyed,30,2,20
+american_bulldog_81.jpg,Dog: american bulldog,2,2,1
+shiba_inu_39.jpg,Dog: shiba inu,32,2,22
+Abyssinian_219.jpg,Cat: abyssinian,1,1,1
+keeshond_85.jpg,Dog: keeshond,19,2,13
+beagle_127.jpg,Dog: beagle,5,2,4
+scottish_terrier_86.jpg,Dog: scottish terrier,31,2,21
+yorkshire_terrier_100.jpg,Dog: yorkshire terrier,37,2,25
+wheaten_terrier_190.jpg,Dog: wheaten terrier,36,2,24
+american_bulldog_96.jpg,Dog: american bulldog,2,2,1
+saint_bernard_61.jpg,Dog: saint bernard,29,2,19
+boxer_133.jpg,Dog: boxer,9,2,5
+Bombay_65.jpg,Cat: bombay,8,1,4
+shiba_inu_207.jpg,Dog: shiba inu,32,2,22
+english_setter_151.jpg,Dog: english setter,14,2,8
+english_setter_85.jpg,Dog: english setter,14,2,8
+shiba_inu_14.jpg,Dog: shiba inu,32,2,22
+english_setter_61.jpg,Dog: english setter,14,2,8
+american_bulldog_33.jpg,Dog: american bulldog,2,2,1
+shiba_inu_141.jpg,Dog: shiba inu,32,2,22
+staffordshire_bull_terrier_92.jpg,Dog: staffordshire bull terrier,35,2,23
+great_pyrenees_45.jpg,Dog: great pyrenees,16,2,10
+yorkshire_terrier_10.jpg,Dog: yorkshire terrier,37,2,25
+boxer_154.jpg,Dog: boxer,9,2,5
+yorkshire_terrier_80.jpg,Dog: yorkshire terrier,37,2,25
+great_pyrenees_30.jpg,Dog: great pyrenees,16,2,10
+Maine_Coon_64.jpg,Cat: maine coon,21,1,7
+Bengal_50.jpg,Cat: bengal,6,1,2
+Abyssinian_126.jpg,Cat: abyssinian,1,1,1
+scottish_terrier_75.jpg,Dog: scottish terrier,31,2,21
+Birman_107.jpg,Cat: birman,7,1,3
+pug_108.jpg,Dog: pug,26,2,18
+keeshond_195.jpg,Dog: keeshond,19,2,13
+British_Shorthair_72.jpg,Cat: british shorthair,10,1,5
+keeshond_101.jpg,Dog: keeshond,19,2,13
+Bombay_15.jpg,Cat: bombay,8,1,4
+keeshond_60.jpg,Dog: keeshond,19,2,13
+american_pit_bull_terrier_153.jpg,Dog: american pit bull terrier,3,2,2
+chihuahua_20.jpg,Dog: chihuahua,11,2,6
+Abyssinian_177.jpg,Cat: abyssinian,1,1,1
+Siamese_22.jpg,Cat: siamese,33,1,11
+Russian_Blue_136.jpg,Cat: russian blue,28,1,10
+Birman_74.jpg,Cat: birman,7,1,3
+german_shorthaired_149.jpg,Dog: german shorthaired,15,2,9
+japanese_chin_6.jpg,Dog: japanese chin,18,2,12
+miniature_pinscher_170.jpg,Dog: miniature pinscher,22,2,15
+american_pit_bull_terrier_76.jpg,Dog: american pit bull terrier,3,2,2
+Russian_Blue_153.jpg,Cat: russian blue,28,1,10
+miniature_pinscher_163.jpg,Dog: miniature pinscher,22,2,15
+miniature_pinscher_50.jpg,Dog: miniature pinscher,22,2,15
+beagle_37.jpg,Dog: beagle,5,2,4
+pomeranian_146.jpg,Dog: pomeranian,25,2,17
+Bengal_123.jpg,Cat: bengal,6,1,2
+samoyed_158.jpg,Dog: samoyed,30,2,20
+beagle_108.jpg,Dog: beagle,5,2,4
+Ragdoll_255.jpg,Cat: ragdoll,27,1,9
+Egyptian_Mau_36.jpg,Cat: egyptian mau,12,1,6
+english_setter_127.jpg,Dog: english setter,14,2,8
+samoyed_81.jpg,Dog: samoyed,30,2,20
+Abyssinian_145.jpg,Cat: abyssinian,1,1,1
+great_pyrenees_165.jpg,Dog: great pyrenees,16,2,10
+basset_hound_174.jpg,Dog: basset hound,4,2,3
+german_shorthaired_64.jpg,Dog: german shorthaired,15,2,9
+Birman_168.jpg,Cat: birman,7,1,3
+saint_bernard_63.jpg,Dog: saint bernard,29,2,19
+Birman_190.jpg,Cat: birman,7,1,3
+Ragdoll_259.jpg,Cat: ragdoll,27,1,9
+Persian_34.jpg,Cat: persian,24,1,8
+samoyed_101.jpg,Dog: samoyed,30,2,20
+beagle_16.jpg,Dog: beagle,5,2,4
+chihuahua_32.jpg,Dog: chihuahua,11,2,6
+german_shorthaired_86.jpg,Dog: german shorthaired,15,2,9
+wheaten_terrier_50.jpg,Dog: wheaten terrier,36,2,24
+keeshond_58.jpg,Dog: keeshond,19,2,13
+saint_bernard_146.jpg,Dog: saint bernard,29,2,19
+Maine_Coon_158.jpg,Cat: maine coon,21,1,7
+keeshond_108.jpg,Dog: keeshond,19,2,13
+staffordshire_bull_terrier_188.jpg,Dog: staffordshire bull terrier,35,2,23
+german_shorthaired_195.jpg,Dog: german shorthaired,15,2,9
+pomeranian_13.jpg,Dog: pomeranian,25,2,17
+miniature_pinscher_127.jpg,Dog: miniature pinscher,22,2,15
+american_pit_bull_terrier_156.jpg,Dog: american pit bull terrier,3,2,2
+leonberger_95.jpg,Dog: leonberger,20,2,14
+Abyssinian_193.jpg,Cat: abyssinian,1,1,1
+japanese_chin_42.jpg,Dog: japanese chin,18,2,12
+american_pit_bull_terrier_171.jpg,Dog: american pit bull terrier,3,2,2
+Maine_Coon_194.jpg,Cat: maine coon,21,1,7

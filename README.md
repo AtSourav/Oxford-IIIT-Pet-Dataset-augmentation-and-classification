@@ -1,6 +1,6 @@
 # Oxford-IIIT-Pet-Dataset-augmentation-and-classification
 
-We take the Oxford-IIIT Pet Dataset, made available under a  [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/), create an enlarged dataset with data augmentation, and then train some CNNs on this dataset. 
+We take the Oxford-IIIT Pet Dataset, made available under a  [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/), create an enlarged dataset with data augmentation, and then train some CNNs on this dataset using pytorch. 
 
 (include the best results)
 
@@ -37,5 +37,25 @@ Using all the original and augmented sets of images we create different datasets
 7. **Set B2**: This is just like the set B1 but with a larger training set with about 480 images per class in it. The train:valid:test ratio is around 92:5:3.
 
 ### Experiments
+
+We mostly tried CNNs with 4-7 convolutional layers and one dense layer at the end (with batch normalization, dropout, and L2 regularization). In a few cases we tried to use two dense layers but this didn't improve the results. And we prefer to stick to convolutional layers as they are lighter than dense layers. The most successful model in all cases was the one with 6 conv layers and one dense layer. We used a minibatch size of 64, and used the Adam optimizer on the NLL loss function.
+
+Overall, the validation set performance (in terms of loss and accuracy) always seems to saturate at some value and remains mostly constant with further training. The saturation values seems to improve upon choosing a larger training set. If trained for long enough (and unless the regularization is too strong), the model can always overfit the training data. We don't present the learning curve for each and every experiment here, but they are similar to the ones in the notebooks trainB1.ipynb, trainB2.ipynb, and trainL.ipynb, with different saturation values that we summarize below. The initialization of weights was random, and different runs on the same model sometimes came up with slightly different results.
+
+Increasing the regularization did not in general improve the saturation value for the accuracy on the validation set. Mostly it slowed the learning process on the training set (and in some cases caused the training set accuracy to saturate as well), but it didn't really improve performance on the validation set. This seems to suggest that the problem is that the training set doesn't represent the validation set very well, and we need a better and larger dataset to obtain better results on this problem.
+
+Let's summarize the different experiments and the results here:
+
+1. **Set r1**: Trained CNNs with 4-7 conv layers, with best results obtained with 6 conv layers and one dense layer (almost exactly as in the notebook trainL.ipynb) with a max validation accuracy of ~40%. We also tried with two or three dense layers but it didn't help improve results.
+
+2. **Set r2**: Trained on a model with 6 conv layers and one dense layer (suggested by results from set r1), and obtained a max validation accuracy of ~37%.
+
+3. **Set r3**: Similar results as r2. We can conclude that for a training set of this size, the proportion of original images to alpha matted images did not make a difference significant enough for us to be able to draw any conclusions.
+
+4. **Set O**: The 6 conv layer network had a max performance of ~35% on the validation set.
+
+5. **Set L**: Obtained a max validation accuracy of ~47% using the 6 conv 1 dense layer network.
+
+6. 
 
 

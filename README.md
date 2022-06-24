@@ -22,14 +22,16 @@ As the images in the dataset are not of a uniform size (or aspect ratio), we res
 
 Using all the original and augmented sets of images we create different datasets for training (and validation, testing), so we can compare the performance of the model trained on the different datasets too. The datasets are different in total size, train:validation:test ratios, and also in the proportion of augmented images used. The validation and the test sets are always composed entirely of the original images (cropped and resized). We save the annotations for these different datasets externally in the form of a csv file. These annotation files are contained in the folder annotations_aug/. There is a csv file for the train, valid, and test set in each case (evident from the file names). Let's summarize the different datasets below, the details are present in the notebook datasets.ipynb (not necessarily in the order they're presented here):
 
-1. annotations_train_O.csv : This is composed entirely of the original images. There are 7390 images in total, and the train:valid:test ratio is roughly like 85:10:5. There are around 180 images per class in the training set. The corresponding validation and test set files are named annotations_valid_O.csv and annotations_test_O.csv respectively.
+1. **Set O**: This is composed entirely of the original images. There are 7390 images in total, and the train:valid:test ratio is roughly like 85:10:5. There are around 180 images per class in the training set. The annotation files are named annotations_train_O.csv, annotations_valid_O.csv, and annotations_test_O.csv respectively.
 
-2. annotations_train_r1.csv : This is composed of the original and alpha matted images only, roughly in the ratio 3:2. There are approximately 190 images per class in the training set, and the train:valid:test ratio is roughly like 70:15:15. The validation and test set (which are the same for the sets r2 and r3 listed below) annotation files are named annotations_valid.csv and annotations_test.csv respectively.
+2. **Set r1**: This is composed of the original and alpha matted images only, roughly in the ratio 3:2. There are approximately 190 images per class in the training set, and the train:valid:test ratio is roughly like 70:15:15. The annotations file for the training set is named annotations_train_r1.csv. The validation and test set (which are the same for the sets r2 and r3 listed below) annotation files are named annotations_valid.csv and annotations_test.csv respectively.
 
-3. annotations_train_r2.csv : It's just like the set r1 with the ratio of original to alpha matted images being around 1:1.
+3. **Set r2**: It's just like the set r1 with the ratio of original to alpha matted images being around 1:1.
 
-4. annotations_train_r3.csv : Similar to sets r1 and r2, the ratio of original to alpha matted images is now 2:3 approximately.
+4. **Set r2**: Similar to sets r1 and r2, the ratio of original to alpha matted images is now 2:3 approximately.
 
-5. annotations_train_Lall.csv : This set is also composed from the original and alpha matted images only but has a larger training set. The train:valid:test ratio is now around 89:7:4 with roughly 320 images per class in the training set. The validation and test set annotation files are named annotations_valid_L.csv and annotations_test_L.csv respectively.
+5. **Set L**:  : This set is also composed from the original and alpha matted images only but has a larger training set. The train:valid:test ratio is now around 89:7:4 with roughly 320 images per class in the training set. The annotations for the training set are contained in annotations_train_Lall.csv, while the validation and test set annotation files are named annotations_valid_L.csv and annotations_test_L.csv respectively.
 
-6.   
+6. **Set B1**: This is composed of the original, alpha matted, and the otherwise transformed new images in equal proportions with roughly 450 images per class in the training set. The train:valid:test ratio is approximately 90:6:4. The training set annotations file is called annotations_train_B1.csv and the corresponding files for the validation and test sets are named accordingly.
+
+7. **Set B2**: This is just like the set B1 but with a larger training set with about 480 images per class in it. The train:valid:test ratio is around 92:5:3.

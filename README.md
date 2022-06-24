@@ -56,6 +56,8 @@ Let's summarize the different experiments and the results here:
 
 5. **Set L**: Obtained a max validation accuracy of ~47% using the 6 conv 1 dense layer network.
 
-6. 
+6. **Set B1**: Obtained a max validation accuracy of ~54% using the 6 conv 1 dense layer network. Needed to use weaker regularization than the ones above for the model to overfit on the training set (probably coz the training set is noisy already from the transforms used in the augmented images). Also used learning rate decay to smoothen the learning curves that were highly oscillatory otherwise. Also tried using a different number of conv layers as mentioned above but performance was always worse. 
+
+7. **Set B2**: This is the largest training set of all, and the observations are similar to the ones made with the set B1. The max validation accuracy obtained (with the same model as above) was ~57%.
 
 

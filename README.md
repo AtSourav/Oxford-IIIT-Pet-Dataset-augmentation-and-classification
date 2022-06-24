@@ -35,3 +35,7 @@ Using all the original and augmented sets of images we create different datasets
 6. **Set B1**: This is composed of the original, alpha matted, and the otherwise transformed new images in equal proportions with roughly 450 images per class in the training set. The train:valid:test ratio is approximately 90:6:4. The training set annotations file is called annotations_train_B1.csv and the corresponding files for the validation and test sets are named accordingly.
 
 7. **Set B2**: This is just like the set B1 but with a larger training set with about 480 images per class in it. The train:valid:test ratio is around 92:5:3.
+
+### Experiments
+
+

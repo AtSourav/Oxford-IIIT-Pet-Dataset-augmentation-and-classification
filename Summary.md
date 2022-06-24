@@ -2,7 +2,7 @@
 
 We take the Oxford-IIIT Pet Dataset, made available under a  [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/), create an enlarged dataset with data augmentation, and then train some CNNs on this dataset using pytorch. 
 
-(include the best results, mention svm results for comparison)
+We saved a few models based on the validation set performance and the best numbers for test set accuracy are around 50-52%. This is of course far from satisfactory and transfer learning on a better dataset is probably a good direction to try out in the future. 
 
 ### Dataset
 
@@ -60,4 +60,24 @@ Let's summarize the different experiments and the results here:
 
 7. **Set B2**: This is the largest training set of all, and the observations are similar to the ones made with the set B1. The max validation accuracy obtained (with the same model as above) was ~57%.
 
+### SVM
 
+We also trained an SVM model on dataset r1 using SVC from the svm module of sklearn just to compare with the CNN models. We obtained a training accuracy of ~40% and a validation accuracy of ~7% only.
+
+### Best results
+
+Based on the experiments above, we saved some models trained on the datasets B1, B2, and L. These are saved in the folder models/. For each dataset, we just saved the five best models (in terms of validation set accuracy) during a training run over a certain number of epochs. Since the learning curve for the validation set plateaued after certain iterations, these saved models are all from this plateau phase and correspond to different values for the training accuracy. We checked if there was a noticeable drop in the test set performance in the models that had overfit to the training data to a greater degree but that doesn't seem to be the case.
+
+The saved models are named after the dataset and the iteration at which they were saved during the training process. We also plotted the confusion matrix for one of the models for each dataset. These are also saved in the folder models/.
+
+1. **Set L**: The saved models have a validation accuracy around 46-47% while the training accuracy is around 85-88%. The test set accuracy is around 40-42%. Refer to the notebook trainL.ipynb for more details.
+
+2. **Set B1**: In this case the validation accuracy for the saved models is around 55-56% while the training accuracy is around 94-96%. The test set accuracy is around 50%. Refer to the notebook trainB1.ipynb for details. In this case the models were actually saved after the model had plateaued on the validation set for quite a while, this however doesn't seem to have hurt the test set performance (relative to the validation set performace) all that much.
+
+3. **Set B2**: The saved models have validation accuracies ranging from 56-57% approx, while the training accuracy ranges from 89-97%. The test set performances ranged between 47-52% roughly. Refer to the notebook trainB2.ipynb for details.
+
+The heatmap plotted on the confusion matrices have a bright diagonal indicating that the models have clearly learnt to identify the classes. However they often can't distinguish certain classes and performance is far from satisfactory.
+
+### Future directions
+
+Based on the results obtained as described, it is clear that we need a bigger and better dataset for this problem. In addition to this transfer learning is probably the way to go forward. 

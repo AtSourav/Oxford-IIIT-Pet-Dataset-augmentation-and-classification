@@ -1,8 +1,8 @@
 # Oxford-IIIT-Pet-Dataset-augmentation-and-classification
 
-We take the [Oxford-IIIT Pet Dataset](https://www.robots.ox.ac.uk/~vgg/data/pets/), made available under a  [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/), create an enlarged dataset with data augmentation, and then train some CNNs on this dataset using pytorch. 
+We take the [Oxford-IIIT Pet Dataset](https://www.robots.ox.ac.uk/~vgg/data/pets/), made available under a  [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/), create an enlarged dataset with data augmentation, and then train some simple CNNs on this dataset using pytorch. 
 
-We saved a few models based on the validation set performance and the best numbers for test set accuracy are around 50-52%. This is of course far from satisfactory and transfer learning on a better dataset is probably a good direction to try out in the future. 
+We saved a few models (6 convolutional layers and one dense layer) based on the validation set performance and the best numbers for test set accuracy are around 50-52%. This is of course far from satisfactory and transfer learning on a better dataset is probably a better direction to try out in the future. 
 
 ### Dataset
 

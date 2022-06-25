@@ -76,7 +76,9 @@ The saved models are named after the dataset and the iteration at which they wer
 
 3. **Set B2**: The saved models have validation accuracies ranging from 56-57% approx, while the training accuracy ranges from 89-97%. The test set performances ranged between 47-52% roughly. Refer to the notebook trainB2.ipynb for details.
 
-The heatmap plotted on the confusion matrices have a bright diagonal indicating that the models have clearly learnt to identify the classes. However they often can't distinguish certain classes and performance is far from satisfactory.
+The heatmap plotted on the confusion matrices have a bright diagonal indicating that the models have clearly learnt to identify the classes. However they often can't distinguish certain classes and performance is far from satisfactory. The following is the test set confusion matrix for the model B2_4675 (B2 is the dataset, and 4675 is the iteration at which it was saved).
+
+![Confusion matrix for model B2_4675, test set accuracy ~52%](/models/B2/cf_matrix_B2_4675.jpg)
 
 ### Future directions
 

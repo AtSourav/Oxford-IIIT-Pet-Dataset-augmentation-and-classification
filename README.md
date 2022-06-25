@@ -2,7 +2,7 @@
 
 We take the [Oxford-IIIT Pet Dataset](https://www.robots.ox.ac.uk/~vgg/data/pets/), made available under a  [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/), create an enlarged dataset with data augmentation, and then train some simple CNNs on this dataset using pytorch. 
 
-We saved a few models (6 convolutional layers and one dense layer) based on the validation set performance and the best numbers for test set accuracy are around 50-52%. This is of course far from satisfactory and transfer learning on a better dataset is probably a better direction to try out in the future. 
+We saved a few models (6 convolutional layers and one dense layer) based on the validation set performance and the best numbers for test set accuracy are around 50-52%. This is of course far from satisfactory and better results exist for this dataset.Transfer learning on an improved version of the augmented dataset is a direction we would like to try out in the future. 
 
 ### Dataset
 
@@ -82,4 +82,4 @@ The heatmap plotted on the confusion matrices have a bright diagonal indicating 
 
 ### Future directions
 
-Based on the results obtained as described, it is clear that we need a bigger and better dataset for this problem. In addition to this transfer learning is probably the way to go forward. 
+There exist better results on this dataset with more complicated models. We would like to try out transfer learning on an improved version of this augmented dataset in the future.
